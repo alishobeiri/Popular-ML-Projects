@@ -26,6 +26,8 @@ jobs:
       env:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
+        CLIENTID: ${{ secrets.CLIENTID }}
+        SECRET: ${{ secrets.SECRET }}
       run: |
         python latest_papers.py
 
