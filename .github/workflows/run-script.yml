@@ -28,7 +28,7 @@ jobs:
 
     - name: Run script
       env:
-        USERNAME: ${{ secrets.USERNAME }}
+        REDDIT_USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
         CLIENTID: ${{ secrets.CLIENTID }}
         SECRET: ${{ secrets.SECRET }}
