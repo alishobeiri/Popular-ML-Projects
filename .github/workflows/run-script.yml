@@ -38,8 +38,6 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
-        git remote set-url origin https://x-access-token:${GH_PAT}@github.com/alishobeiri/Popular-Reddit-ML-Papers.git  # Replace OWNER and REPO with the appropriate values
-        git remote -v  # Print the remote URL to the console for debugging
         git add .
         git commit -m "Update results from latest_papers.py script" || echo "No changes to commit"
-        git push
+        git push https://x-access-token:${GH_PAT}@github.com/alishobeiri/Popular-Reddit-ML-Papers.git HEAD:main
