@@ -1,5 +1,0 @@
-| title                                                                                                                 | paper_url                            |   score | date                |
-|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [D] Can Hierarchical Transformers Improve Long-Range Logic Reasoning in LMs?                                          | https://arxiv.org/pdf/2110.13711.pdf |     176 | 2023-04-05 04:10:21 |
-| [R] DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model (CVPR 2023) | https://arxiv.org/abs/2211.16374     |      77 | 2023-04-04 16:33:26 |
-| [R] AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models                                       | https://arxiv.org/abs/2304.00830     |      54 | 2023-04-04 09:26:29 |
