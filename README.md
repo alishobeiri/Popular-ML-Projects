@@ -1,4 +1,10 @@
-| title                                                                                              | paper_url                                 |   score | date                |
-|:---------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation | https://arxiv.org/abs/2206.02777          |      35 | 2023-04-17 08:10:12 |
-| [R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation | https://github.com/IDEA-Research/MaskDINO |      35 | 2023-04-17 08:10:12 |
+| title                                                                                              | url                                          |   score | date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://arxiv.org/abs/2304.06767             |      27 | 2023-04-17 16:25:20 |
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://arxiv.org/abs/2304.06767             |      27 | 2023-04-17 16:25:20 |
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://github.com/OptimalScale/LMFlow       |      27 | 2023-04-17 16:25:20 |
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://github.com/OptimalScale/LMFlow       |      27 | 2023-04-17 16:25:20 |
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://github.com/tatsu-lab/stanford_alpaca |      27 | 2023-04-17 16:25:20 |
+| [R] Foundation Model Alignment with RAFT🛶 in LMFlow                                                | https://github.com/lm-sys/FastChat           |      27 | 2023-04-17 16:25:20 |
+| [R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation | https://arxiv.org/abs/2206.02777             |      43 | 2023-04-17 08:10:12 |
+| [R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation | https://github.com/IDEA-Research/MaskDINO    |      43 | 2023-04-17 08:10:12 |
