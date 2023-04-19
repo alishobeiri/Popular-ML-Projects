@@ -108,10 +108,10 @@ for post in res.json()['data']['children']:
 df = pd.DataFrame(out)
 
 # Create a mask to identify rows where the title is the same as the previous row
-mask = df['title'].duplicated(keep='first')
+mask = df['Title'].duplicated(keep='first')
 
 # Replace the titles in the masked rows with empty strings
-df.loc[mask, 'title'] = ''
+df.loc[mask, 'Title'] = ''
 
 df.sort_values(by='score', ascending=False)
 
