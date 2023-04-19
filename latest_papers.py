@@ -99,14 +99,21 @@ for post in res.json()['data']['children']:
         # append relevant data to dataframe
         if _post['score'] > SCORE_FILTER:
             out.append({
-                    'title': _post['title'],
-                    'url': url,
-                    'score': _post['score'],
-                    'date': datetime.datetime.utcfromtimestamp(_post['created_utc'])
+                    'Title': _post['title'],
+                    'URL': url,
+                    'Score': _post['score'],
+                    'Date': datetime.datetime.utcfromtimestamp(_post['created_utc'])
             })
 
-
 df = pd.DataFrame(out)
+
+# Create a mask to identify rows where the title is the same as the previous row
+mask = df['title'].duplicated(keep='first')
+
+# Replace the titles in the masked rows with empty strings
+df.loc[mask, 'title'] = ''
+
+df.sort_values(by='score', ascending=False)
 
 # Save markdown string to file
 with open('README.md', 'w') as f:
