@@ -107,15 +107,15 @@ for post in res.json()['data']['children']:
 
 df = pd.DataFrame(out)
 
-# Create a mask to identify rows where the title is the same as the previous row
-mask = df['Title'].duplicated(keep='first')
+df = df.drop_duplicates(subset='URL', keep='first')
 
-# Replace the titles in the masked rows with empty strings
-df.loc[mask, 'Title'] = ''
+df = df.groupby('Title').agg({
+    'URL': '\n'.join,
+    'Score': 'first',  # Keep the first score in each group
+    'Date': 'first'    # Keep the first date in each group
+}).reset_index()
 
-df.sort_values(by='Score', ascending=False)
-
-df.drop_duplicates(subset='URL', keep='first')
+df = df.sort_values(by='Score', ascending=False)
 
 # Save markdown string to file
 with open('README.md', 'w') as f:
