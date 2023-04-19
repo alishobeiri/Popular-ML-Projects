@@ -1,9 +1,5 @@
 title,url,score,date
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://arxiv.org/abs/2304.06767,27,2023-04-17 16:25:20
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://arxiv.org/abs/2304.06767,27,2023-04-17 16:25:20
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://github.com/OptimalScale/LMFlow,27,2023-04-17 16:25:20
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://github.com/OptimalScale/LMFlow,27,2023-04-17 16:25:20
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://github.com/tatsu-lab/stanford_alpaca,27,2023-04-17 16:25:20
-[R] Foundation Model Alignment with RAFT🛶 in LMFlow,https://github.com/lm-sys/FastChat,27,2023-04-17 16:25:20
-[R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,https://arxiv.org/abs/2206.02777,43,2023-04-17 08:10:12
-[R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,https://github.com/IDEA-Research/MaskDINO,43,2023-04-17 08:10:12
+[P] colab-tunnel: Connect to Google Colab VM locally from VSCode,https://github.com/amitness/colab-tunnel,136,2023-04-18 13:25:34
+[P] FastLoRAChat Instruct-tune LLaMA on consumer hardware with shareGPT data,https://github.com/bupticybee/FastLoRAChat,103,2023-04-18 07:46:29
+[P] FastLoRAChat Instruct-tune LLaMA on consumer hardware with shareGPT data,https://github.com/tloen/alpaca-lora,103,2023-04-18 07:46:29
+[P] FastLoRAChat Instruct-tune LLaMA on consumer hardware with shareGPT data,https://github.com/lm-sys/FastChat,103,2023-04-18 07:46:29
