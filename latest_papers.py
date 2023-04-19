@@ -115,6 +115,8 @@ df.loc[mask, 'Title'] = ''
 
 df.sort_values(by='Score', ascending=False)
 
+df.drop_duplicates(subset='URL', keep='first')
+
 # Save markdown string to file
 with open('README.md', 'w') as f:
     df.to_markdown(f, index=False)
