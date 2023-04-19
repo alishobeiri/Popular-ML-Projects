@@ -113,7 +113,7 @@ mask = df['Title'].duplicated(keep='first')
 # Replace the titles in the masked rows with empty strings
 df.loc[mask, 'Title'] = ''
 
-df.sort_values(by='score', ascending=False)
+df.sort_values(by='Score', ascending=False)
 
 # Save markdown string to file
 with open('README.md', 'w') as f:
