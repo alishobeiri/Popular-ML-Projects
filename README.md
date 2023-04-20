@@ -1,6 +1,6 @@
-| Title                                                                        | URL                                        |   Score | Date                |
-|:-----------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] colab-tunnel: Connect to Google Colab VM locally from VSCode             | https://github.com/amitness/colab-tunnel   |     152 | 2023-04-18 13:25:34 |
-| [P] FastLoRAChat Instruct-tune LLaMA on consumer hardware with shareGPT data | https://github.com/bupticybee/FastLoRAChat |     103 | 2023-04-18 07:46:29 |
-|                                                                              | https://github.com/tloen/alpaca-lora       |         |                     |
-|                                                                              | https://github.com/lm-sys/FastChat         |         |                     |
+| Title                                                                                               | URL                                              |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
+| [R] 🚀🧠 Introducing 3 New LoRA Models Trained with LLaMA on the OASST Dataset at 2048 seq length! 📊🔥 | https://github.com/serp-ai                       |     290 | 2023-04-19 02:34:59 |
+| [P] colab-tunnel: Connect to Google Colab VM locally from VSCode                                    | https://github.com/amitness/colab-tunnel         |     164 | 2023-04-18 13:25:34 |
+| [P] LoopGPT: A Modular Auto-GPT Framework                                                           | https://github.com/farizrahman4u/loopgpt         |      80 | 2023-04-19 09:21:07 |
+|                                                                                                     | https://github.com/Significant-Gravitas/Auto-GPT |         |                     |
