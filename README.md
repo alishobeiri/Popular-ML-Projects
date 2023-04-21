@@ -1,6 +1,5 @@
-| Title                                                                                               | URL                                              |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
-| [R] 🚀🧠 Introducing 3 New LoRA Models Trained with LLaMA on the OASST Dataset at 2048 seq length! 📊🔥 | https://github.com/serp-ai                       |     290 | 2023-04-19 02:34:59 |
-| [P] colab-tunnel: Connect to Google Colab VM locally from VSCode                                    | https://github.com/amitness/colab-tunnel         |     164 | 2023-04-18 13:25:34 |
-| [P] LoopGPT: A Modular Auto-GPT Framework                                                           | https://github.com/farizrahman4u/loopgpt         |      80 | 2023-04-19 09:21:07 |
-|                                                                                                     | https://github.com/Significant-Gravitas/Auto-GPT |         |                     |
+| Title                                                                                        | URL                                                      |   Score | Date                |
+|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|:--------------------|
+| [R]Comprehensive List of Instruction Datasets for Training LLM Models (GPT-4 &amp; Beyond)   | https://github.com/yaodongC/awesome-instruction-dataset) |     119 | 2023-04-20 15:35:12 |
+|                                                                                              | https://github.com/yaodongC/awesome-instruction-dataset  |         |                     |
+| [P] LoRA adapter switching at runtime to enable Base model to inherit multiple personalities | https://github.com/PotatoSpudowski/fastLLaMa             |      62 | 2023-04-20 09:28:08 |
