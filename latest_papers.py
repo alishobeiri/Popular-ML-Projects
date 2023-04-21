@@ -94,7 +94,7 @@ for post in res.json()['data']['children']:
             })
 
     # search for the pattern in the string and extract the URL
-    github_urls = re.findall(r'\((https?://github\.com/\S+)\)', _post['selftext'])
+    github_urls = re.findall(r'\bhttps?://github\.com/\S+(?!\))', _post['selftext'])
     for url in github_urls:
         # append relevant data to dataframe
         if _post['score'] > SCORE_FILTER:
