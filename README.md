@@ -1,5 +1,4 @@
-| Title                                                                                                                  | URL                                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
-| [R] 🐶 Bark - Text2Speech...But with Custom Voice Cloning using your own audio/text samples 🎙️📝                         | https://github.com/serp-ai/bark-with-voice-clone |     748 | 2023-04-21 18:36:07 |
-|                                                                                                                        | https://github.com/serp-ai                       |         |                     |
-| [P] New samples from MUSE finetuned to generate Bach Fugues. Compare the original piece with what the model generated. | https://github.com/loua19/muse                   |      36 | 2023-04-21 13:40:07 |
+| Title                                                                                          | URL                                              |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
+| [R] 🐶 Bark - Text2Speech...But with Custom Voice Cloning using your own audio/text samples 🎙️📝 | https://github.com/serp-ai/bark-with-voice-clone |     768 | 2023-04-21 18:36:07 |
+|                                                                                                | https://github.com/serp-ai                       |         |                     |
