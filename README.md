@@ -1,4 +1,5 @@
-| Title                                                                                          | URL                                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
-| [R] 🐶 Bark - Text2Speech...But with Custom Voice Cloning using your own audio/text samples 🎙️📝 | https://github.com/serp-ai/bark-with-voice-clone |     768 | 2023-04-21 18:36:07 |
-|                                                                                                | https://github.com/serp-ai                       |         |                     |
+| Title                                                                                                                          | URL                                                          |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
+| [R] CodeCapybara: Another open source model for code generation based on instruction tuning, outperformed Llama and CodeAlpaca | https://github.com/AI4Code-Research/CodeCapybara             |      81 | 2023-04-24 14:07:28 |
+| [Project] godot-dodo - Finetuning LLaMA on single-language comment:code data pairs                                             | https://github.com/minosvasilias/godot-dodo                  |      27 | 2023-04-23 20:44:53 |
+|                                                                                                                                | https://github.com/minosvasilias/godot-dodo/tree/main/models |         |                     |
