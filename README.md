@@ -1,6 +1,9 @@
-| Title                                                                                             | URL                                                         |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------|:------------------------------------------------------------|--------:|:--------------------|
-| [N] Microsoft Releases SynapseMl v0.11 with support for ChatGPT, GPT-4, Causal Learning, and More | https://github.com/microsoft/SynapseML/releases/tag/v0.11.0 |     230 | 2023-04-25 17:45:33 |
-| [P] RWKV C++ Cuda library with no dependencies, no torch, and no python                           | https://github.com/harrisonvanderbyl/godot-rwkv             |     121 | 2023-04-26 04:38:51 |
-| [P] A High-Performance Audio Library for Machine Learning                                         | https://github.com/libAudioFlux/audioFlux                   |      36 | 2023-04-26 10:29:25 |
-|                                                                                                   | https://github.com/libAudioFlux/audioFlux/issues/22         |         |                     |
+| Title                                                     | URL                                                                                       |   Score | Date                |
+|:----------------------------------------------------------|:------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] Godot+RWKV standalone prebuilt binary (ubuntu/nvidia) | https://github.com/harrisonvanderbyl/godot-rwkv                                           |     157 | 2023-04-27 08:20:26 |
+|                                                           | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda                                        |         |                     |
+|                                                           | https://github.com/harrisonvanderbyl/godot-rwkv/actions/runs/4816463552                   |         |                     |
+|                                                           | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda/tree/main/converter                    |         |                     |
+|                                                           | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda/tree/main/include/rwkv/tokenizer/vocab |         |                     |
+| [P] A High-Performance Audio Library for Machine Learning | https://github.com/libAudioFlux/audioFlux                                                 |      43 | 2023-04-26 10:29:25 |
+|                                                           | https://github.com/libAudioFlux/audioFlux/issues/22                                       |         |                     |
