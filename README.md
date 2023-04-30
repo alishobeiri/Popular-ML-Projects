@@ -1,8 +1,3 @@
-| Title                                                                              | URL                                                                                       |   Score | Date                |
-|:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Godot+RWKV standalone prebuilt binary (ubuntu/nvidia)                          | https://github.com/harrisonvanderbyl/godot-rwkv                                           |     176 | 2023-04-27 08:20:26 |
-|                                                                                    | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda                                        |         |                     |
-|                                                                                    | https://github.com/harrisonvanderbyl/godot-rwkv/actions/runs/4816463552                   |         |                     |
-|                                                                                    | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda/tree/main/converter                    |         |                     |
-|                                                                                    | https://github.com/harrisonvanderbyl/rwkv-cpp-cuda/tree/main/include/rwkv/tokenizer/vocab |         |                     |
-| [P] We built an app that allows you to easily talk to your LLMs (or anything else) | https://github.com/sergeybok/BaseBot                                                      |      77 | 2023-04-28 16:10:02 |
+| Title                                                                              | URL                                  |   Score | Date                |
+|:-----------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [P] We built an app that allows you to easily talk to your LLMs (or anything else) | https://github.com/sergeybok/BaseBot |      98 | 2023-04-28 16:10:02 |
