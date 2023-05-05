@@ -1,6 +1,3 @@
-| Title                                                                         | URL                                       |   Score | Date                |
-|:------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [P] SoulsGym - Beating Dark Souls III Bosses with Deep Reinforcement Learning | https://github.com/amacati/SoulsGym       |     543 | 2023-05-01 16:21:24 |
-|                                                                               | https://github.com/amacati/SoulsAI        |         |                     |
-|                                                                               | https://github.com/wmvanvliet/scns        |         |                     |
-| [Research] An alternative to self-attention mechanism in GPT                  | https://github.com/hunar4321/reweight-gpt |     124 | 2023-05-01 18:30:32 |
+| Title                                                                                    | URL                              |   Score | Date                |
+|:-----------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Learning to Reason and Memorize with Self-Notes - Jack lanchantin et al Meta AI 2023 | https://arxiv.org/abs/2305.00833 |     151 | 2023-05-02 19:13:05 |
