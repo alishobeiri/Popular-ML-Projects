@@ -87,10 +87,10 @@ for post in res.json()['data']['children']:
         # append relevant data to dataframe
         if _post['score'] > SCORE_FILTER:
             out.append({
-                    'title': _post['title'],
-                    'url': url,
-                    'score': _post['score'],
-                    'date': datetime.datetime.utcfromtimestamp(_post['created_utc'])
+                    'Title': _post['title'],
+                    'URL': url,
+                    'Score': _post['score'],
+                    'Date': datetime.datetime.utcfromtimestamp(_post['created_utc'])
             })
 
     # search for the pattern in the string and extract the URL
