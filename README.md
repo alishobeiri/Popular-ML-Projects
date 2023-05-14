@@ -1,4 +1,6 @@
-| Title                                                                                                               | URL                                      |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [P] We've unified LLMs w/ vector memory + reranking &amp; pruning models in a single process for better performance | https://github.com/postgresml/postgresml |     198 | 2023-05-10 13:05:08 |
-| [P] A Large Language Model for Healthcare | NHS-LLM and OpenGPT                                                     | https://github.com/CogStack/opengpt      |      63 | 2023-05-10 15:59:47 |
+| Title                                                                             | URL                                                          |   Score | Date                |
+|:----------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
+| [P] New tokenization method improves LLM performance &amp; context-length by 25%+ | https://github.com/alasdairforsythe/tokenmonster             |     222 | 2023-05-13 10:03:28 |
+|                                                                                   | https://github.com/alasdairforsythe/tokenmonster#how-and-why |         |                     |
+| [R] DetGPT: Detect What You Need via Reasoning                                    | https://github.com/OptimalScale/DetGPT                       |     106 | 2023-05-12 22:39:24 |
+|                                                                                   | https://github.com/OptimalScale/LMFlow#model-zoo             |         |                     |
