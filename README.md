@@ -1,6 +1,9 @@
-| Title                                                                             | URL                                                          |   Score | Date                |
-|:----------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
-| [P] New tokenization method improves LLM performance &amp; context-length by 25%+ | https://github.com/alasdairforsythe/tokenmonster             |     222 | 2023-05-13 10:03:28 |
-|                                                                                   | https://github.com/alasdairforsythe/tokenmonster#how-and-why |         |                     |
-| [R] DetGPT: Detect What You Need via Reasoning                                    | https://github.com/OptimalScale/DetGPT                       |     106 | 2023-05-12 22:39:24 |
-|                                                                                   | https://github.com/OptimalScale/LMFlow#model-zoo             |         |                     |
+| Title                                                                                                                         | URL                                                          |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
+| [P] New tokenization method improves LLM performance &amp; context-length by 25%+                                             | https://github.com/alasdairforsythe/tokenmonster             |     279 | 2023-05-13 10:03:28 |
+|                                                                                                                               | https://github.com/alasdairforsythe/tokenmonster#how-and-why |         |                     |
+| [R] DetGPT: Detect What You Need via Reasoning                                                                                | https://github.com/OptimalScale/DetGPT                       |     113 | 2023-05-12 22:39:24 |
+|                                                                                                                               | https://github.com/OptimalScale/LMFlow#model-zoo             |         |                     |
+| [D] Prepared a Deep Voice Cloning tutorial by using TorToiSe TTS. Do you thin it is best available open source at the moment? | https://github.com/devilismyfriend/ozen-toolkit              |      33 | 2023-05-14 13:59:30 |
+|                                                                                                                               | https://github.com/152334H/DL-Art-School                     |         |                     |
+|                                                                                                                               | https://github.com/152334H/tortoise-tts-fast                 |         |                     |
