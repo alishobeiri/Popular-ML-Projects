@@ -1,8 +1,9 @@
 Title,URL,Score,Date
-[P] New tokenization method improves LLM performance &amp; context-length by 25%+,"https://github.com/alasdairforsythe/tokenmonster
-https://github.com/alasdairforsythe/tokenmonster#how-and-why",279,2023-05-13 10:03:28
-[R] DetGPT: Detect What You Need via Reasoning,"https://github.com/OptimalScale/DetGPT
-https://github.com/OptimalScale/LMFlow#model-zoo",113,2023-05-12 22:39:24
-[D] Prepared a Deep Voice Cloning tutorial by using TorToiSe TTS. Do you thin it is best available open source at the moment?,"https://github.com/devilismyfriend/ozen-toolkit
-https://github.com/152334H/DL-Art-School
-https://github.com/152334H/tortoise-tts-fast",33,2023-05-14 13:59:30
+[P] abstracts-search: A semantic search engine indexing 95 million academic publications,https://github.com/colonelwatch/abstracts-search,153,2023-05-15 20:27:43
+[R] We extracted training images from Midjourney,"https://arxiv.org/abs/2305.08694
+https://arxiv.org/abs/2301.13188
+https://arxiv.org/abs/2303.09540
+https://github.com/ryanwebster90/onestep-extraction
+https://github.com/ryanwebster90/onestep-extraction/assets/15658951/417e3ecd-b120-46bf-b930-e1019605f7d8
+https://github.com/ryanwebster90/onestep-extraction/assets/15658951/73ff9bdb-018b-4c12-9480-61f90e156584",67,2023-05-16 14:24:34
+[R] Meet Beaver-7B: a Constrained Value-Aligned LLM via Safe RLHF Technique,https://arxiv.org/abs/2205.01068,32,2023-05-15 17:20:24
