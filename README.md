@@ -1,10 +1,5 @@
-| Title                                                                                    | URL                                                                                                      |   Score | Date                |
-|:-----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] abstracts-search: A semantic search engine indexing 95 million academic publications | https://github.com/colonelwatch/abstracts-search                                                         |     153 | 2023-05-15 20:27:43 |
-| [R] We extracted training images from Midjourney                                         | https://arxiv.org/abs/2305.08694                                                                         |      67 | 2023-05-16 14:24:34 |
-|                                                                                          | https://arxiv.org/abs/2301.13188                                                                         |         |                     |
-|                                                                                          | https://arxiv.org/abs/2303.09540                                                                         |         |                     |
-|                                                                                          | https://github.com/ryanwebster90/onestep-extraction                                                      |         |                     |
-|                                                                                          | https://github.com/ryanwebster90/onestep-extraction/assets/15658951/417e3ecd-b120-46bf-b930-e1019605f7d8 |         |                     |
-|                                                                                          | https://github.com/ryanwebster90/onestep-extraction/assets/15658951/73ff9bdb-018b-4c12-9480-61f90e156584 |         |                     |
-| [R] Meet Beaver-7B: a Constrained Value-Aligned LLM via Safe RLHF Technique              | https://arxiv.org/abs/2205.01068                                                                         |      32 | 2023-05-15 17:20:24 |
+| Title                                                   | URL                                       |   Score | Date                |
+|:--------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [D] An ELI5 explanation for LoRA - Low-Rank Adaptation. | https://arxiv.org/abs/2106.09685          |      54 | 2023-05-19 20:45:33 |
+|                                                         | https://github.com/tloen/alpaca-lora      |         |                     |
+|                                                         | https://github.com/Lightning-AI/lit-llama |         |                     |
