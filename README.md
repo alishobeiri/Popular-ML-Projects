@@ -1,5 +1,4 @@
-| Title                                                   | URL                                       |   Score | Date                |
-|:--------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [D] An ELI5 explanation for LoRA - Low-Rank Adaptation. | https://arxiv.org/abs/2106.09685          |      54 | 2023-05-19 20:45:33 |
-|                                                         | https://github.com/tloen/alpaca-lora      |         |                     |
-|                                                         | https://github.com/Lightning-AI/lit-llama |         |                     |
+| Title                                                                                                                                   | URL                                     |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
+| [P] surv_ai: An Open Source Framework for Modeling and Comparative Analysis using AI Agents, Inspired by Classical Ensemble Classifiers | https://github.com/DanielBalsam/surv_ai |      64 | 2023-05-23 15:50:04 |
+| [R] RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text                                                                     | https://arxiv.org/abs/2305.13304        |      27 | 2023-05-23 14:41:17 |
