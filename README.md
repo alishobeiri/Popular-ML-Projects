@@ -1,3 +1,3 @@
-| Title                                                                           | URL                                |   Score | Date                |
-|:--------------------------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
-| [P] Offline reinforcement learning - 10x faster than SOTA with evolutionary HPO | https://github.com/AgileRL/AgileRL |      71 | 2023-05-24 09:48:18 |
+| Title                                                     | URL                                  |   Score | Date                |
+|:----------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Google DeepMind paper about AI's catastrophic risk AI | https://arxiv.org/pdf/2305.15324.pdf |      99 | 2023-05-26 20:17:01 |
