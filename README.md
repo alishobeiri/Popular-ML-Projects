@@ -1,7 +1,7 @@
-| Title                                                                                                  | URL                                                |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Fine-Tuning Language Models with Just Forward Passes                                               | https://arxiv.org/abs/2305.17333                   |     184 | 2023-05-31 09:03:27 |
-|                                                                                                        | https://github.com/princeton-nlp/mezo              |         |                     |
-| [N] (Update: Code Released) Landmark Attention: Random-Access Infinite Context Length for Transformers | https://arxiv.org/abs/2305.16300                   |      44 | 2023-05-31 08:56:37 |
-|                                                                                                        | https://github.com/epfml/landmark-attention        |         |                     |
-| [R] Research Trends in LLM-guided Multimodal Learning.                                                 | https://github.com/HenryHZY/Awesome-Multimodal-LLM |      34 | 2023-06-01 05:42:46 |
+| Title                                                                     | URL                                                         |   Score | Date                |
+|:--------------------------------------------------------------------------|:------------------------------------------------------------|--------:|:--------------------|
+| [R] Blockwise Parallel Transformer for Long Context Large Models          | https://arxiv.org/pdf/2305.19370.pdf                        |     136 | 2023-06-02 01:01:38 |
+| [P] langchain-huggingGPT                                                  | https://github.com/camille-vanhoffelen/langchain-huggingGPT |      83 | 2023-06-02 14:20:18 |
+| [R] Ambient Diffusion: Learning Clean Distributions from Corrupted Data   | https://arxiv.org/abs/2305.19256                            |      50 | 2023-06-02 02:26:09 |
+| [R] Bytes are all you need: Transformers operating directly on file bytes | https://arxiv.org/abs/2306.00238                            |      40 | 2023-06-02 16:50:36 |
+| [P] Datalab: A Linter for ML Datasets                                     | https://github.com/cleanlab/cleanlab                        |      35 | 2023-06-02 15:36:52 |
