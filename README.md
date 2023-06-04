@@ -1,7 +1,4 @@
-| Title                                                                     | URL                                                         |   Score | Date                |
-|:--------------------------------------------------------------------------|:------------------------------------------------------------|--------:|:--------------------|
-| [R] Blockwise Parallel Transformer for Long Context Large Models          | https://arxiv.org/pdf/2305.19370.pdf                        |     136 | 2023-06-02 01:01:38 |
-| [P] langchain-huggingGPT                                                  | https://github.com/camille-vanhoffelen/langchain-huggingGPT |      83 | 2023-06-02 14:20:18 |
-| [R] Ambient Diffusion: Learning Clean Distributions from Corrupted Data   | https://arxiv.org/abs/2305.19256                            |      50 | 2023-06-02 02:26:09 |
-| [R] Bytes are all you need: Transformers operating directly on file bytes | https://arxiv.org/abs/2306.00238                            |      40 | 2023-06-02 16:50:36 |
-| [P] Datalab: A Linter for ML Datasets                                     | https://github.com/cleanlab/cleanlab                        |      35 | 2023-06-02 15:36:52 |
+| Title                                                                                      | URL                              |   Score | Date                |
+|:-------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Paper Explained - RWKV: Reinventing RNNs for the Transformer Era (Full Video Analysis) | https://arxiv.org/abs/2305.13048 |     221 | 2023-06-02 22:43:42 |
+| [R] Bytes are all you need: Transformers operating directly on file bytes                  | https://arxiv.org/abs/2306.00238 |     100 | 2023-06-02 16:50:36 |
