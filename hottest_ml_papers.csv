@@ -1,3 +1,7 @@
 Title,URL,Score,Date
-[D] Paper Explained - RWKV: Reinventing RNNs for the Transformer Era (Full Video Analysis),https://arxiv.org/abs/2305.13048,221,2023-06-02 22:43:42
-[R] Bytes are all you need: Transformers operating directly on file bytes,https://arxiv.org/abs/2306.00238,100,2023-06-02 16:50:36
+[R] XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech,"https://arxiv.org/abs/2305.19709
+https://github.com/VinAIResearch/XPhoneBERT",59,2023-06-05 09:22:59
+[P] TokenMonster Ungreedy ~ 35% faster inference and 35% increased context-length for large language models (compared to tiktoken). Benchmarks included.,"https://github.com/alasdairforsythe/tokenmonster
+https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark
+https://github.com/alasdairforsythe/tokenmonster#prebuilt-vocabularies
+https://github.com/alasdairforsythe/tokenmonster#the-philosophy-of-tokenization",33,2023-06-04 13:46:05
