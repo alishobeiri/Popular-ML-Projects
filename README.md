@@ -1,18 +1,20 @@
-| Title                                                                                | URL                                                                        |   Score | Date                |
-|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|--------:|:--------------------|
-| [R] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression | https://arxiv.org/abs/2306.03078                                           |      81 | 2023-06-07 11:37:36 |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Dettmers%2C+T      |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Svirschevski%2C+R  |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Egiazarian%2C+V    |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Kuznedelev%2C+D    |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Frantar%2C+E       |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Ashkboos%2C+S      |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Borzunov%2C+A      |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Hoefler%2C+T       |         |                     |
-|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Alistarh%2C+D      |         |                     |
-|                                                                                      | https://github.com/vahe1994/spqr                                           |         |                     |
-|                                                                                      | https://github.com/ggerganov/llama.cpp/issues/1713#issuecomment-1579326771 |         |                     |
-| [D] Mathematics Degree and the Future of Machine Learning                            | https://arxiv.org/abs/2104.13478                                           |      41 | 2023-06-06 12:26:16 |
-|                                                                                      | https://arxiv.org/abs/1906.05212                                           |         |                     |
-|                                                                                      | https://arxiv.org/abs/1806.07572                                           |         |                     |
-|                                                                                      | https://arxiv.org/abs/1412.1193                                            |         |                     |
+| Title                                                                                | URL                                                                                 |   Score | Date                |
+|:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] 'Context is all you need' - Multimodal vector search with personalization        | https://arxiv.org/abs/2303.15343)                                                   |     136 | 2023-06-08 10:43:23 |
+|                                                                                      | https://arxiv.org/abs/2212.04089                                                    |         |                     |
+|                                                                                      | https://arxiv.org/abs/2109.01903)                                                   |         |                     |
+|                                                                                      | https://arxiv.org/abs/2101.00190)                                                   |         |                     |
+|                                                                                      | https://github.com/jn2clark/articles/blob/main/MultimodalSearch/article.md          |         |                     |
+|                                                                                      | https://github.com/jn2clark/articles/blob/main/MultimodalSearch/index_and_search.py |         |                     |
+| [R] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression | https://arxiv.org/abs/2306.03078                                                    |     104 | 2023-06-07 11:37:36 |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Dettmers%2C+T               |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Svirschevski%2C+R           |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Egiazarian%2C+V             |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Kuznedelev%2C+D             |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Frantar%2C+E                |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Ashkboos%2C+S               |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Borzunov%2C+A               |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Hoefler%2C+T                |         |                     |
+|                                                                                      | https://arxiv.org/search/cs?searchtype=author&amp;query=Alistarh%2C+D               |         |                     |
+|                                                                                      | https://github.com/vahe1994/spqr                                                    |         |                     |
+|                                                                                      | https://github.com/ggerganov/llama.cpp/issues/1713#issuecomment-1579326771          |         |                     |
