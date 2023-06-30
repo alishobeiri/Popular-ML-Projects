@@ -1,2 +1,7 @@
 Title,URL,Score,Date
-[D] When was the last time you had to implement a research paper into code at your job?,https://github.com/lucidrains,36,2023-06-12 00:30:55
+[R] Training Transformers with 4-bit Integers - Haocheng Xi et al Tsinghua University - 2.2 times faster than the FP16 counterparts and speeds up the training by up to 35.1%!,"https://arxiv.org/abs/2306.11987
+https://github.com/xijiu9/Train_Transformers_with_INT4",85,2023-06-29 19:01:08
+"[R] SAITS: Self-Attention-based Imputation for Time Series. Expert Systems with Applications, 219:119619, 2023.","https://arxiv.org/abs/2202.08516
+https://arxiv.org/abs/2305.18811
+https://github.com/WenjieDu/SAITS/",53,2023-06-29 09:29:42
+[P] AI image generation without copyright infringement,https://github.com/ml6team/fondant,29,2023-06-29 15:11:35
