@@ -1,3 +1,6 @@
 Title,URL,Score,Date
-[P] Sweep: Open Source AI junior developer that writes and fixes it's own pull requests,https://github.com/sweepai/sweep#-getting-started,33,2023-07-03 05:45:59
-[R] Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing,https://arxiv.org/abs//2306.17848,28,2023-07-03 18:01:58
+[R] Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing,https://arxiv.org/abs//2306.17848,47,2023-07-03 18:01:58
+[P] Sweep: Open Source AI junior developer that writes and fixes it's own pull requests,https://github.com/sweepai/sweep#-getting-started,46,2023-07-03 05:45:59
+[R] LaVIN-lite: Training your own Multimodal Large Language Models on one single GPU with competitive performance! (Technical Details),https://github.com/artidoro/qlora,37,2023-07-04 17:23:45
+[D] When less is more in the hierarchical forecasting case.,"https://arxiv.org/abs/2305.07089)
+https://github.com/Nixtla/hierarchicalforecast/tree/main/experiments/hierarchical_baselines",36,2023-07-03 18:22:41
