@@ -1,10 +1,8 @@
 Title,URL,Score,Date
-"[R] LongNet: Scaling Transformers to 1,000,000,000 Tokens",https://arxiv.org/abs/2307.02486,130,2023-07-06 03:10:43
-[N] Open-source search engine Meilisearch launches vector search,https://github.com/meilisearch/meilisearch,74,2023-07-06 13:02:59
-[P] 10x faster reinforcement learning hyperparameter optimization than SOTA - now with distributed training!,https://github.com/AgileRL/AgileRL,71,2023-07-07 11:42:17
+[P] 10x faster reinforcement learning hyperparameter optimization than SOTA - now with distributed training!,https://github.com/AgileRL/AgileRL,101,2023-07-07 11:42:17
 "[P] TomoSAM, a 3D Slicer extension using SAM to aid the segmentation of 3D data from tomography or other imaging techniques","https://arxiv.org/abs/2306.08609
 https://github.com/nasa/puma
-https://github.com/fsemerar/SlicerTomoSAM",44,2023-07-07 00:53:01
+https://github.com/fsemerar/SlicerTomoSAM",45,2023-07-07 00:53:01
 "[D] List of prior works on LLM hallucination, organized by evaluation, benchmark, enhancement, and survey","https://arxiv.org/pdf/2305.14627v1.pdf
 https://arxiv.org/pdf/2305.15852.pdf
 https://arxiv.org/pdf/2305.13632v1.pdf
@@ -36,4 +34,4 @@ https://arxiv.org/pdf/2306.06085.pdf
 https://arxiv.org/pdf/2212.10400.pdf
 https://arxiv.org/pdf/2202.03629.pdf
 https://arxiv.org/pdf/2204.07931v1.pdf
-https://arxiv.org/pdf/2206.12529v1.pdf",31,2023-07-06 20:51:41
+https://arxiv.org/pdf/2206.12529v1.pdf",32,2023-07-06 20:51:41
