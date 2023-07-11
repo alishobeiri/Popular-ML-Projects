@@ -1,3 +1,3 @@
 | Title                                                                                                              | URL                                                              |   Score | Date                |
 |:-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|--------:|:--------------------|
-| [P] PoisonGPT: Example of poisoning LLM supply chain to hide a lobotomized LLM on Hugging Face to spread fake news | https://arxiv.org/pdf/2202.02326.pdf?ref=blog.mithrilsecurity.io |     122 | 2023-07-09 16:34:18 |
+| [P] PoisonGPT: Example of poisoning LLM supply chain to hide a lobotomized LLM on Hugging Face to spread fake news | https://arxiv.org/pdf/2202.02326.pdf?ref=blog.mithrilsecurity.io |     248 | 2023-07-09 16:34:18 |
