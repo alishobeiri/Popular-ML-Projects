@@ -1,3 +1,3 @@
-| Title                                                                                                              | URL                                                              |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|--------:|:--------------------|
-| [P] PoisonGPT: Example of poisoning LLM supply chain to hide a lobotomized LLM on Hugging Face to spread fake news | https://arxiv.org/pdf/2202.02326.pdf?ref=blog.mithrilsecurity.io |     248 | 2023-07-09 16:34:18 |
+| Title                                                                | URL                                                       |   Score | Date                |
+|:---------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [D] - Representation Learning MSc course: Videos + PyTorch exercises | https://github.com/HHU-MMBS/RepresentationLearning_SS2023 |      40 | 2023-07-11 09:52:53 |
