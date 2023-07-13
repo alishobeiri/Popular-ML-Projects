@@ -1,3 +1,4 @@
-| Title                                                                | URL                                                       |   Score | Date                |
-|:---------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
-| [D] - Representation Learning MSc course: Videos + PyTorch exercises | https://github.com/HHU-MMBS/RepresentationLearning_SS2023 |      40 | 2023-07-11 09:52:53 |
+| Title                                        | URL                               |   Score | Date                |
+|:---------------------------------------------|:----------------------------------|--------:|:--------------------|
+| [R] Cross-Entropy is All You Need… Or is It? | https://arxiv.org/abs/1706.04599) |      34 | 2023-07-12 13:43:25 |
+|                                              | https://arxiv.org/abs/1906.02629  |         |                     |
