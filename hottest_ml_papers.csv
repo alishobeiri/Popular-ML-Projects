@@ -1,9 +1,3 @@
 Title,URL,Score,Date
-[P] Free and Fast LLM Finetuning,"https://arxiv.org/abs/2203.15556
-https://arxiv.org/abs/1910.10683
-https://arxiv.org/abs/1710.03740
-https://github.com/lamini-ai/lamini",63,2023-07-12 21:26:14
-[P] Fast debugging of audio machine learning models,https://github.com/Renumics/sliceguard/blob/main/examples/audio_issues_commonvoice_whisper.ipynb,47,2023-07-13 09:39:22
-[R] Cross-Entropy is All You Need… Or is It?,"https://arxiv.org/abs/1706.04599)
-https://arxiv.org/abs/1906.02629",41,2023-07-12 13:43:25
-TokenMonster Ungreedy Subword Tokenizer V4: Enables Models to be 4x Smaller and Whilst Achieving Higher Chr/Token (With Evidence) [P],https://github.com/alasdairforsythe/tokenmonster,37,2023-07-13 18:02:52
+TokenMonster Ungreedy Subword Tokenizer V4: Enables Models to be 4x Smaller and Whilst Achieving Higher Chr/Token (With Evidence) [P],https://github.com/alasdairforsythe/tokenmonster,89,2023-07-13 18:02:52
+[R] HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models,https://arxiv.org/abs/2307.06949,31,2023-07-14 17:54:48
