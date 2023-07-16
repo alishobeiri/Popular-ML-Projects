@@ -1,4 +1,3 @@
-| Title                                                                                                                                 | URL                                              |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
-| TokenMonster Ungreedy Subword Tokenizer V4: Enables Models to be 4x Smaller and Whilst Achieving Higher Chr/Token (With Evidence) [P] | https://github.com/alasdairforsythe/tokenmonster |      89 | 2023-07-13 18:02:52 |
-| [R] HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models                                                   | https://arxiv.org/abs/2307.06949                 |      31 | 2023-07-14 17:54:48 |
+| Title                                                                               | URL                              |   Score | Date                |
+|:------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models | https://arxiv.org/abs/2307.06949 |      63 | 2023-07-14 17:54:48 |
