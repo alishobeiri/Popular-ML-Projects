@@ -1,4 +1,12 @@
 Title,URL,Score,Date
-[D] Practice CUDA without an Actual NVIDIA GPU!,https://github.com/notY0rick/cuda_practice,98,2023-07-17 00:55:19
-[N] How Language Model Hallucinations Can Snowball,https://arxiv.org/abs/2305.13534,74,2023-07-16 13:40:47
-[P] Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks,https://github.com/chapyter/chapyter,62,2023-07-17 16:12:12
+[R] Retentive Network: A Successor to Transformer for Large Language Models,"https://arxiv.org/abs/2307.08621
+https://arxiv.org/search/cs?searchtype=author&amp;query=Sun%2C+Y
+https://arxiv.org/search/cs?searchtype=author&amp;query=Dong%2C+L
+https://arxiv.org/search/cs?searchtype=author&amp;query=Huang%2C+S
+https://arxiv.org/search/cs?searchtype=author&amp;query=Ma%2C+S
+https://arxiv.org/search/cs?searchtype=author&amp;query=Xia%2C+Y
+https://arxiv.org/search/cs?searchtype=author&amp;query=Xue%2C+J
+https://arxiv.org/search/cs?searchtype=author&amp;query=Wang%2C+J
+https://arxiv.org/search/cs?searchtype=author&amp;query=Wei%2C+F",106,2023-07-18 10:01:44
+[P] Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks,https://github.com/chapyter/chapyter,85,2023-07-17 16:12:12
+"[P] Finetuning qLoRAs for production use cases - Paraphrasing, Changing the tone of a sentence, Dialogue Summarization and Topic generation",https://github.com/kuutsav/llm-toys,34,2023-07-17 13:13:00
