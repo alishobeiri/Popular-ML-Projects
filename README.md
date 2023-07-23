@@ -1,4 +1,4 @@
 | Title                                                                                                                                             | URL                                   |   Score | Date                |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] Towards A Unified Agent with Foundation Models - Google DeepMind, ICLR23, July 2023 - LLM + RL leads to substantial performance improvements! | https://arxiv.org/abs/2307.09668      |      36 | 2023-07-21 18:38:53 |
-| [N] Novel Model for Tabular Data: IGANN: Looks Like a Leap Towards Interpretable Machine Learning!                                                | https://github.com/MathiasKraus/igann |      35 | 2023-07-21 15:31:13 |
+| [R] Towards A Unified Agent with Foundation Models - Google DeepMind, ICLR23, July 2023 - LLM + RL leads to substantial performance improvements! | https://arxiv.org/abs/2307.09668      |      88 | 2023-07-21 18:38:53 |
+| [N] Novel Model for Tabular Data: IGANN: Looks Like a Leap Towards Interpretable Machine Learning!                                                | https://github.com/MathiasKraus/igann |      54 | 2023-07-21 15:31:13 |
