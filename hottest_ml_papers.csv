@@ -1,3 +1,5 @@
 Title,URL,Score,Date
-"[R] Towards A Unified Agent with Foundation Models - Google DeepMind, ICLR23, July 2023 - LLM + RL leads to substantial performance improvements!",https://arxiv.org/abs/2307.09668,88,2023-07-21 18:38:53
-[N] Novel Model for Tabular Data: IGANN: Looks Like a Leap Towards Interpretable Machine Learning!,https://github.com/MathiasKraus/igann,54,2023-07-21 15:31:13
+[P] I created a parallelized implementation of Agglomerative clustering that's many times faster than existing implementations and has a better runtime,"https://arxiv.org/abs/2105.11653
+https://github.com/porterehunley/RACplusplus",68,2023-07-23 10:24:20
+[P] Run Llama 2 locally on GPU or CPU from anywhere (Linux/Windows/Mac) ➡️https://github.com/liltom-eth/llama2-webui,https://github.com/liltom-eth/llama2-webui,44,2023-07-23 19:18:33
+[P] Llama-2 4bit fine-tune with dolly-15k on Colab (Free),https://github.com/kw2828/guardrail-ml,32,2023-07-22 13:31:10
