@@ -1,5 +1,5 @@
-| Title                                                 | URL                                    |   Score | Date                |
-|:------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [D] Empirical rules of ML                             | https://arxiv.org/pdf/1706.02677.pdf   |     119 | 2023-07-24 07:06:02 |
-|                                                       | https://arxiv.org/pdf/2203.15556.pdf   |         |                     |
-| [R] How do paper authors deal with takedown requests? | https://github.com/NVlabs/ffhq-dataset |      28 | 2023-07-24 23:37:59 |
+| Title                                                                                              | URL                                                |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
+| [R] New Tabular DL model: "TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning" | https://arxiv.org/abs/2307.14338                   |      84 | 2023-07-27 11:28:36 |
+|                                                                                                    | https://github.com/yandex-research/tabular-dl-tabr |         |                     |
+| [R] Google Med-Palm M: Towards Generalist Biomedical AI                                            | https://arxiv.org/abs/2307.14334                   |      45 | 2023-07-27 05:01:06 |
