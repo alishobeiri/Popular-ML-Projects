@@ -1,4 +1,5 @@
 Title,URL,Score,Date
 "[R] New Tabular DL model: ""TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning""","https://arxiv.org/abs/2307.14338
-https://github.com/yandex-research/tabular-dl-tabr",84,2023-07-27 11:28:36
-[R] Google Med-Palm M: Towards Generalist Biomedical AI,https://arxiv.org/abs/2307.14334,45,2023-07-27 05:01:06
+https://github.com/yandex-research/tabular-dl-tabr",109,2023-07-27 11:28:36
+[R] Scaling TransNormer to 175 Billion Parameters,https://arxiv.org/abs/2307.14995,61,2023-07-28 01:27:12
+[D] Viability of fine tuning for domain knowledge,https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb,30,2023-07-27 22:13:00
