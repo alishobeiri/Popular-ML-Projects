@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-"[R] New Tabular DL model: ""TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning""","https://arxiv.org/abs/2307.14338
-https://github.com/yandex-research/tabular-dl-tabr",109,2023-07-27 11:28:36
-[R] Scaling TransNormer to 175 Billion Parameters,https://arxiv.org/abs/2307.14995,61,2023-07-28 01:27:12
-[D] Viability of fine tuning for domain knowledge,https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb,30,2023-07-27 22:13:00
+[R] Scaling TransNormer to 175 Billion Parameters,https://arxiv.org/abs/2307.14995,65,2023-07-28 01:27:12
+[R] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control - Google DeepMind 2023 - Is able to perform multi-stage semantic reasoning and can interpret commands not present in the robot training data!,https://github.com/google-research/robotics_transformer,37,2023-07-29 19:31:01
