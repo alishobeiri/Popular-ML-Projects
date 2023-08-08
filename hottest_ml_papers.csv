@@ -1,3 +1,4 @@
 Title,URL,Score,Date
-[R] Learning to Model the World with Language - UC Berkeley 2023 - Dynalang an agent that learns a multimodal world model that predicts future text and image representations and learns to act from imagined model rollouts!,"https://arxiv.org/abs/2308.01399
-https://github.com/jlin816/dynalang",71,2023-08-04 19:21:07
+[P] Looking for perspectives: Pdf parsing meets PRODUCTION,"https://github.com/topoteretes/PromethAI-Backend/tree/main/examples/level_1
+https://github.com/topoteretes/PromethAI-Backend",73,2023-08-07 13:56:31
+[P] Rust meets Llama2: OpenAI compatible API written in Rust,https://github.com/AmineDiro/cria,66,2023-08-06 22:06:55
