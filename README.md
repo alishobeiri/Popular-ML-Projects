@@ -1,5 +1,4 @@
-| Title                                                        | URL                                                                         |   Score | Date                |
-|:-------------------------------------------------------------|:----------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Looking for perspectives: Pdf parsing meets PRODUCTION   | https://github.com/topoteretes/PromethAI-Backend/tree/main/examples/level_1 |      73 | 2023-08-07 13:56:31 |
-|                                                              | https://github.com/topoteretes/PromethAI-Backend                            |         |                     |
-| [P] Rust meets Llama2: OpenAI compatible API written in Rust | https://github.com/AmineDiro/cria                                           |      66 | 2023-08-06 22:06:55 |
+| Title                                                                           | URL                                   |   Score | Date                |
+|:--------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] What's the current research status of "SFT with high-quality data" vs RLHF? | https://arxiv.org/abs/2305.11206)     |      40 | 2023-08-08 09:51:59 |
+| [P] Candle: Torch Replacement in Rust                                           | https://github.com/huggingface/candle |      34 | 2023-08-08 15:58:25 |
