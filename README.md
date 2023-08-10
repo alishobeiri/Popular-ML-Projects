@@ -1,4 +1,4 @@
-| Title                                                                           | URL                                   |   Score | Date                |
-|:--------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] What's the current research status of "SFT with high-quality data" vs RLHF? | https://arxiv.org/abs/2305.11206)     |      40 | 2023-08-08 09:51:59 |
-| [P] Candle: Torch Replacement in Rust                                           | https://github.com/huggingface/candle |      34 | 2023-08-08 15:58:25 |
+| Title                                                   | URL                                   |   Score | Date                |
+|:--------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [Project] Making AMD GPUs competitive for LLM inference | https://github.com/mlc-ai/mlc-llm/    |      77 | 2023-08-09 17:11:17 |
+| [P] Candle: Torch Replacement in Rust                   | https://github.com/huggingface/candle |      57 | 2023-08-08 15:58:25 |
