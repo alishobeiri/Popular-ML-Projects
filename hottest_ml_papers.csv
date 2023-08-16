@@ -1,3 +1,8 @@
 Title,URL,Score,Date
-[P] llama2.py,https://github.com/tairov/llama2.py,156,2023-08-13 22:28:15
-[R] Your Neural Network Doesn't Know What It Doesn't Know,https://github.com/continuousml,41,2023-08-13 19:24:38
+[P] OpenAI Notebooks which are really helpful.,"https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
+https://github.com/openai/openai-cookbook/blob/main/examples/Embedding_long_inputs.ipynb
+https://github.com/openai/openai-cookbook/blob/main/examples/dalle/How_to_create_dynamic_masks_with_DALL-E_and_Segment_Anything.ipynb
+https://github.com/openai/openai-cookbook/blob/main/examples/Function_calling_finding_nearby_places.ipynb
+https://github.com/openai/openai-cookbook/blob/main/examples/Visualizing_embeddings_in_3D.ipynb
+https://github.com/openai/openai-cookbook/blob/main/examples/Whisper_processing_guide.ipynb
+https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_a_search_API.ipynb",125,2023-08-15 04:40:49
