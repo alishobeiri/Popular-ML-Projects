@@ -1,6 +1,3 @@
-| Title                                                                                           | URL                                                                |   Score | Date                |
-|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|--------:|:--------------------|
-| [R] Releasing IDEFICS, the first open state-of-the-art visual language model at the 80B scale!  | https://arxiv.org/abs/2306.16527                                   |     118 | 2023-08-22 14:46:38 |
-|                                                                                                 | https://github.com/huggingface/m4-logs/blob/master/memos/README.md |         |                     |
-| [R] QuIP: 2-Bit Quantization of Large Language Models With Guarantees - Cornell University 2023 | https://arxiv.org/abs/2307.13304                                   |      40 | 2023-08-22 17:55:44 |
-|                                                                                                 | https://github.com/jerry-chee/QuIP                                 |         |                     |
+| Title                                                                                                                     | URL                               |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
+| [D] How do you think Open AI hosts all these fine tuned models? Are they just dynamically swapping out LoRAs at run time? | https://github.com/cccntu/minlora |      46 | 2023-08-23 23:53:37 |
