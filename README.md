@@ -1,3 +1,4 @@
-| Title                                                          | URL                                           |   Score | Date                |
-|:---------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [R] Code Llama: Open Foundation Models for Code - Meta Ai 2023 | https://github.com/facebookresearch/codellama |      38 | 2023-08-24 18:26:32 |
+| Title                                                                                    | URL                                         |   Score | Date                |
+|:-----------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| Apple researchers propose a novel method for creating detailed 3D models from images [R] | https://arxiv.org/pdf/2304.01480.pdf        |     113 | 2023-08-26 01:44:10 |
+| [D] Recursive Least Squares vs Gradient Descent for Neural Networks                      | https://github.com/hunar4321/RLS-neural-net |      46 | 2023-08-26 11:57:11 |
