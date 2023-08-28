@@ -1,4 +1,3 @@
-| Title                                                                                    | URL                                         |   Score | Date                |
-|:-----------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| Apple researchers propose a novel method for creating detailed 3D models from images [R] | https://arxiv.org/pdf/2304.01480.pdf        |     113 | 2023-08-26 01:44:10 |
-| [D] Recursive Least Squares vs Gradient Descent for Neural Networks                      | https://github.com/hunar4321/RLS-neural-net |      46 | 2023-08-26 11:57:11 |
+| Title                                                                                                                                                                 | URL                              |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Do papers like this "disprove" the stochastic parrot theory? Pretty strong evidence that LLMs can build an internal world model, at least for simple board games. | https://arxiv.org/abs/2210.13382 |      49 | 2023-08-27 11:32:11 |
