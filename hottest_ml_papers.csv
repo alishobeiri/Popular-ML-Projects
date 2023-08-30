@@ -1,3 +1,15 @@
 Title,URL,Score,Date
-[R] Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models - Microsoft 2023 - Far less queries with the same accuracy as Tree of Thought!,https://arxiv.org/abs/2308.10379,64,2023-08-28 01:09:45
-[R] DeepMind Researchers Introduce ReST: A Simple Algorithm for Aligning LLMs with Human Preferences,https://arxiv.org/abs/2308.08998,31,2023-08-28 19:26:00
+[R] DeepMind Researchers Introduce ReST: A Simple Algorithm for Aligning LLMs with Human Preferences,https://arxiv.org/abs/2308.08998,122,2023-08-28 19:26:00
+[R] Loss of Plasticity in Deep Continual Learning - University of Alberta 2023 - Continual backpropagation maintains plasticity indefinitely!,"https://arxiv.org/abs/2306.13812
+https://github.com/shibhansh/loss-of-plasticity",41,2023-08-29 18:32:58
+[P] Build adaptive sparse grids to accurately approximate and integrate functions of multiple variables,"https://arxiv.org/pdf/1110.0010.pdf
+https://arxiv.org/abs/2307.08997
+https://github.com/rnburn/bbai
+https://github.com/rnburn/bbai/blob/master/example/13-sparse-grid.ipynb",34,2023-08-29 15:19:44
+[Discussion] Promising alternatives to the standard transformer?,"https://arxiv.org/abs/2305.13048
+https://arxiv.org/abs/2203.03691
+https://arxiv.org/abs/2307.08621
+https://arxiv.org/abs/2302.04542
+https://arxiv.org/abs/2104.09864
+https://arxiv.org/abs/1901.10430v2
+https://github.com/HazyResearch/safari",33,2023-08-29 16:33:45
