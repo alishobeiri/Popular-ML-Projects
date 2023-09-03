@@ -1,4 +1,3 @@
-| Title                                                                                                                         | URL                                                                                                                                |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] Why did the authors design this gradient reversal layer in the paper "Unsupervised Domain Adaptation by Backpropagation"? | https://arxiv.org/abs/1409.7495                                                                                                    |      51 | 2023-09-01 01:38:37 |
-| [P] Modular Diffusion: A Python Library for Designing and Training Diffusion Models with PyTorch                              | https://github.com/cabralpinto/modular-diffusion)[/cabralpinto/modular-diffusion](https://github.com/cabralpinto/modular-diffusion |      39 | 2023-09-01 14:25:40 |
+| Title                                               | URL                              |   Score | Date                |
+|:----------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Am I the only one finding this a bit upsetting? | https://arxiv.org/abs/1803.08375 |      28 | 2023-09-01 23:46:50 |
