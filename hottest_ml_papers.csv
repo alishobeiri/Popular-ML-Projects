@@ -1,2 +1,3 @@
 Title,URL,Score,Date
-[D] Am I the only one finding this a bit upsetting?,https://arxiv.org/abs/1803.08375,28,2023-09-01 23:46:50
+I pretrained 16 language models from scratch with different tokenizers to benchmark the difference. Here are the results. [Research],"https://github.com/alasdairforsythe/tokenmonster
+https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark/pretrain.md",205,2023-09-03 12:56:45
