@@ -1,4 +1,4 @@
-| Title                                                                                                                                | URL                                                                              |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|--------:|:--------------------|
-| I pretrained 16 language models from scratch with different tokenizers to benchmark the difference. Here are the results. [Research] | https://github.com/alasdairforsythe/tokenmonster                                 |     327 | 2023-09-03 12:56:45 |
-|                                                                                                                                      | https://github.com/alasdairforsythe/tokenmonster/blob/main/benchmark/pretrain.md |         |                     |
+| Title                                                                 | URL                                        |   Score | Date                |
+|:----------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [P] Equinox (1.3k stars), a JAX library for neural networks and sciML | https://github.com/patrick-kidger/equinox  |      65 | 2023-09-05 13:57:30 |
+| [P] Hydralette: Simple but powerful configs based on dataclasses      | https://github.com/ValeKnappich/hydralette |      39 | 2023-09-05 07:02:34 |
