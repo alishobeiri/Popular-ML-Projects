@@ -1,3 +1,3 @@
-| Title                                                                 | URL                                       |   Score | Date                |
-|:----------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [P] Equinox (1.3k stars), a JAX library for neural networks and sciML | https://github.com/patrick-kidger/equinox |      77 | 2023-09-05 13:57:30 |
+| Title                                                                                          | URL                                  |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] How well do LLMs do on specific ML NLP tasks compared to previous models - paper takeaways | https://arxiv.org/pdf/2308.10092.pdf |      32 | 2023-09-06 13:52:06 |
