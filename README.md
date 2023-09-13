@@ -1,3 +1,5 @@
-| Title                                                               | URL                                        |   Score | Date                |
-|:--------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] A look at Apple’s new Transformer-powered predictive text model | https://github.com/jackcook/predictive-spy |     116 | 2023-09-08 13:46:47 |
+| Title                                                                       | URL                                                |   Score | Date                |
+|:----------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
+| [R] Textbooks are all you need II: phi-1.5 technical report                 | https://arxiv.org/abs/2309.05463                   |      48 | 2023-09-12 05:17:24 |
+| [R] Cognitive Architectures for Language Agents - Princeton University 2023 | https://arxiv.org/abs/2309.02427                   |      35 | 2023-09-11 19:10:50 |
+|                                                                             | https://github.com/ysymyth/awesome-language-agents |         |                     |
