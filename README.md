@@ -1,5 +1,4 @@
-| Title                                                                       | URL                                                |   Score | Date                |
-|:----------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Textbooks are all you need II: phi-1.5 technical report                 | https://arxiv.org/abs/2309.05463                   |      48 | 2023-09-12 05:17:24 |
-| [R] Cognitive Architectures for Language Agents - Princeton University 2023 | https://arxiv.org/abs/2309.02427                   |      35 | 2023-09-11 19:10:50 |
-|                                                                             | https://github.com/ysymyth/awesome-language-agents |         |                     |
+| Title                                                                                                                            | URL                                                      |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|:--------------------|
+| [R] Unveiling theory of mind in large language models: A parallel to single neurons in the human brain - Harvard University 2023 | https://arxiv.org/abs/2309.01660                         |      64 | 2023-09-12 20:17:26 |
+| [D] We built Beam: An ultrafast serverless GPU runtime                                                                           | https://github.com/slai-labs/get-beam/tree/main/examples |      26 | 2023-09-13 14:06:50 |
