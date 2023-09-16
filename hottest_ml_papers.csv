@@ -24,10 +24,8 @@ https://arxiv.org/abs/2301.13688
 https://arxiv.org/abs/2302.13971
 https://arxiv.org/abs/2302.04761
 https://arxiv.org/abs/2003.08934
-https://github.com/dmarx/anthology-of-modern-ml",102,2023-09-14 13:50:27
+https://github.com/dmarx/anthology-of-modern-ml",272,2023-09-14 13:50:27
 [P] Llama2 inference in a single file of pure Mojo,"https://github.com/tairov/llama2.mojo
 https://github.com/tairov/llama2.py
-https://github.com/karpathy/llama2.c",59,2023-09-14 12:32:42
-[D] We built Beam: An ultrafast serverless GPU runtime,https://github.com/slai-labs/get-beam/tree/main/examples,53,2023-09-13 14:06:50
-[R] Efficient Memory Management for Large Language Model Serving with PagedAttention - UC Berkeley et al 2023 - 2-4x higher throughput than HuggingFace Transformers without requiring any model architecture changes!,"https://arxiv.org/abs/2309.06180
-https://github.com/vllm-project/vllm",37,2023-09-13 19:55:42
+https://github.com/karpathy/llama2.c",94,2023-09-14 12:32:42
+"[R] Uncovering mesa-optimization algorithms in Transformers (from Google Research, ETH Zürich, and Google DeepMind)",https://arxiv.org/abs/2309.05858,48,2023-09-15 12:31:13
