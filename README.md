@@ -1,6 +1,6 @@
 | Title                                                                                                               | URL                                             |   Score | Date                |
 |:--------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [D] The ML Papers That Rocked Our World (2020-2023)                                                                 | https://arxiv.org/abs/2210.05189                |     272 | 2023-09-14 13:50:27 |
+| [D] The ML Papers That Rocked Our World (2020-2023)                                                                 | https://arxiv.org/abs/2210.05189                |     302 | 2023-09-14 13:50:27 |
 |                                                                                                                     | https://arxiv.org/abs/2212.13345                |         |                     |
 |                                                                                                                     | https://arxiv.org/abs/2106.09685                |         |                     |
 |                                                                                                                     | https://arxiv.org/abs/2201.02177                |         |                     |
@@ -26,7 +26,6 @@
 |                                                                                                                     | https://arxiv.org/abs/2302.04761                |         |                     |
 |                                                                                                                     | https://arxiv.org/abs/2003.08934                |         |                     |
 |                                                                                                                     | https://github.com/dmarx/anthology-of-modern-ml |         |                     |
-| [P] Llama2 inference in a single file of pure Mojo                                                                  | https://github.com/tairov/llama2.mojo           |      94 | 2023-09-14 12:32:42 |
-|                                                                                                                     | https://github.com/tairov/llama2.py             |         |                     |
-|                                                                                                                     | https://github.com/karpathy/llama2.c            |         |                     |
-| [R] Uncovering mesa-optimization algorithms in Transformers (from Google Research, ETH Zürich, and Google DeepMind) | https://arxiv.org/abs/2309.05858                |      48 | 2023-09-15 12:31:13 |
+| [R] Uncovering mesa-optimization algorithms in Transformers (from Google Research, ETH Zürich, and Google DeepMind) | https://arxiv.org/abs/2309.05858                |      75 | 2023-09-15 12:31:13 |
+| [D] Ganimede, Jupyter Whiteboard                                                                                    | https://github.com/nottherealsanta/ganimede     |      43 | 2023-09-16 04:44:32 |
+| [R] Traveling Words: A Geometric Interpretation of Transformers                                                     | https://arxiv.org/abs/2309.07315                |      37 | 2023-09-15 16:43:10 |
