@@ -1,6 +1,5 @@
-| Title                                                                  | URL                                                            |   Score | Date                |
-|:-----------------------------------------------------------------------|:---------------------------------------------------------------|--------:|:--------------------|
-| [D] Ganimede, Jupyter Whiteboard                                       | https://github.com/nottherealsanta/ganimede                    |      46 | 2023-09-16 04:44:32 |
-| [Research] Layer-Neighbor Sampling for Scalable Graph Network Training | https://arxiv.org/abs/2210.13339                               |      26 | 2023-09-16 17:59:49 |
-|                                                                        | https://github.com/pyg-team/pyg-lib/pull/242                   |         |                     |
-|                                                                        | https://github.com/dmlc/dgl/tree/master/examples/pytorch/labor |         |                     |
+| Title                                                                                                                        | URL                                        |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [R] Exponentially Faster Feedforward Networks                                                                                | https://arxiv.org/abs/2308.14711           |      58 | 2023-09-19 09:39:46 |
+|                                                                                                                              | https://github.com/pbelcak/fastfeedforward |         |                     |
+| [R] CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages - 6.3 trillion tokens | https://arxiv.org/abs/2309.09400           |      52 | 2023-09-19 08:10:29 |
