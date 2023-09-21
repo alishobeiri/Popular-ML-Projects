@@ -1,5 +1,4 @@
-| Title                                                                                                                        | URL                                        |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [R] Exponentially Faster Feedforward Networks                                                                                | https://arxiv.org/abs/2308.14711           |      58 | 2023-09-19 09:39:46 |
-|                                                                                                                              | https://github.com/pbelcak/fastfeedforward |         |                     |
-| [R] CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages - 6.3 trillion tokens | https://arxiv.org/abs/2309.09400           |      52 | 2023-09-19 08:10:29 |
+| Title                                         | URL                                        |   Score | Date                |
+|:----------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [R] Exponentially Faster Feedforward Networks | https://arxiv.org/abs/2308.14711           |      99 | 2023-09-19 09:39:46 |
+|                                               | https://github.com/pbelcak/fastfeedforward |         |                     |
