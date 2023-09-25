@@ -1,4 +1,3 @@
 | Title                                                                                                                                               | URL                                            |   Score | Date                |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|--------:|:--------------------|
-| [R] Parallelizing RNN over its sequence length                                                                                                      | https://arxiv.org/abs/2309.12252               |      88 | 2023-09-22 10:37:15 |
-| [D] GPT-3.5-instruct beats GPT-4 at chess and is a ~1800 ELO chess player. Results of 150 games of GPT-3.5 vs stockfish and 30 of GPT-3.5 vs GPT-4. | https://github.com/adamkarvonen/chess_gpt_eval |      52 | 2023-09-23 15:56:39 |
+| [D] GPT-3.5-instruct beats GPT-4 at chess and is a ~1800 ELO chess player. Results of 150 games of GPT-3.5 vs stockfish and 30 of GPT-3.5 vs GPT-4. | https://github.com/adamkarvonen/chess_gpt_eval |      91 | 2023-09-23 15:56:39 |
