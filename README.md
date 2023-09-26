@@ -1,3 +1,3 @@
-| Title                                                                                                                                               | URL                                            |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|--------:|:--------------------|
-| [D] GPT-3.5-instruct beats GPT-4 at chess and is a ~1800 ELO chess player. Results of 150 games of GPT-3.5 vs stockfish and 30 of GPT-3.5 vs GPT-4. | https://github.com/adamkarvonen/chess_gpt_eval |      91 | 2023-09-23 15:56:39 |
+| Title                                                                                                | URL                              |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [P] Made a simple semantic segmentation annotation tool with segment-anything masks support in PyQt5 | https://github.com/Divelix/samat |      41 | 2023-09-24 15:37:32 |
