@@ -1,3 +1,3 @@
-| Title                                                                                                | URL                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [P] Made a simple semantic segmentation annotation tool with segment-anything masks support in PyQt5 | https://github.com/Divelix/samat |      41 | 2023-09-24 15:37:32 |
+| Title                                                                                                 | URL                                  |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Microsoft Researchers Propose DIT Morality Test for LLMs To Quantify AI Moral Reasoning Abilities | https://arxiv.org/pdf/2309.13356.pdf |      43 | 2023-09-27 00:18:33 |
