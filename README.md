@@ -1,3 +1,3 @@
 | Title                                                                    | URL                              |   Score | Date                |
 |:-------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] RealFill: Reference-Driven Generation for Authentic Image Completion | https://arxiv.org/abs/2309.16668 |      44 | 2023-09-29 13:42:47 |
+| [R] RealFill: Reference-Driven Generation for Authentic Image Completion | https://arxiv.org/abs/2309.16668 |      58 | 2023-09-29 13:42:47 |
