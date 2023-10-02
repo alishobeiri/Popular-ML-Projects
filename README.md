@@ -1,3 +1,4 @@
-| Title                                                                    | URL                              |   Score | Date                |
-|:-------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] RealFill: Reference-Driven Generation for Authentic Image Completion | https://arxiv.org/abs/2309.16668 |      58 | 2023-09-29 13:42:47 |
+| Title                                                                                       | URL                                  |   Score | Date                |
+|:--------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Meta, INRIA researchers discover that explicit registers eliminate ViT attention spikes | https://arxiv.org/pdf/2309.16588.pdf |     497 | 2023-10-01 14:28:22 |
+| [R] RealFill: Reference-Driven Generation for Authentic Image Completion                    | https://arxiv.org/abs/2309.16668     |      60 | 2023-09-29 13:42:47 |
