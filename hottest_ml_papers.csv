@@ -1,3 +1,6 @@
 Title,URL,Score,Date
-"[R] Meta, INRIA researchers discover that explicit registers eliminate ViT attention spikes",https://arxiv.org/pdf/2309.16588.pdf,497,2023-10-01 14:28:22
-[R] RealFill: Reference-Driven Generation for Authentic Image Completion,https://arxiv.org/abs/2309.16668,60,2023-09-29 13:42:47
+"[R] Meta, INRIA researchers discover that explicit registers eliminate ViT attention spikes",https://arxiv.org/pdf/2309.16588.pdf,729,2023-10-01 14:28:22
+[D] Why Vision Tranformers?,https://arxiv.org/pdf/2012.12556.pdf,93,2023-10-02 16:51:58
+[D] How many instructions can LLMs handle before they start to ignore them?,"https://github.com/wiskojo/overwhelm-llm-eval
+https://github.com/wiskojo/overwhelm-llm-eval/blob/main/results.ipynb",66,2023-10-01 20:10:40
+[R] The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - Microsoft 2023 - 166 Pages!,https://arxiv.org/abs/2309.17421,26,2023-10-02 06:45:31
