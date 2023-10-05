@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-[D] Why Vision Tranformers?,https://arxiv.org/pdf/2012.12556.pdf,209,2023-10-02 16:51:58
-"[R] MIT, Meta, CMU Researchers: LLMs trained with a finite attention window can be extended to infinite sequence lengths without any fine-tuning",https://arxiv.org/pdf/2309.17453.pdf,159,2023-10-03 12:56:26
-"[R] Efficient Streaming Language Models with Attention Sinks - Meta AI 2023 - StreamingLLM enables Llama-2, Falcon and Pythia to have an infinite context length without any fine-tuning! Allows streaming use of LLMs!","https://arxiv.org/abs/2309.17453
-https://github.com/mit-han-lab/streaming-llm",52,2023-10-02 19:09:13
+"[R] MIT, Meta, CMU Researchers: LLMs trained with a finite attention window can be extended to infinite sequence lengths without any fine-tuning",https://arxiv.org/pdf/2309.17453.pdf,255,2023-10-03 12:56:26
+[R] Think before you speak: Training Language Models With Pause Tokens,https://arxiv.org/abs/2310.02226,64,2023-10-04 12:59:23
