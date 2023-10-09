@@ -1,5 +1,5 @@
-| Title                                                                       | URL                                                |   Score | Date                |
-|:----------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Meta researchers present method for decoding speech from brain waves    | https://arxiv.org/pdf/2208.12266.pdf               |     166 | 2023-10-05 19:59:25 |
-| [R] Agent Instructs Large Language Models to be General Zero-Shot Reasoners | https://arxiv.org/abs/2310.03710                   |      64 | 2023-10-06 01:15:59 |
-|                                                                             | https://github.com/wang-research-lab/agentinstruct |         |                     |
+| Title                                                                                                                                                                             | URL                                |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
+| [R] Why is AdamW often superior to Adam with L2-Regularization in practice? The answer may lie in how weight decay balances updates across layers.                                | https://arxiv.org/abs/2305.17212   |      55 | 2023-10-08 15:17:39 |
+| [R] ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving - Microsoft 2023 - Is competitive with GPT-4 solving problems with programs while being open-source! | https://arxiv.org/abs/2309.17452v2 |      42 | 2023-10-07 20:07:18 |
+|                                                                                                                                                                                   | https://github.com/microsoft/ToRA  |         |                     |
