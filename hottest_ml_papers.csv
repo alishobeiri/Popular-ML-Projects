@@ -1,4 +1,7 @@
 Title,URL,Score,Date
-[R] Why is AdamW often superior to Adam with L2-Regularization in practice? The answer may lie in how weight decay balances updates across layers.,https://arxiv.org/abs/2305.17212,83,2023-10-08 15:17:39
 [R] Why do we need weight decay in modern deep learning? 🤔,"https://arxiv.org/abs/2310.04415
-https://github.com/tml-epfl/why-weight-decay",54,2023-10-09 16:20:51
+https://github.com/tml-epfl/why-weight-decay",103,2023-10-09 16:20:51
+[R] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models - University of Illinois 2023 - Achieves 94.4\% for programming on HumanEval with GPT-4 and 86.9\% with GPT-3.5 20\% better than with reflexion!,https://arxiv.org/abs/2310.04406,71,2023-10-09 23:31:05
+"[P] Optimistix, nonlinear optimisation in JAX+Equinox!","https://github.com/patrick-kidger/optimistix
+https://github.com/patrick-kidger/diffrax
+https://github.com/patrick-kidger/equinox",30,2023-10-10 17:08:25
