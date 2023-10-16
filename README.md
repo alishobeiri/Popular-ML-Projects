@@ -1,4 +1,3 @@
-| Title                                                                           | URL                                  |   Score | Date                |
-|:--------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] SWE-bench: Can Language Models Resolve Real-world GitHub issues?            | https://arxiv.org/abs/2310.06770     |     151 | 2023-10-12 19:28:30 |
-| [R] Researchers Identify Emergent Linear Structures in How LLMs Represent Truth | https://arxiv.org/pdf/2310.06824.pdf |      73 | 2023-10-12 21:38:42 |
+| Title                                                                                       | URL                                  |   Score | Date                |
+|:--------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Researchers propose GameGPT: A multi-agent approach to fully automated game development | https://arxiv.org/pdf/2310.08067.pdf |      32 | 2023-10-15 17:43:52 |
