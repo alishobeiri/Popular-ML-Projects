@@ -1,3 +1,3 @@
 | Title                                                                                       | URL                                  |   Score | Date                |
 |:--------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] Researchers propose GameGPT: A multi-agent approach to fully automated game development | https://arxiv.org/pdf/2310.08067.pdf |      32 | 2023-10-15 17:43:52 |
+| [R] Researchers propose GameGPT: A multi-agent approach to fully automated game development | https://arxiv.org/pdf/2310.08067.pdf |      86 | 2023-10-15 17:43:52 |
