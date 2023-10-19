@@ -1,5 +1,8 @@
-| Title                                                                                                                       | URL                                 |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------|--------:|:--------------------|
-| [R] 85% of the variance in language model performance is explained by a single factor (g, a unified measure of LLM ability) | https://arxiv.org/list/cs.AI/recent |     131 | 2023-10-17 17:00:26 |
-| [D] What is the current SOTA of Neural Architecture Search (NAS)?                                                           | https://arxiv.org/abs/1806.09055    |      37 | 2023-10-16 17:02:24 |
-|                                                                                                                             | https://arxiv.org/abs/2006.04647    |         |                     |
+| Title                                                                                                                       | URL                                              |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
+| [R] 85% of the variance in language model performance is explained by a single factor (g, a unified measure of LLM ability) | https://arxiv.org/list/cs.AI/recent              |     241 | 2023-10-17 17:00:26 |
+|                                                                                                                             | https://arxiv.org/abs/2310.11616                 |         |                     |
+| [P] Achieving peak performance on GPU                                                                                       | https://github.com/andylolu2/cuda-mnist          |      81 | 2023-10-18 01:56:35 |
+| [R] LLMs can threaten privacy at scale by inferring personal information from seemingly benign texts                        | https://arxiv.org/abs/2310.07298                 |      60 | 2023-10-18 15:36:53 |
+| [R] BitNet: Scaling 1-bit Transformers for Large Language Models                                                            | https://arxiv.org/abs/2310.11453                 |      57 | 2023-10-18 03:35:12 |
+| [P] 2D Gaussian Splatting a great starting point for people who want to delve deeper                                        | https://github.com/OutofAi/2D-Gaussian-Splatting |      39 | 2023-10-17 14:58:41 |
