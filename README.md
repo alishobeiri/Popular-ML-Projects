@@ -1,5 +1,3 @@
-| Title                                                                                                                | URL                                      |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [D] [P] Web browsing UI-based AI agent: GPT-4V-Act                                                                   | https://github.com/ddupont808/GPT-4V-Act |      70 | 2023-10-21 08:37:59 |
-| [R] MemGPT: Towards LLMs as Operating Systems - UC Berkeley 2023 - Is able to create unbounded/infinite LLM context! | https://arxiv.org/abs/2310.08560         |      34 | 2023-10-20 23:23:08 |
-|                                                                                                                      | https://github.com/cpacker/MemGPT        |         |                     |
+| Title                                              | URL                                      |   Score | Date                |
+|:---------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [D] [P] Web browsing UI-based AI agent: GPT-4V-Act | https://github.com/ddupont808/GPT-4V-Act |      95 | 2023-10-21 08:37:59 |
