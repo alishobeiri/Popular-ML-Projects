@@ -1,4 +1,5 @@
 Title,URL,Score,Date
-"[R] QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models - Institute of Science and Technology Austria (ISTA) 2023 - Can compress the 1.6 trillion parameter SwitchTransformer-c2048 model to less than 160GB (20x compression, 0.8 bits per parameter) at only minor accuracy loss!","https://arxiv.org/abs/2310.16795
-https://github.com/ist-daslab/qmoe",103,2023-10-26 19:01:24
-[R] What Algorithms can Transformers Learn? A Study in Length Generalization,https://arxiv.org/abs/2310.16028,31,2023-10-26 19:13:38
+[Project] LLM inference with vLLM and AMD: Achieving LLM inference parity with Nvidia,https://github.com/EmbeddedLLM/vllm-rocm,47,2023-10-28 02:06:53
+"[R] TD-MPC2: Scalable, Robust World Models for Continuous Control - TD-MPC2 performs 100+ tasks without tuning, and enables training of a single 317M parameter model that performs 80 tasks across multiple domains, embodiments, and action spaces!","https://arxiv.org/abs/2310.16828
+https://github.com/nicklashansen/tdmpc2",41,2023-10-27 16:25:36
+[R] HyperFields: towards zero-shot NeRFs from text descriptions,https://arxiv.org/pdf/2310.17075.pdf,28,2023-10-28 14:32:26
