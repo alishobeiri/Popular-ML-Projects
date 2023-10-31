@@ -1,2 +1,3 @@
 Title,URL,Score,Date
-[R] HyperFields: towards zero-shot NeRFs from text descriptions,https://arxiv.org/pdf/2310.17075.pdf,45,2023-10-28 14:32:26
+"[N] Fast GPT Training Infra, FP8-LM, being 64% faster than BF16 on H100—Unlocking even more gigantic GPT","https://arxiv.org/abs/2310.18313
+https://github.com/azure/ms-amp",47,2023-10-30 14:26:01
