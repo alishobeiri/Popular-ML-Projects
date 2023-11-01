@@ -1,4 +1,5 @@
-| Title                                                                                                    | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [N] Fast GPT Training Infra, FP8-LM, being 64% faster than BF16 on H100—Unlocking even more gigantic GPT | https://arxiv.org/abs/2310.18313 |      47 | 2023-10-30 14:26:01 |
-|                                                                                                          | https://github.com/azure/ms-amp  |         |                     |
+| Title                                                                                                             | URL                                                                        |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|--------:|:--------------------|
+| [R] RedPajama-Data-v2: an Open Dataset with 30 Trillion Tokens for Training Large Language Models                 | https://github.com/togethercomputer/RedPajama-Data                         |      55 | 2023-10-30 21:55:00 |
+| [R] Announcing Distil-Whisper - 6x faster than Whisper-large-v2 and performs within 1% WER on out-of-distribution | https://github.com/huggingface/distil-whisper/tree/main                    |      31 | 2023-10-31 17:49:08 |
+|                                                                                                                   | https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf |         |                     |
