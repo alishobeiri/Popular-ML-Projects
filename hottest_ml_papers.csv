@@ -1,4 +1,6 @@
 Title,URL,Score,Date
-[R] RedPajama-Data-v2: an Open Dataset with 30 Trillion Tokens for Training Large Language Models,https://github.com/togethercomputer/RedPajama-Data,55,2023-10-30 21:55:00
 [R] Announcing Distil-Whisper - 6x faster than Whisper-large-v2 and performs within 1% WER on out-of-distribution,"https://github.com/huggingface/distil-whisper/tree/main
-https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf",31,2023-10-31 17:49:08
+https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf",97,2023-10-31 17:49:08
+[R] LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts,"https://arxiv.org/abs/2310.20501
+https://github.com/KID-22/LLM4IR-Bias",42,2023-11-01 09:28:56
+[P] LangCheck: a multi-lingual toolkit to evaluate LLM applications,https://github.com/citadel-ai/langcheck,38,2023-11-01 13:15:23
