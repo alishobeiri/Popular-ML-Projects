@@ -1,7 +1,5 @@
-| Title                                                                                                             | URL                                                                        |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Announcing Distil-Whisper - 6x faster than Whisper-large-v2 and performs within 1% WER on out-of-distribution | https://github.com/huggingface/distil-whisper/tree/main                    |      97 | 2023-10-31 17:49:08 |
-|                                                                                                                   | https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf |         |                     |
-| [R] LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts                | https://arxiv.org/abs/2310.20501                                           |      42 | 2023-11-01 09:28:56 |
-|                                                                                                                   | https://github.com/KID-22/LLM4IR-Bias                                      |         |                     |
-| [P] LangCheck: a multi-lingual toolkit to evaluate LLM applications                                               | https://github.com/citadel-ai/langcheck                                    |      38 | 2023-11-01 13:15:23 |
+| Title                                                                                              | URL                                     |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
+| [R] LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts | https://arxiv.org/abs/2310.20501        |      58 | 2023-11-01 09:28:56 |
+|                                                                                                    | https://github.com/KID-22/LLM4IR-Bias   |         |                     |
+| [P] LangCheck: a multi-lingual toolkit to evaluate LLM applications                                | https://github.com/citadel-ai/langcheck |      43 | 2023-11-01 13:15:23 |
