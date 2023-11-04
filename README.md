@@ -1,5 +1,6 @@
-| Title                                                                                              | URL                                     |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [R] LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts | https://arxiv.org/abs/2310.20501        |      58 | 2023-11-01 09:28:56 |
-|                                                                                                    | https://github.com/KID-22/LLM4IR-Bias   |         |                     |
-| [P] LangCheck: a multi-lingual toolkit to evaluate LLM applications                                | https://github.com/citadel-ai/langcheck |      43 | 2023-11-01 13:15:23 |
+| Title                                                                                                        | URL                                  |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Telling GPT-4 you're scared or under pressure improves performance                                       | https://arxiv.org/pdf/2307.11760.pdf |     377 | 2023-11-03 01:55:35 |
+| [R] Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models | https://arxiv.org/abs/2310.17086     |      79 | 2023-11-02 21:36:05 |
+| [Research] Detecting Annotation Errors in Semantic Segmentation Data                                         | https://arxiv.org/abs/2307.05080     |      26 | 2023-11-02 16:02:34 |
+|                                                                                                              | https://github.com/cleanlab/cleanlab |         |                     |
