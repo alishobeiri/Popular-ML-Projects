@@ -1,5 +1,5 @@
-| Title                                                                                               | URL                                             |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [R] A Survey on Large Language Model based Autonomous Agents                                        | https://arxiv.org/abs/2308.11432                |      28 | 2023-11-04 17:41:15 |
-|                                                                                                     | https://github.com/Paitesanshi/LLM-Agent-Survey |         |                     |
-| [R] Diffusion might be a better way to model randomness in PPLs than Markov chain Monte Carlo or VI | https://arxiv.org/pdf/2311.00474.pdf            |      26 | 2023-11-05 16:20:26 |
+| Title                                                                                                | URL                                  |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Idempotent Generative Network                                                                    | https://arxiv.org/abs/2311.01462     |      70 | 2023-11-06 03:42:43 |
+| [R] (Very detailed) Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory | https://arxiv.org/abs/2310.20360     |      61 | 2023-11-06 14:34:04 |
+| [R] Diffusion might be a better way to model randomness in PPLs than Markov chain Monte Carlo or VI  | https://arxiv.org/pdf/2311.00474.pdf |      60 | 2023-11-05 16:20:26 |
