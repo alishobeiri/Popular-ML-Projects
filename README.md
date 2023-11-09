@@ -1,4 +1,3 @@
-| Title                                                                                                      | URL                                                           |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|--------:|:--------------------|
-| [R] (Very detailed) Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory       | https://arxiv.org/abs/2310.20360                              |     151 | 2023-11-06 14:34:04 |
-| [P] Residual-free, purely-feedforward network trains to 94% on CIFAR10 in &lt;6.3 seconds on a single A100 | https://github.com/tysam-code/hlb-CIFAR10/releases/tag/v0.7.0 |     110 | 2023-11-07 08:49:41 |
+| Title                                                                        | URL                              |   Score | Date                |
+|:-----------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation | https://arxiv.org/abs/2310.02304 |      39 | 2023-11-08 05:02:44 |
