@@ -1,4 +1,3 @@
 | Title                                                                           | URL                              |   Score | Date                |
 |:--------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Levels of AGI: Operationalizing Progress on the Path to AGI - DeepMind 2023 | https://arxiv.org/abs/2311.02462 |      79 | 2023-11-09 04:58:05 |
-| [R] Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation    | https://arxiv.org/abs/2310.02304 |      38 | 2023-11-08 05:02:44 |
+| [R] Levels of AGI: Operationalizing Progress on the Path to AGI - DeepMind 2023 | https://arxiv.org/abs/2311.02462 |      83 | 2023-11-09 04:58:05 |
