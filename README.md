@@ -1,3 +1,3 @@
-| Title                                                                           | URL                              |   Score | Date                |
-|:--------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Levels of AGI: Operationalizing Progress on the Path to AGI - DeepMind 2023 | https://arxiv.org/abs/2311.02462 |      83 | 2023-11-09 04:58:05 |
+| Title                                                                                              | URL                              |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Efficient Long-Range Transformers: You Need to Attend More, but Not Necessarily at Every Layer | https://arxiv.org/abs/2310.12442 |      43 | 2023-11-10 19:10:46 |
