@@ -1,3 +1,4 @@
-| Title                                                                                              | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Efficient Long-Range Transformers: You Need to Attend More, but Not Necessarily at Every Layer | https://arxiv.org/abs/2310.12442 |      43 | 2023-11-10 19:10:46 |
+| Title                                                                                                                | URL                                                                       |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|--------:|:--------------------|
+| [R] MADLAD-400 - 4.6 / 2.6 trillion token dataset covering 419 languages + translation models up to 10.7B parameters | https://arxiv.org/abs/2309.04662                                          |      42 | 2023-11-11 22:39:30 |
+|                                                                                                                      | https://github.com/google-research/google-research/tree/master/madlad_400 |         |                     |
