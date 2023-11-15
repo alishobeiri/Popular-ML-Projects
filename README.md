@@ -1,13 +1,7 @@
-| Title                                              | URL                                                                               |   Score | Date                |
-|:---------------------------------------------------|:----------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] Run Pytorch model inference on Microcontroller | https://github.com/mit-han-lab/tinyengine                                         |      32 | 2023-11-12 16:57:02 |
-|                                                    | https://github.com/ARM-software/CMSIS-NN                                          |         |                     |
-|                                                    | https://github.com/ARM-software/ML-examples                                       |         |                     |
-|                                                    | https://github.com/ARM-software/ML-examples/blob/main/pytorch-to-tflite/README.md |         |                     |
-|                                                    | https://github.com/sipeed/TinyMaix                                                |         |                     |
-|                                                    | https://github.com/majianjia/nnom                                                 |         |                     |
-|                                                    | https://github.com/MaximIntegratedAI/ai8x-synthesis/tree/develop                  |         |                     |
-|                                                    | https://github.com/MaximIntegratedAI/MaximAI_Documentation                        |         |                     |
-|                                                    | https://github.com/ai-techsystems/deepC                                           |         |                     |
-|                                                    | https://github.com/kraiskil/onnx2c                                                |         |                     |
-|                                                    | https://github.com/alrevuelta/cONNXr                                              |         |                     |
+| Title                                                                                       | URL                                                                       |   Score | Date                |
+|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|--------:|:--------------------|
+| [P] Higgsfield.AI – Anyone can train Llama 70B or Mistral for free                          | https://github.com/higgsfield-ai/higgsfield/blob/main/tutorials/README.md |     148 | 2023-11-14 03:09:22 |
+|                                                                                             | https://github.com/higgsfield-ai/higgsfield                               |         |                     |
+| [R] Simplifying Transformer Blocks                                                          | https://arxiv.org/abs/2311.01906                                          |      61 | 2023-11-13 19:27:56 |
+|                                                                                             | https://github.com/bobby-he/simplified_transformers                       |         |                     |
+| [R] JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models | https://arxiv.org/abs/2311.05997                                          |      26 | 2023-11-13 20:57:34 |
