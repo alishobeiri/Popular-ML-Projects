@@ -1,7 +1,4 @@
-| Title                                                                                       | URL                                                                       |   Score | Date                |
-|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Higgsfield.AI – Anyone can train Llama 70B or Mistral for free                          | https://github.com/higgsfield-ai/higgsfield/blob/main/tutorials/README.md |     148 | 2023-11-14 03:09:22 |
-|                                                                                             | https://github.com/higgsfield-ai/higgsfield                               |         |                     |
-| [R] Simplifying Transformer Blocks                                                          | https://arxiv.org/abs/2311.01906                                          |      61 | 2023-11-13 19:27:56 |
-|                                                                                             | https://github.com/bobby-he/simplified_transformers                       |         |                     |
-| [R] JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models | https://arxiv.org/abs/2311.05997                                          |      26 | 2023-11-13 20:57:34 |
+| Title                                                                | URL                                           |   Score | Date                |
+|:---------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [P] Distil-Whisper: a distilled variant of Whisper that is 6x faster | https://arxiv.org/abs/2311.00430              |      70 | 2023-11-15 10:30:12 |
+|                                                                      | https://github.com/huggingface/distil-whisper |         |                     |
