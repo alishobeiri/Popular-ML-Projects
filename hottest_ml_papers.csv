@@ -1,7 +1,9 @@
 Title,URL,Score,Date
-[P] Comgra: A library for debugging and understanding neural networks,https://github.com/FlorianDietz/comgra,90,2023-11-23 16:01:56
-[P] X—LLM: Few lines of code to train your own 7B LLM in Colab using cutting edge techniques like QLoRA,https://github.com/BobaZooba/xllm,60,2023-11-23 16:42:36
 "[R] ""Toeplitz Neural Network for Sequence Modeling"" &amp; ""Accelerating Toeplitz Neural Network with Constant-time Inference Complexity""","https://arxiv.org/abs/2305.04749
 https://arxiv.org/abs/2311.08756
 https://github.com/OpenNLPLab/Tnn
-https://github.com/OpenNLPLab/ETSC-Exact-Toeplitz-to-SSM-Conversion",36,2023-11-24 09:30:02
+https://github.com/OpenNLPLab/ETSC-Exact-Toeplitz-to-SSM-Conversion",42,2023-11-24 09:30:02
+[R] ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs,https://arxiv.org/abs/2311.13600,32,2023-11-24 19:01:31
+[P] fMRaI: Neural network interpretability and explainability library,"https://arxiv.org/abs/1906.04341
+https://arxiv.org/abs/2012.14913
+https://github.com/BizarreCake/fmr.ai",28,2023-11-24 12:11:51
