@@ -1,3 +1,4 @@
-| Title                                                                                                                            | URL                                               |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [R] Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings | https://github.com/8erberg/spatially-embedded-rnn |      53 | 2023-11-26 05:43:11 |
+| Title                                                                              | URL                                  |   Score | Date                |
+|:-----------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval | https://arxiv.org/pdf/2311.14084.pdf |      29 | 2023-11-27 13:50:14 |
+|                                                                                    | https://arxiv.org/abs/2310.20501     |         |                     |
