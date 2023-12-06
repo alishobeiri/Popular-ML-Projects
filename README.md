@@ -1,8 +1,11 @@
-| Title                                                    | URL                                  |   Score | Date                |
-|:---------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [D] Which architecture could substitute the transformer? | https://arxiv.org/abs/2203.15556     |      81 | 2023-12-04 17:44:29 |
-|                                                          | https://arxiv.org/abs/2304.15004     |         |                     |
-|                                                          | https://arxiv.org/abs/2310.19909     |         |                     |
-|                                                          | https://arxiv.org/abs/2310.16764     |         |                     |
-|                                                          | https://arxiv.org/abs/2311.00871     |         |                     |
-|                                                          | https://arxiv.org/pdf/2006.04439.pdf |         |                     |
+| Title                                                                                                                           | URL                                         |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [D] Which architecture could substitute the transformer?                                                                        | https://arxiv.org/abs/2203.15556            |     154 | 2023-12-04 17:44:29 |
+|                                                                                                                                 | https://arxiv.org/abs/2304.15004            |         |                     |
+|                                                                                                                                 | https://arxiv.org/abs/2310.19909            |         |                     |
+|                                                                                                                                 | https://arxiv.org/abs/2310.16764            |         |                     |
+|                                                                                                                                 | https://arxiv.org/abs/2311.00871            |         |                     |
+|                                                                                                                                 | https://arxiv.org/pdf/2006.04439.pdf        |         |                     |
+| [R] "Sequential Modeling Enables Scalable Learning for Large Vision Models" paper from UC Berkeley has a strange scaling curve. | https://arxiv.org/abs/2312.00785)           |      99 | 2023-12-05 14:37:08 |
+| [D] Needle in a haystack experiment: Assistants API RAG beats GPT 4-Turbo &amp; Llama Index at 4% of the cost                   | https://github.com/RecursivelyAI/CopilotKit |      94 | 2023-12-05 18:38:26 |
+| [R] StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization                          | https://arxiv.org/abs/2311.14495            |      26 | 2023-12-05 09:56:10 |
