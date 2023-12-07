@@ -1,11 +1,5 @@
 | Title                                                                                                                           | URL                                         |   Score | Date                |
 |:--------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [D] Which architecture could substitute the transformer?                                                                        | https://arxiv.org/abs/2203.15556            |     154 | 2023-12-04 17:44:29 |
-|                                                                                                                                 | https://arxiv.org/abs/2304.15004            |         |                     |
-|                                                                                                                                 | https://arxiv.org/abs/2310.19909            |         |                     |
-|                                                                                                                                 | https://arxiv.org/abs/2310.16764            |         |                     |
-|                                                                                                                                 | https://arxiv.org/abs/2311.00871            |         |                     |
-|                                                                                                                                 | https://arxiv.org/pdf/2006.04439.pdf        |         |                     |
-| [R] "Sequential Modeling Enables Scalable Learning for Large Vision Models" paper from UC Berkeley has a strange scaling curve. | https://arxiv.org/abs/2312.00785)           |      99 | 2023-12-05 14:37:08 |
-| [D] Needle in a haystack experiment: Assistants API RAG beats GPT 4-Turbo &amp; Llama Index at 4% of the cost                   | https://github.com/RecursivelyAI/CopilotKit |      94 | 2023-12-05 18:38:26 |
-| [R] StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization                          | https://arxiv.org/abs/2311.14495            |      26 | 2023-12-05 09:56:10 |
+| [R] "Sequential Modeling Enables Scalable Learning for Large Vision Models" paper from UC Berkeley has a strange scaling curve. | https://arxiv.org/abs/2312.00785)           |     132 | 2023-12-05 14:37:08 |
+| Apple Releases 'MLX' - ML Framework for Apple Silicon [N]                                                                       | https://github.com/ml-explore/mlx           |     130 | 2023-12-06 05:00:05 |
+| [D] Needle in a haystack experiment: Assistants API RAG beats GPT 4-Turbo &amp; Llama Index at 4% of the cost                   | https://github.com/RecursivelyAI/CopilotKit |     116 | 2023-12-05 18:38:26 |
