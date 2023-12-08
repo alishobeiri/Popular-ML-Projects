@@ -1,4 +1,3 @@
 Title,URL,Score,Date
-"[R] ""Sequential Modeling Enables Scalable Learning for Large Vision Models"" paper from UC Berkeley has a strange scaling curve.",https://arxiv.org/abs/2312.00785),132,2023-12-05 14:37:08
-Apple Releases 'MLX' - ML Framework for Apple Silicon [N],https://github.com/ml-explore/mlx,130,2023-12-06 05:00:05
-[D] Needle in a haystack experiment: Assistants API RAG beats GPT 4-Turbo &amp; Llama Index at 4% of the cost,https://github.com/RecursivelyAI/CopilotKit,116,2023-12-05 18:38:26
+[P] Mamba-Chat: A Chat LLM based on State Space Models,https://github.com/havenhq/mamba-chat,96,2023-12-07 02:03:39
+[D] Thoughts on Mamba?,https://github.com/state-spaces/mamba,53,2023-12-07 21:29:07
