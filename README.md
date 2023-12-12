@@ -1,3 +1,3 @@
 | Title                                                                      | URL                              |   Score | Date                |
 |:---------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator | https://arxiv.org/abs/2312.04474 |      28 | 2023-12-10 11:02:48 |
+| [R] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator | https://arxiv.org/abs/2312.04474 |      37 | 2023-12-10 11:02:48 |
