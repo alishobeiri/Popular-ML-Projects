@@ -1,3 +1,4 @@
-| Title                                                                      | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Chain of Code: Reasoning with a Language Model-Augmented Code Emulator | https://arxiv.org/abs/2312.04474 |      37 | 2023-12-10 11:02:48 |
+| Title                                                                                                        | URL                                      |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [R] UniRepLKNet: Large-Kernel CNN Unifies Multi Modalities, ImageNet 88%, SOTA in Global Weather Forecasting | https://arxiv.org/abs/2311.15599         |      69 | 2023-12-12 09:58:47 |
+|                                                                                                              | https://github.com/AILab-CVC/UniRepLKNet |         |                     |
