@@ -1,4 +1,4 @@
-| Title                                                                                                        | URL                                      |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] UniRepLKNet: Large-Kernel CNN Unifies Multi Modalities, ImageNet 88%, SOTA in Global Weather Forecasting | https://arxiv.org/abs/2311.15599         |      69 | 2023-12-12 09:58:47 |
-|                                                                                                              | https://github.com/AILab-CVC/UniRepLKNet |         |                     |
+| Title                                                                                                        | URL                                   |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] When Should We Use Graph Neural Networks For Node Classification? An Introduction to Homophily Principle | https://arxiv.org/abs/2304.14274      |      47 | 2023-12-13 09:36:52 |
+| [P] Eigenvalues of hessian matrix final layer much smaller than other layers                                 | https://arxiv.org/pdf/1611.01838.pdf) |      34 | 2023-12-13 16:47:07 |
