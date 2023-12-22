@@ -1,5 +1,4 @@
-| Title                                                          | URL                                        |   Score | Date                |
-|:---------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] TorchExplorer: the interactive neural network visualizer   | https://github.com/spfrommer/torchexplorer |      66 | 2023-12-16 16:52:23 |
-| [D] Are there any open source TTS model that can rival 11labs? | https://github.com/neonbjb/tortoise-tts    |      49 | 2023-12-17 02:25:48 |
-|                                                                | https://github.com/NVIDIA/tacotron2        |         |                     |
+| Title                                                                                             | URL                                           |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [P] I built an open SotA image tagging model to do what CLIP won't                                | https://github.com/SmilingWolf/SW-CV-ModelZoo |     165 | 2023-12-21 01:34:39 |
+| [D] Are medium-sized LLMs running on-device on consumer hardware a realistic expectation in 2024? | https://arxiv.org/pdf/2312.11514.pdf          |      60 | 2023-12-20 19:48:50 |
