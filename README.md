@@ -1,4 +1,3 @@
-| Title                                                                                             | URL                                           |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [P] I built an open SotA image tagging model to do what CLIP won't                                | https://github.com/SmilingWolf/SW-CV-ModelZoo |     165 | 2023-12-21 01:34:39 |
-| [D] Are medium-sized LLMs running on-device on consumer hardware a realistic expectation in 2024? | https://arxiv.org/pdf/2312.11514.pdf          |      60 | 2023-12-20 19:48:50 |
+| Title                                                                                                                                                                                        | URL                                  |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [News] Apple Researchers Unveil DeepPCR: A Novel Machine Learning Algorithm that Parallelizes Typically Sequential Operations in Order to Speed Up Inference and Training of Neural Networks | https://arxiv.org/pdf/2309.16318.pdf |      71 | 2023-12-22 12:19:33 |
