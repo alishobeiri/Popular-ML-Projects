@@ -1,3 +1,4 @@
-| Title                                                                                                                                                                                        | URL                                  |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [News] Apple Researchers Unveil DeepPCR: A Novel Machine Learning Algorithm that Parallelizes Typically Sequential Operations in Order to Speed Up Inference and Training of Neural Networks | https://arxiv.org/pdf/2309.16318.pdf |     108 | 2023-12-22 12:19:33 |
+| Title                                                                                           | URL                              |   Score | Date                |
+|:------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models           | https://arxiv.org/abs/2312.06585 |      35 | 2023-12-24 17:33:41 |
+| [R] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning | https://arxiv.org/abs/2312.05230 |      34 | 2023-12-24 23:55:51 |
