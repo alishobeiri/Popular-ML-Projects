@@ -1,4 +1,3 @@
-| Title                                                                                           | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models           | https://arxiv.org/abs/2312.06585 |      35 | 2023-12-24 17:33:41 |
-| [R] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning | https://arxiv.org/abs/2312.05230 |      34 | 2023-12-24 23:55:51 |
+| Title                                           | URL                                                         |   Score | Date                |
+|:------------------------------------------------|:------------------------------------------------------------|--------:|:--------------------|
+| [P] I made an Educational Autograd from scratch | https://github.com/eduardoleao052/Autograd-from-scratch.git |      82 | 2023-12-27 13:06:29 |
