@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-[R] Open source LLMs are far from OpenAI for code editing,"https://arxiv.org/abs/2312.12450
-https://github.com/nuprl/CanItEdit
-https://github.com/deepseek-ai/DeepSeek-Coder",91,2023-12-28 12:54:58
-[D] Transformers: Polynomial gated FFN is better than SwiGLU and reduces the number of parameters while improving model's performance,https://arxiv.org/pdf/2002.05202.pdf,60,2023-12-29 11:12:04
+[D] Why do current LLMs work well in discrete space but not in continuous space?,https://arxiv.org/abs/2312.02116,33,2023-12-31 19:48:55
+"[D] Question on the loss function in DeepMind's Beyond Human Data paper. Why use reward-weighted loss if the reward is only ever 1 or 0, as opposed to just training on successes?",https://arxiv.org/pdf/2312.06585.pdf,26,2023-12-31 15:12:48
