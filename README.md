@@ -1,5 +1,3 @@
-| Title                                                                                                                   | URL                                     |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [R] Stella Nera: Achieving 161 TOp/s/W with Multiplier-free DNN Acceleration based on Approximate Matrix Multiplication | https://arxiv.org/abs/2311.10207        |      43 | 2024-01-02 11:34:59 |
-|                                                                                                                         | https://github.com/joennlae/halutmatmul |         |                     |
-| [P] Python package for multimodal data fusion: Fusilli                                                                  | https://github.com/florencejt/fusilli   |      35 | 2024-01-03 10:08:42 |
+| Title                                                  | URL                                   |   Score | Date                |
+|:-------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [P] Python package for multimodal data fusion: Fusilli | https://github.com/florencejt/fusilli |      45 | 2024-01-03 10:08:42 |
