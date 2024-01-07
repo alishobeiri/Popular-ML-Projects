@@ -1,3 +1,7 @@
-| Title                                                  | URL                                   |   Score | Date                |
-|:-------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [P] Python package for multimodal data fusion: Fusilli | https://github.com/florencejt/fusilli |      45 | 2024-01-03 10:08:42 |
+| Title                                                                                                                                                    | URL                                                 |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
+| [D] Incredible results with Long Agent Tree Search with open source models                                                                               | https://arxiv.org/abs/2310.04406                    |      68 | 2024-01-06 16:23:04 |
+|                                                                                                                                                          | https://github.com/andyz245/LanguageAgentTreeSearch |         |                     |
+| [R] GPT-4V(ision) is a Generalist Web Agent, if Grounded - The Ohio State University 2024 - Can successfully complete 50% of the tasks on live websites! | https://arxiv.org/abs/2401.01614                    |      36 | 2024-01-05 20:18:31 |
+|                                                                                                                                                          | https://github.com/OSU-NLP-Group/SeeAct             |         |                     |
+| [R] The Expressive Power of Transformers with Chain of Thought                                                                                           | https://arxiv.org/abs/2310.07923                    |      33 | 2024-01-06 07:23:04 |
