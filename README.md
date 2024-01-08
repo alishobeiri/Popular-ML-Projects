@@ -1,7 +1,7 @@
-| Title                                                                                                                                                    | URL                                                 |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
-| [D] Incredible results with Long Agent Tree Search with open source models                                                                               | https://arxiv.org/abs/2310.04406                    |      68 | 2024-01-06 16:23:04 |
-|                                                                                                                                                          | https://github.com/andyz245/LanguageAgentTreeSearch |         |                     |
-| [R] GPT-4V(ision) is a Generalist Web Agent, if Grounded - The Ohio State University 2024 - Can successfully complete 50% of the tasks on live websites! | https://arxiv.org/abs/2401.01614                    |      36 | 2024-01-05 20:18:31 |
-|                                                                                                                                                          | https://github.com/OSU-NLP-Group/SeeAct             |         |                     |
-| [R] The Expressive Power of Transformers with Chain of Thought                                                                                           | https://arxiv.org/abs/2310.07923                    |      33 | 2024-01-06 07:23:04 |
+| Title                                                                      | URL                                                 |   Score | Date                |
+|:---------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
+| [D] So, Mamba vs. Transformers... is the hype real?                        | https://arxiv.org/abs/2312.00752                    |     177 | 2024-01-07 11:19:08 |
+| [D] Incredible results with Long Agent Tree Search with open source models | https://arxiv.org/abs/2310.04406                    |     110 | 2024-01-06 16:23:04 |
+|                                                                            | https://github.com/andyz245/LanguageAgentTreeSearch |         |                     |
+| [D] Why are almost all probabilistic derivations so hard to follow in ML?  | https://arxiv.org/pdf/2006.11239.pdf)               |      97 | 2024-01-07 14:46:58 |
+|                                                                            | https://arxiv.org/pdf/2208.11970.pdf                |         |                     |
