@@ -1,5 +1,4 @@
 Title,URL,Score,Date
-"[D] So, Mamba vs. Transformers... is the hype real?",https://arxiv.org/abs/2312.00752,258,2024-01-07 11:19:08
-[D] Why are almost all probabilistic derivations so hard to follow in ML?,"https://arxiv.org/pdf/2006.11239.pdf)
-https://arxiv.org/pdf/2208.11970.pdf",201,2024-01-07 14:46:58
-"[P] I built marimo — an open-source reactive Python notebook that’s stored as a .py file, executable as a script, and deployable as an app.",https://github.com/marimo-team/marimo,40,2024-01-08 18:00:41
+"[P] I built marimo — an open-source reactive Python notebook that’s stored as a .py file, executable as a script, and deployable as an app.",https://github.com/marimo-team/marimo,213,2024-01-08 18:00:41
+"[R] WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia - Achieves 97.9% factual accuracy in conversations with human users about recent topics, 55.0% better than GPT-4! - Stanford University 2023","https://arxiv.org/abs/2305.14292v2
+https://github.com/stanford-oval/WikiChat",195,2024-01-09 00:07:40
