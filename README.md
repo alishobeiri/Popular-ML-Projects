@@ -1,3 +1,4 @@
-| Title                                                                                | URL                              |   Score | Date                |
-|:-------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Google DeepMind Diagnostic LLM Exceeds Human Doctor Top-10 Accuracy (59% vs 34%) | https://arxiv.org/abs/2401.05654 |     508 | 2024-01-13 15:16:47 |
+| Title                                                                                                                                   | URL                                             |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
+| [R] "Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc" (2023) - Doug Lenat's final paper before his passing | https://arxiv.org/abs/2308.04445                |      41 | 2024-01-15 09:41:36 |
+| [D] What is your honest experience with reinforcement learning?                                                                         | https://github.com/austin-starks/Deep-RL-Stocks |      39 | 2024-01-15 20:56:46 |
