@@ -1,8 +1,7 @@
-| Title                                                                 | URL                                                                        |   Score | Date                |
-|:----------------------------------------------------------------------|:---------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Transformers are Multi-State RNNs                                 | https://arxiv.org/abs/2401.06104                                           |      98 | 2024-01-16 16:12:24 |
-|                                                                       | https://github.com/schwartz-lab-NLP/TOVA                                   |         |                     |
-| [P] Small Latent Diffusion Transformer from scratch                   | https://github.com/apapiu/transformer_latent_diffusion/tree/main           |      92 | 2024-01-16 21:29:34 |
-| [P] einx - Tensor Operations in Einstein-Inspired Notation for Python | https://github.com/fferflo/einx                                            |      58 | 2024-01-17 15:20:43 |
-|                                                                       | https://github.com/fferflo/weightbridge/blob/master/examples/mamba2flax.py |         |                     |
-|                                                                       | https://github.com/google/flax                                             |         |                     |
+| Title                                                                         | URL                                                     |   Score | Date                |
+|:------------------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
+| [R] Self-Rewarding Language Models - Meta 2024                                | https://arxiv.org/abs/2401.10020                        |     126 | 2024-01-19 21:01:45 |
+|                                                                               | https://github.com/lucidrains/self-rewarding-lm-pytorch |         |                     |
+| [R] The Manga Whisperer: Automatically Generating Transcriptions for Comics   | http://arxiv.org/abs/2401.10224                         |      49 | 2024-01-20 14:44:04 |
+|                                                                               | https://github.com/ragavsachdeva/magi                   |         |                     |
+| [R] Are Emergent Abilities in Large Language Models just In-Context Learning? | https://arxiv.org/abs/2309.01809                        |      27 | 2024-01-20 19:58:31 |
