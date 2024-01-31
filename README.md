@@ -1,3 +1,4 @@
-| Title                                                                  | URL                                                     |   Score | Date                |
-|:-----------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
-| [D] Scikit-Learn fixed its F-1 score calculator; you should update now | https://github.com/scikit-learn/scikit-learn/pull/27577 |     380 | 2024-01-25 04:15:55 |
+| Title                                                           | URL                                                  |   Score | Date                |
+|:----------------------------------------------------------------|:-----------------------------------------------------|--------:|:--------------------|
+| [P] Enhancing OpenPose Detection Using Self-Supervised Learning | https://github.com/MarkZakelj/openpose-extrapolation |      69 | 2024-01-30 20:18:32 |
+| Pedro Domingos: Neuro-symbolic does not work yet [R]            | https://arxiv.org/abs/2205.11502                     |      31 | 2024-01-29 20:11:06 |
