@@ -1,4 +1,3 @@
-| Title                                                           | URL                                                  |   Score | Date                |
-|:----------------------------------------------------------------|:-----------------------------------------------------|--------:|:--------------------|
-| [P] Enhancing OpenPose Detection Using Self-Supervised Learning | https://github.com/MarkZakelj/openpose-extrapolation |      69 | 2024-01-30 20:18:32 |
-| Pedro Domingos: Neuro-symbolic does not work yet [R]            | https://arxiv.org/abs/2205.11502                     |      31 | 2024-01-29 20:11:06 |
+| Title                                                  | URL                                   |   Score | Date                |
+|:-------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] Do people still believe in LLM emergent abilities? | https://arxiv.org/pdf/2304.15004.pdf) |      47 | 2024-02-03 20:50:24 |
