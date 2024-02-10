@@ -1,8 +1,7 @@
-| Title                                                                | URL                                                |   Score | Date                |
-|:---------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Sparsetral - parameter efficient sparse MoE crafted from mistral | https://arxiv.org/abs/2401.02731)                  |      84 | 2024-02-06 00:55:11 |
-|                                                                      | https://arxiv.org/abs/2401.03462                   |         |                     |
-|                                                                      | https://github.com/wuhy68/Parameter-Efficient-MoE  |         |                     |
-|                                                                      | https://github.com/serp-ai/Parameter-Efficient-MoE |         |                     |
-|                                                                      | https://github.com/serp-ai/unsloth                 |         |                     |
-|                                                                      | https://github.com/serp-ai/vllm                    |         |                     |
+| Title                                                                                | URL                                                                                    |   Score | Date                |
+|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|--------:|:--------------------|
+| [D] Mamba with cumulative sums                                                       | https://arxiv.org/abs/2312.00752                                                       |      64 | 2024-02-09 00:39:26 |
+|                                                                                      | https://github.com/pytorch/pytorch/issues/95408                                        |         |                     |
+|                                                                                      | https://github.com/johnma2006/mamba-minimal                                            |         |                     |
+|                                                                                      | https://github.com/PeaBrane/mamba-tiny/commit/2908f50274c10cc7bb72a273517811dae0b38a33 |         |                     |
+| [D] What makes PPO reinforcement learning and not just having a fancy loss function? | https://github.com/kvablack/ddpo-pytorch/tree/main                                     |      35 | 2024-02-08 16:49:25 |
