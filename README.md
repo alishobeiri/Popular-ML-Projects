@@ -1,7 +1,3 @@
-| Title                                                                                | URL                                                                                    |   Score | Date                |
-|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] Mamba with cumulative sums                                                       | https://arxiv.org/abs/2312.00752                                                       |      64 | 2024-02-09 00:39:26 |
-|                                                                                      | https://github.com/pytorch/pytorch/issues/95408                                        |         |                     |
-|                                                                                      | https://github.com/johnma2006/mamba-minimal                                            |         |                     |
-|                                                                                      | https://github.com/PeaBrane/mamba-tiny/commit/2908f50274c10cc7bb72a273517811dae0b38a33 |         |                     |
-| [D] What makes PPO reinforcement learning and not just having a fancy loss function? | https://github.com/kvablack/ddpo-pytorch/tree/main                                     |      35 | 2024-02-08 16:49:25 |
+| Title                                         | URL                              |   Score | Date                |
+|:----------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Why did Gated Linear Networks disappear ? | https://arxiv.org/abs/1910.01526 |      52 | 2024-02-09 23:33:07 |
