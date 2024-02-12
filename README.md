@@ -1,3 +1,5 @@
-| Title                                         | URL                              |   Score | Date                |
-|:----------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] Why did Gated Linear Networks disappear ? | https://arxiv.org/abs/1910.01526 |      52 | 2024-02-09 23:33:07 |
+| Title                                                              | URL                                                       |   Score | Date                |
+|:-------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [P] AI Learns PvP in Old School RuneScape (Reinforcement Learning) | https://github.com/Naton1/osrs-pvp-reinforcement-learning |      99 | 2024-02-11 00:45:19 |
+| [P] Open type Named Entity Recognition with Transformer Encoder    | https://arxiv.org/abs/2311.08526                          |      31 | 2024-02-11 09:37:10 |
+|                                                                    | https://github.com/urchade/GLiNER                         |         |                     |
