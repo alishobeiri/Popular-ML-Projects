@@ -1,5 +1,6 @@
-| Title                                                              | URL                                                       |   Score | Date                |
-|:-------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
-| [P] AI Learns PvP in Old School RuneScape (Reinforcement Learning) | https://github.com/Naton1/osrs-pvp-reinforcement-learning |      99 | 2024-02-11 00:45:19 |
-| [P] Open type Named Entity Recognition with Transformer Encoder    | https://arxiv.org/abs/2311.08526                          |      31 | 2024-02-11 09:37:10 |
-|                                                                    | https://github.com/urchade/GLiNER                         |         |                     |
+| Title                                                                                                                         | URL                              |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R][P] KV Cache is huge and bottlenecks LLM inference. We quantize them to 2bit in a finetuning-free + plug-and-play fashion. | https://arxiv.org/abs/2211.05102 |      52 | 2024-02-12 16:00:37 |
+|                                                                                                                               | https://arxiv.org/abs/2309.06180 |         |                     |
+|                                                                                                                               | https://arxiv.org/abs/2402.02750 |         |                     |
+|                                                                                                                               | https://github.com/jy-yuan/KIVI  |         |                     |
