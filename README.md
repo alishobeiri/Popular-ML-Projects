@@ -1,6 +1,4 @@
-| Title                                                                                                                         | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R][P] KV Cache is huge and bottlenecks LLM inference. We quantize them to 2bit in a finetuning-free + plug-and-play fashion. | https://arxiv.org/abs/2211.05102 |      52 | 2024-02-12 16:00:37 |
-|                                                                                                                               | https://arxiv.org/abs/2309.06180 |         |                     |
-|                                                                                                                               | https://arxiv.org/abs/2402.02750 |         |                     |
-|                                                                                                                               | https://github.com/jy-yuan/KIVI  |         |                     |
+| Title                                                                         | URL                                   |   Score | Date                |
+|:------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] [P] 10 times faster LLM evaluation with bayesian optimization             | https://github.com/rentruewang/bocoel |      61 | 2024-02-13 14:51:30 |
+| [D] Why does it matter that RMSNorm is faster than LayerNorm in transformers? | https://arxiv.org/pdf/1910.07467.pdf  |      56 | 2024-02-12 21:09:53 |
