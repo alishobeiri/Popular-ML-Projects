@@ -1,3 +1,3 @@
-| Title                                                             | URL                                   |   Score | Date                |
-|:------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] [P] 10 times faster LLM evaluation with bayesian optimization | https://github.com/rentruewang/bocoel |     106 | 2024-02-13 14:51:30 |
+| Title                                       | URL                                                  |   Score | Date                |
+|:--------------------------------------------|:-----------------------------------------------------|--------:|:--------------------|
+| [D] Gemini 1M/10M token context window how? | https://github.com/lucidrains/ring-attention-pytorch |      61 | 2024-02-15 16:13:29 |
