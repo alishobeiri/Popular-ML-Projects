@@ -1,3 +1,5 @@
 Title,URL,Score,Date
 "[R] ""Generative Models: What do they know? Do they know things? Let's find out!"". Quote from paper: ""Our findings reveal that all types of the generative models we study contain rich information about scene intrinsics [normals, depth, albedo, and shading] that can be easily extracted using LoRA.""","https://arxiv.org/abs/2311.17137
-https://arxiv.org/abs/2306.00987",141,2024-02-23 14:51:03
+https://arxiv.org/abs/2306.00987",195,2024-02-23 14:51:03
+[R] LoRA+: Efficient Low Rank Adaptation of Large Models,"https://arxiv.org/abs/2402.12354
+https://github.com/nikhil-ghosh-berkeley/loraplus",29,2024-02-24 10:28:28
