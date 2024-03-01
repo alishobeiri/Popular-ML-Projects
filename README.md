@@ -1,3 +1,5 @@
-| Title                                                                 | URL                              |   Score | Date                |
-|:----------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | https://arxiv.org/abs/2402.17764 |     289 | 2024-02-28 10:03:46 |
+| Title                                                                                    | URL                                                     |   Score | Date                |
+|:-----------------------------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
+| [R] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits                    | https://arxiv.org/abs/2402.17764                        |     407 | 2024-02-28 10:03:46 |
+| [R] How to think step-by-step: A mechanistic understanding of chain-of-thought reasoning | https://arxiv.org/pdf/2402.18312.pdf                    |      43 | 2024-02-29 06:07:13 |
+|                                                                                          | https://github.com/joykirat18/How-To-Think-Step-by-Step |         |                     |
