@@ -1,5 +1,5 @@
-| Title                                                   | URL                                  |   Score | Date                |
-|:--------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| DeepMind introduces Hawk and Griffin [R]                | https://arxiv.org/abs/2402.19427     |     239 | 2024-03-01 04:28:34 |
-| [P] Luminal: Fast ML in Rust through graph compilation  | https://github.com/jafioti/luminal   |     116 | 2024-03-01 16:44:30 |
-| [D] BitNet 1-b/b1.58 LLMs - is that a threat to nvidia? | https://arxiv.org/pdf/2402.17764.pdf |      69 | 2024-03-02 10:42:49 |
+| Title                                                                                        | URL                                  |   Score | Date                |
+|:---------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [D] BitNet 1-b/b1.58 LLMs - is that a threat to nvidia?                                      | https://arxiv.org/pdf/2402.17764.pdf |      91 | 2024-03-02 10:42:49 |
+| [P] LaVague: Open-source Text2Action AI pipeline to turn natural language into Selenium code | https://github.com/dhuynh95/LaVague  |      51 | 2024-03-03 15:38:00 |
+| [R] Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers                   | https://arxiv.org/pdf/2402.19479.pdf |      30 | 2024-03-02 16:56:02 |
