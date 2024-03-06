@@ -1,6 +1,4 @@
-| Title                                                                                        | URL                                  |   Score | Date                |
-|:---------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [D] ML being unserious?                                                                      | https://arxiv.org/abs/2402.17764     |     124 | 2024-03-04 03:43:31 |
-| [D] Why do GLUs (Gated Linear Units) work?                                                   | https://arxiv.org/pdf/2002.05202.pdf |      73 | 2024-03-04 17:18:26 |
-|                                                                                              | https://arxiv.org/pdf/2311.16867.pdf |         |                     |
-| [P] LaVague: Open-source Text2Action AI pipeline to turn natural language into Selenium code | https://github.com/dhuynh95/LaVague  |      69 | 2024-03-03 15:38:00 |
+| Title                                      | URL                                  |   Score | Date                |
+|:-------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [D] Why do GLUs (Gated Linear Units) work? | https://arxiv.org/pdf/2002.05202.pdf |     117 | 2024-03-04 17:18:26 |
+|                                            | https://arxiv.org/pdf/2311.16867.pdf |         |                     |
