@@ -1,6 +1,7 @@
 Title,URL,Score,Date
-"[R] Microsoft Research unveils NaturalSpeech 3, a significant advancement in zero-shot text-to-speech technology.",https://arxiv.org/abs/2403.03100,82,2024-03-07 08:47:57
-[D] The reversal curse,"https://arxiv.org/pdf/2309.12288.pdf
-https://arxiv.org/pdf/2308.03296.pdf",77,2024-03-06 18:16:43
-[D] Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People,"https://arxiv.org/abs/2403.03640
-https://github.com/FreedomIntelligence/Apollo",75,2024-03-07 05:33:06
+[R] GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection,"https://arxiv.org/abs/2403.03507
+https://github.com/jiaweizzhao/GaLore",80,2024-03-07 23:57:35
+[P] Flash Attention in ~100 lines of CUDA,https://github.com/tspeterkim/flash-attention-minimal,46,2024-03-08 01:50:49
+[R] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study - Beijing Academy of Artificial Intelligence (BAAI) 2024 - First Agent able to follow and finish real missions in a AAA game!,https://arxiv.org/abs/2403.03186,44,2024-03-08 09:02:42
+"[R] LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error - Microsoft Semantic Machines 2024 - Giving Mistral-Instruct-7B a boost of 46,7% points and enabling it to outperform GPT-4 in the ToolBench benchmark!","https://arxiv.org/abs/2403.04746
+https://github.com/microsoft/simulated-trial-and-error",27,2024-03-08 14:39:12
