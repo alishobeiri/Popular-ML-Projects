@@ -1,7 +1,6 @@
 Title,URL,Score,Date
-[R] GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection,"https://arxiv.org/abs/2403.03507
-https://github.com/jiaweizzhao/GaLore",80,2024-03-07 23:57:35
-[P] Flash Attention in ~100 lines of CUDA,https://github.com/tspeterkim/flash-attention-minimal,46,2024-03-08 01:50:49
-[R] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study - Beijing Academy of Artificial Intelligence (BAAI) 2024 - First Agent able to follow and finish real missions in a AAA game!,https://arxiv.org/abs/2403.03186,44,2024-03-08 09:02:42
+"[N] Matrix multiplication breakthrough could lead to faster, more efficient AI models","https://arxiv.org/abs/2210.10173
+https://arxiv.org/abs/2010.05846",398,2024-03-09 06:28:00
+[R] LLMs surpass human experts in predicting neuroscience experiment outcomes (81% vs 63%),https://arxiv.org/pdf/2403.03230.pdf,47,2024-03-09 19:37:49
 "[R] LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error - Microsoft Semantic Machines 2024 - Giving Mistral-Instruct-7B a boost of 46,7% points and enabling it to outperform GPT-4 in the ToolBench benchmark!","https://arxiv.org/abs/2403.04746
-https://github.com/microsoft/simulated-trial-and-error",27,2024-03-08 14:39:12
+https://github.com/microsoft/simulated-trial-and-error",35,2024-03-08 14:39:12
