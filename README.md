@@ -1,3 +1,4 @@
-| Title                                                                                      | URL                                  |   Score | Date                |
-|:-------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] LLMs surpass human experts in predicting neuroscience experiment outcomes (81% vs 63%) | https://arxiv.org/pdf/2403.03230.pdf |     126 | 2024-03-09 19:37:49 |
+| Title                                                                            | URL                                                    |   Score | Date                |
+|:---------------------------------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
+| [D] How does Gemini 1.5 Pro recall information in 10M context?                   | https://arxiv.org/ftp/arxiv/papers/2403/2403.05530.pdf |      92 | 2024-03-11 12:26:01 |
+| [R] ShortGPT: Layers in Large Language Models are More Redundant Than You Expect | https://arxiv.org/abs/2403.03853                       |      80 | 2024-03-11 11:41:14 |
