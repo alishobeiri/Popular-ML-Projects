@@ -1,4 +1,5 @@
 | Title                                                                            | URL                                                    |   Score | Date                |
 |:---------------------------------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
-| [D] How does Gemini 1.5 Pro recall information in 10M context?                   | https://arxiv.org/ftp/arxiv/papers/2403/2403.05530.pdf |      92 | 2024-03-11 12:26:01 |
-| [R] ShortGPT: Layers in Large Language Models are More Redundant Than You Expect | https://arxiv.org/abs/2403.03853                       |      80 | 2024-03-11 11:41:14 |
+| [D] How does Gemini 1.5 Pro recall information in 10M context?                   | https://arxiv.org/ftp/arxiv/papers/2403/2403.05530.pdf |     148 | 2024-03-11 12:26:01 |
+| [R] ShortGPT: Layers in Large Language Models are More Redundant Than You Expect | https://arxiv.org/abs/2403.03853                       |     116 | 2024-03-11 11:41:14 |
+| [R] Position Paper: Agent AI Towards a Holistic Intelligence - Microsoft 2024    | https://arxiv.org/abs/2403.00833                       |      28 | 2024-03-11 09:26:07 |
