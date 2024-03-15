@@ -1,3 +1,7 @@
 Title,URL,Score,Date
-[R] Data Interpreter: An LLM Agent for Data Science,https://github.com/geekan/MetaGPT,206,2024-03-13 17:46:45
-[D] All state of the art LLMs make factual mistakes at the amateur level in many fields. Is this harder to train for than the expert level?,https://arxiv.org/abs/2311.12022,73,2024-03-13 04:01:23
+[R] Data Interpreter: An LLM Agent for Data Science,https://github.com/geekan/MetaGPT,304,2024-03-13 17:46:45
+[R] Chronos: Learning the Language of Time Series,"https://arxiv.org/abs/2403.07815
+https://github.com/amazon-science/chronos-forecasting",38,2024-03-14 10:04:49
+[P] Training Models on Encrypted Data,"https://github.com/zama-ai/concrete-ml
+https://github.com/zama-ai/concrete
+https://github.com/zama-ai/concrete-ml/blob/main/docs/advanced_examples/LogisticRegressionTraining.ipynb",35,2024-03-14 17:56:47
