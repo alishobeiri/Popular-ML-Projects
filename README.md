@@ -1,8 +1,5 @@
-| Title                                               | URL                                                                                                      |   Score | Date                |
-|:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Data Interpreter: An LLM Agent for Data Science | https://github.com/geekan/MetaGPT                                                                        |     304 | 2024-03-13 17:46:45 |
-| [R] Chronos: Learning the Language of Time Series   | https://arxiv.org/abs/2403.07815                                                                         |      38 | 2024-03-14 10:04:49 |
-|                                                     | https://github.com/amazon-science/chronos-forecasting                                                    |         |                     |
-| [P] Training Models on Encrypted Data               | https://github.com/zama-ai/concrete-ml                                                                   |      35 | 2024-03-14 17:56:47 |
-|                                                     | https://github.com/zama-ai/concrete                                                                      |         |                     |
-|                                                     | https://github.com/zama-ai/concrete-ml/blob/main/docs/advanced_examples/LogisticRegressionTraining.ipynb |         |                     |
+| Title                                 | URL                                                                                                      |   Score | Date                |
+|:--------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] Training Models on Encrypted Data | https://github.com/zama-ai/concrete-ml                                                                   |      61 | 2024-03-14 17:56:47 |
+|                                       | https://github.com/zama-ai/concrete                                                                      |         |                     |
+|                                       | https://github.com/zama-ai/concrete-ml/blob/main/docs/advanced_examples/LogisticRegressionTraining.ipynb |         |                     |
