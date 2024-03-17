@@ -1,5 +1,6 @@
-| Title                                 | URL                                                                                                      |   Score | Date                |
-|:--------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Training Models on Encrypted Data | https://github.com/zama-ai/concrete-ml                                                                   |      61 | 2024-03-14 17:56:47 |
-|                                       | https://github.com/zama-ai/concrete                                                                      |         |                     |
-|                                       | https://github.com/zama-ai/concrete-ml/blob/main/docs/advanced_examples/LogisticRegressionTraining.ipynb |         |                     |
+| Title                                                                                             | URL                                                       |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [P] Reproducing the "Self-Rewarding Language Models" Paper by MetaAI                              | https://github.com/Oxen-AI/Self-Rewarding-Language-Models |     109 | 2024-03-15 20:42:50 |
+| [R] Apple - MM1: Methods, Analysis &amp; Insights from Multimodal LLM Pre-training                | https://arxiv.org/pdf/2403.09611.pdf                      |      34 | 2024-03-16 17:29:24 |
+| [P] LLaMA Nuts and Bolts: A holistic way of understanding how LLaMA and Large Language Models run | https://github.com/adalkiran/llama-nuts-and-bolts         |      32 | 2024-03-16 13:25:39 |
+| [R] RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion      | https://github.com/FSoft-AI4Code/RepoHyper                |      31 | 2024-03-16 10:41:53 |
