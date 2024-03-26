@@ -1,3 +1,4 @@
-| Title                                                           | URL                                                                                                     |   Score | Date                |
-|:----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] Training code and more released for “The Era of 1 Bit LLMs” | https://github.com/microsoft/unilm/blob/master/bitnet/The-Era-of-1-bit-LLMs__Training_Tips_Code_FAQ.pdf |     108 | 2024-03-21 10:09:04 |
+| Title                                                               | URL                                    |   Score | Date                |
+|:--------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
+| [Discussion] On Plagiarism of "Trajectory Consistency Distillation" | https://arxiv.org/pdf/2310.02279v1.pdf |      71 | 2024-03-25 19:42:33 |
+|                                                                     | https://arxiv.org/pdf/2402.19159.pdf   |         |                     |
