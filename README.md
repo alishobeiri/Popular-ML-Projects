@@ -1,7 +1,3 @@
-| Title                                                                                                     | URL                                      |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| The end of hallucination (for those who can afford it)? [R]                                               | https://arxiv.org/abs/2403.18802         |     253 | 2024-03-28 15:04:00 |
-| [D] A Little guide to building Large Language Models in 2024 – 75min lecture                              | https://github.com/huggingface/datatrove |     117 | 2024-03-28 16:26:57 |
-|                                                                                                           | https://github.com/huggingface/nanotron  |         |                     |
-|                                                                                                           | https://github.com/huggingface/lighteval |         |                     |
-| [P] Jamba: the first production-grade Mamba-based model delivering best-in-class quality and performance. | https://arxiv.org/pdf/2312.00752.pdf     |     116 | 2024-03-29 03:39:56 |
+| Title                         | URL                                   |   Score | Date                |
+|:------------------------------|:--------------------------------------|--------:|:--------------------|
+| Question about DDIM paper [D] | https://arxiv.org/pdf/2010.02502.pdf) |      39 | 2024-03-29 21:05:02 |
