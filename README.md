@@ -1,3 +1,4 @@
 | Title                                                                        | URL                                        |   Score | Date                |
 |:-----------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] SWE-agent: an open source coding agent that achieves 12.29% on SWE-bench | https://github.com/princeton-nlp/swe-agent |     100 | 2024-04-02 11:42:02 |
+| [P] SWE-agent: an open source coding agent that achieves 12.29% on SWE-bench | https://github.com/princeton-nlp/swe-agent |     159 | 2024-04-02 11:42:02 |
+| [D] GPT-3.5-Turbo is most likely the same size as Mixtral-8x7B!              | https://arxiv.org/abs/2403.09539v2         |      58 | 2024-04-02 23:35:24 |
