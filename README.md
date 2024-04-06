@@ -1,3 +1,3 @@
 | Title                                                                                                 | URL                              |   Score | Date                |
 |:------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Deepmind - Mixture-of-Depths: Dynamically allocating compute in transformer-based language models | https://arxiv.org/abs/2404.02258 |      35 | 2024-04-04 16:20:00 |
+| [R] Deepmind - Mixture-of-Depths: Dynamically allocating compute in transformer-based language models | https://arxiv.org/abs/2404.02258 |      73 | 2024-04-04 16:20:00 |
