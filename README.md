@@ -1,3 +1,3 @@
-| Title                                                                                                 | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Deepmind - Mixture-of-Depths: Dynamically allocating compute in transformer-based language models | https://arxiv.org/abs/2404.02258 |      73 | 2024-04-04 16:20:00 |
+| Title                                                                         | URL                                                 |   Score | Date                |
+|:------------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
+| [P] [D] I have created a beginner-friendly quantum machine learning handbook. | https://github.com/Winter-Soren/quantum-ml-handbook |      56 | 2024-04-07 09:04:09 |
