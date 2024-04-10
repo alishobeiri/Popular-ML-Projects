@@ -1,3 +1,3 @@
-| Title                                                                         | URL                                                 |   Score | Date                |
-|:------------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
-| [P] [D] I have created a beginner-friendly quantum machine learning handbook. | https://github.com/Winter-Soren/quantum-ml-handbook |      83 | 2024-04-07 09:04:09 |
+| Title                                            | URL                              |   Score | Date                |
+|:-------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] The Missing U for Efficient Diffusion Models | https://arxiv.org/abs/2310.20092 |      41 | 2024-04-09 01:26:11 |
