@@ -1,6 +1,5 @@
-| Title                                                                                                               | URL                                               |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [R] From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples | https://arxiv.org/abs/2404.07544                  |      56 | 2024-04-12 19:30:08 |
-|                                                                                                                     | https://github.com/robertvacareanu/llm4regression |         |                     |
-| [R] New Python packages to optimise LLMs                                                                            | https://github.com/astramind-ai/BitMat            |      43 | 2024-04-13 10:10:13 |
-|                                                                                                                     | https://github.com/astramind-ai/Mixture-of-depths |         |                     |
+| Title                                                                                                  | URL                                               |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
+| [R] New Python packages to optimise LLMs                                                               | https://github.com/astramind-ai/BitMat            |      62 | 2024-04-13 10:10:13 |
+|                                                                                                        | https://github.com/astramind-ai/Mixture-of-depths |         |                     |
+| [P] Extremely Short and Simple implementation of discrete diffusion, in pytorch, open source (400 loc) | https://github.com/cloneofsimo/d3pm               |      32 | 2024-04-14 09:49:52 |
