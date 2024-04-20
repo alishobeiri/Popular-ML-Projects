@@ -1,4 +1,4 @@
-| Title                                                                                  | URL                                                                                                                                     |   Score | Date                |
-|:---------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| Diffusion versus Auto-regressive models for image generation. Which is better? [D] [R] | https://arxiv.org/abs/2404.02905                                                                                                        |      26 | 2024-04-16 01:27:48 |
-|                                                                                        | https://github.com/FoundationVision/VAR?tab=readme-ov-file#-for-the-first-time-gpt-style-autoregressive-models-surpass-diffusion-models |         |                     |
+| Title                                            | URL                                                       |   Score | Date                |
+|:-------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [R] Compression Represents Intelligence Linearly | https://arxiv.org/abs/2404.09937                          |      38 | 2024-04-18 15:54:51 |
+|                                                  | https://github.com/hkust-nlp/llm-compression-intelligence |         |                     |
