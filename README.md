@@ -1,4 +1,4 @@
-| Title                                            | URL                                                       |   Score | Date                |
-|:-------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
-| [R] Compression Represents Intelligence Linearly | https://arxiv.org/abs/2404.09937                          |      38 | 2024-04-18 15:54:51 |
-|                                                  | https://github.com/hkust-nlp/llm-compression-intelligence |         |                     |
+| Title                                                                                        | URL                                                                 |   Score | Date                |
+|:---------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|--------:|:--------------------|
+| [R] Recurrent Memory has broken the limits of Context Length for Transformer Neural Networks | https://arxiv.org/abs/2304.11062                                    |      32 | 2024-04-22 10:08:22 |
+|                                                                                              | https://github.com/booydar/recurrent-memory-transformer/tree/aaai24 |         |                     |
