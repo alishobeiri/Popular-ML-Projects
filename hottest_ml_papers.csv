@@ -1,4 +1,4 @@
 Title,URL,Score,Date
-[R]Large language models may not be able to sample behavioral probability distributions,https://arxiv.org/abs/2404.09043,33,2024-04-26 16:11:38
-[D] Critical batch size and LLMs,"https://arxiv.org/abs/1812.06162
-https://arxiv.org/abs/2001.08361",32,2024-04-26 09:21:42
+"""transformers can use meaningless filler tokens (e.g., '......') in place of a chain of thought"" - Let's Think Dot by Dot [P]",https://arxiv.org/abs/2404.15758,40,2024-04-28 09:59:19
+[D] Why isn't RETRO mainstream / state-of-the-art within LLMs?,https://arxiv.org/abs/2112.04426,30,2024-04-28 19:58:00
+[P] NLLB-200 Distill 350M for en-ko,https://github.com/newfull5/NLLB-200-Distilled-350M-en-ko,26,2024-04-28 01:26:04
