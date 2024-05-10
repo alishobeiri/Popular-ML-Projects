@@ -1,5 +1,6 @@
-| Title                                                       | URL                                                                              |   Score | Date                |
-|:------------------------------------------------------------|:---------------------------------------------------------------------------------|--------:|:--------------------|
-| [Research] xLSTM: Extended Long Short-Term Memory           | https://arxiv.org/abs/2405.04517                                                 |     144 | 2024-05-08 05:06:40 |
-| [P] Skyrim - Open-source model zoo for Large Weather Models | https://github.com/secondlaw-ai/skyrim                                           |      75 | 2024-05-07 15:58:07 |
-|                                                             | https://github.com/secondlaw-ai/skyrim/blob/master/notebooks/01_quickstart.ipynb |         |                     |
+| Title                                                                                        | URL                                           |   Score | Date                |
+|:---------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [Research] xLSTM: Extended Long Short-Term Memory                                            | https://arxiv.org/abs/2405.04517              |     158 | 2024-05-08 05:06:40 |
+| [Research] Consistency LLMs: converting LLMs to parallel decoders accelerates inference 3.5x | https://arxiv.org/abs/2305.10427              |      47 | 2024-05-08 21:15:34 |
+|                                                                                              | http://arxiv.org/abs/2403.00835               |         |                     |
+|                                                                                              | https://github.com/hao-ai-lab/Consistency_LLM |         |                     |
