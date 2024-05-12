@@ -1,5 +1,3 @@
-| Title                                                                                        | URL                                           |   Score | Date                |
-|:---------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [Research] Consistency LLMs: converting LLMs to parallel decoders accelerates inference 3.5x | https://arxiv.org/abs/2305.10427              |      50 | 2024-05-08 21:15:34 |
-|                                                                                              | http://arxiv.org/abs/2403.00835               |         |                     |
-|                                                                                              | https://github.com/hao-ai-lab/Consistency_LLM |         |                     |
+| Title                                                         | URL                             |   Score | Date                |
+|:--------------------------------------------------------------|:--------------------------------|--------:|:--------------------|
+| [R] Marcus Hutter's work on Universal Artificial Intelligence | https://arxiv.org/abs/0712.3329 |      64 | 2024-05-11 08:38:41 |
