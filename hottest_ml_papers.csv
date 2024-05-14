@@ -1,2 +1,6 @@
 Title,URL,Score,Date
-[R] Marcus Hutter's work on Universal Artificial Intelligence,https://arxiv.org/abs/0712.3329,88,2024-05-11 08:38:41
+"[R] Our new classification algorithm outperforms CatBoost, XGBoost, LightGBM on five benchmark datasets, on accuracy and response time
+",https://github.com/LinearBoost/linearboost-classifier,165,2024-05-13 09:33:25
+[P] DARWIN - open-sourced Devin alternative,https://github.com/Cognation/darwin,41,2024-05-12 17:28:49
+[P] SimpleGEMM: Fast and minimal tensor core matrix multiplication in CUDA,"https://github.com/andylolu2/simpleGEMM
+https://github.com/openai/triton/issues/189",39,2024-05-12 20:55:20
