@@ -1,4 +1,4 @@
 Title,URL,Score,Date
-"[R] Our new classification algorithm outperforms CatBoost, XGBoost, LightGBM on five benchmark datasets, on accuracy and response time
-",https://github.com/LinearBoost/linearboost-classifier,209,2024-05-13 09:33:25
-"[D] Full causal self-attention layer in O(NlogN) computation steps and O(logN) time rather than O(N^2) computation steps and O(1) time, with a big caveat, but hope for the future.",https://arxiv.org/abs/2312.00752,90,2024-05-14 03:08:13
+"[D] Full causal self-attention layer in O(NlogN) computation steps and O(logN) time rather than O(N^2) computation steps and O(1) time, with a big caveat, but hope for the future.",https://arxiv.org/abs/2312.00752,101,2024-05-14 03:08:13
+[R] The Platonic Representation Hypothesis,"https://arxiv.org/pdf/2405.07987
+https://github.com/minyoungg/platonic-rep/",52,2024-05-15 09:37:59
