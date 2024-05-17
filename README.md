@@ -1,5 +1,5 @@
-| Title                                                                                                                                                                               | URL                                        |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [D] Full causal self-attention layer in O(NlogN) computation steps and O(logN) time rather than O(N^2) computation steps and O(1) time, with a big caveat, but hope for the future. | https://arxiv.org/abs/2312.00752           |     101 | 2024-05-14 03:08:13 |
-| [R] The Platonic Representation Hypothesis                                                                                                                                          | https://arxiv.org/pdf/2405.07987           |      52 | 2024-05-15 09:37:59 |
-|                                                                                                                                                                                     | https://github.com/minyoungg/platonic-rep/ |         |                     |
+| Title                                                                 | URL                                        |   Score | Date                |
+|:----------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [R] The Platonic Representation Hypothesis                            | https://arxiv.org/pdf/2405.07987           |      59 | 2024-05-15 09:37:59 |
+|                                                                       | https://github.com/minyoungg/platonic-rep/ |         |                     |
+| [R] Fully neuromorphic vision and control for autonomous drone flight | https://arxiv.org/abs/2211.13726           |      28 | 2024-05-16 05:02:30 |
