@@ -1,4 +1,4 @@
-| Title                                                                 | URL                                                |   Score | Date                |
-|:----------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Fully neuromorphic vision and control for autonomous drone flight | https://arxiv.org/abs/2211.13726                   |      30 | 2024-05-16 05:02:30 |
-| [P] Needle in a Needlestack (NIAN)                                    | https://github.com/llmonpy/needle-in-a-needlestack |      29 | 2024-05-16 10:22:38 |
+| Title                                                                     | URL                                                     |   Score | Date                |
+|:--------------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
+| [R] Grounding DINO 1.5 Release: the most capable open-set detection model | https://arxiv.org/abs/2405.10300                        |      27 | 2024-05-18 16:05:42 |
+|                                                                           | https://github.com/IDEA-Research/Grounding-DINO-1.5-API |         |                     |
