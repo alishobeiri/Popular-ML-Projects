@@ -1,3 +1,3 @@
-| Title                                                                                                      | URL                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Enabling sparse, foundational LLMs for faster and more efficient models from Neural Magic and Cerebras | https://arxiv.org/abs/2405.03594 |      33 | 2024-05-21 13:36:34 |
+| Title                                               | URL                                      |   Score | Date                |
+|:----------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [P] Fish Speech TTS: clone OpenAI TTS in 30 minutes | https://github.com/fishaudio/fish-speech |      29 | 2024-05-22 10:11:52 |
