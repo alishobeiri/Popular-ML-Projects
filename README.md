@@ -1,5 +1,7 @@
-| Title                                                                                     | URL                                  |   Score | Date                |
-|:------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] YOLOv10: Real-Time End-to-End Object Detection                                        | https://arxiv.org/abs/2405.14458     |     132 | 2024-05-25 09:48:07 |
-|                                                                                           | https://github.com/THU-MIG/yolov10   |         |                     |
-| [P] ReRecall: I tried to recreate Microsoft's Recall using open-source models &amp; tools | https://github.com/AbdBarho/ReRecall |      30 | 2024-05-26 16:08:34 |
+| Title                                                                                     | URL                                             |   Score | Date                |
+|:------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
+| [P] ReRecall: I tried to recreate Microsoft's Recall using open-source models &amp; tools | https://github.com/AbdBarho/ReRecall            |      60 | 2024-05-26 16:08:34 |
+| [D] Was Fractal Net Ever Expanded Upon?                                                   | https://arxiv.org/abs/1605.07648                |      35 | 2024-05-27 13:28:20 |
+| [R] Why In-Context Learning Transformers are Tabular Data Classifiers                     | https://arxiv.org/pdf/2207.01848                |      29 | 2024-05-26 08:09:15 |
+|                                                                                           | https://arxiv.org/pdf/2405.13396                |         |                     |
+|                                                                                           | https://github.com/FelixdenBreejen/TabForestPFN |         |                     |
