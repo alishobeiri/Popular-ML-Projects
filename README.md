@@ -1,5 +1,3 @@
-| Title                                                                                                                                                                            | URL                                             |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [R] I ran 580 model-dataset experiments to show that, even if you try very hard, it is almost impossible to know that a model is degrading just by looking at data drift results | https://arxiv.org/abs/2401.08348                |     126 | 2024-05-30 15:54:21 |
-|                                                                                                                                                                                  | https://github.com/socialfoundations/folktables |         |                     |
-| [D] Is Mojo worth it or which second language would you learn for ML?                                                                                                            | https://github.com/tairov/llama2.mojo           |      38 | 2024-06-01 11:15:04 |
+| Title                                                                 | URL                                   |   Score | Date                |
+|:----------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [D] Is Mojo worth it or which second language would you learn for ML? | https://github.com/tairov/llama2.mojo |      45 | 2024-06-01 11:15:04 |
