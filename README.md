@@ -1,3 +1,4 @@
-| Title                                                                 | URL                                   |   Score | Date                |
-|:----------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [D] Is Mojo worth it or which second language would you learn for ML? | https://github.com/tairov/llama2.mojo |      45 | 2024-06-01 11:15:04 |
+| Title                                                     | URL                              |   Score | Date                |
+|:----------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [P] mamba.np: pure NumPy implementation of Mamba          | https://github.com/idoh/mamba.np |      98 | 2024-06-04 16:02:19 |
+| [R] A Study in Dataset Pruning for Image Super-Resolution | https://arxiv.org/abs/2403.17083 |      49 | 2024-06-04 09:14:01 |
