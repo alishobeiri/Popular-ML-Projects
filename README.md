@@ -1,3 +1,3 @@
 | Title                                      | URL                              |   Score | Date                |
 |:-------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Scalable MatMul-free Language Modeling | https://arxiv.org/abs/2406.02528 |      65 | 2024-06-06 11:08:05 |
+| [R] Scalable MatMul-free Language Modeling | https://arxiv.org/abs/2406.02528 |      75 | 2024-06-06 11:08:05 |
