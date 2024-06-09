@@ -1,3 +1,3 @@
-| Title                                      | URL                              |   Score | Date                |
-|:-------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Scalable MatMul-free Language Modeling | https://arxiv.org/abs/2406.02528 |      75 | 2024-06-06 11:08:05 |
+| Title                            | URL                                                    |   Score | Date                |
+|:---------------------------------|:-------------------------------------------------------|--------:|:--------------------|
+| [P] Labeling data the tinder way | https://github.com/krishsharma0413/tinder-for-reviews/ |      63 | 2024-06-08 07:21:02 |
