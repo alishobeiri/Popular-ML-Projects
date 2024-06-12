@@ -1,3 +1,3 @@
-| Title                            | URL                                                    |   Score | Date                |
-|:---------------------------------|:-------------------------------------------------------|--------:|:--------------------|
-| [P] Labeling data the tinder way | https://github.com/krishsharma0413/tinder-for-reviews/ |      77 | 2024-06-08 07:21:02 |
+| Title                                                   | URL                              |   Score | Date                |
+|:--------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [N] YaFSDP vs. FSDP for LLM training: real improvement? | https://github.com/yandex/YaFSDP |      36 | 2024-06-11 11:41:55 |
