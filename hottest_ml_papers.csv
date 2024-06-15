@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-"[D] Is grokking ""solved""?","https://arxiv.org/abs/2405.20233
-https://arxiv.org/abs/2210.01117",59,2024-06-12 19:55:40
-"[P] I'm tired of LangChain, so I made a simple open-source alternative with support for tool using and vision, for building Python AI apps as easy as possible. (simpleaichat + vision + anthropic and gemini).","https://github.com/piEsposito/tiny-ai-client
-https://github.com/minimaxir/simpleaichat/tree/main",49,2024-06-12 19:36:58
+[D] What do you think of NoPE (on small models at least)?,"https://arxiv.org/abs/2305.19466
+https://github.com/karpathy/build-nanogpt",36,2024-06-13 22:00:02
