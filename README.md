@@ -1,4 +1,8 @@
-| Title                                                     | URL                                       |   Score | Date                |
-|:----------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [D] What do you think of NoPE (on small models at least)? | https://arxiv.org/abs/2305.19466          |      36 | 2024-06-13 22:00:02 |
-|                                                           | https://github.com/karpathy/build-nanogpt |         |                     |
+| Title                                                                        | URL                                                                                                   |   Score | Date                |
+|:-----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [R] CFG++ : A simple fix for addressing the flaws of CFG in diffusion models | https://arxiv.org/abs/2406.08070                                                                      |      37 | 2024-06-15 04:16:13 |
+|                                                                              | https://github.com/CFGpp-diffusion/CFGpp                                                              |         |                     |
+| [D] Nemotron-4 340b detailed analysis                                        | http://arxiv.org/pdf/2002.05202                                                                       |      29 | 2024-06-14 19:20:53 |
+|                                                                              | https://arxiv.org/abs/2109.08668v2                                                                    |         |                     |
+|                                                                              | https://arxiv.org/abs/2404.05405                                                                      |         |                     |
+|                                                                              | https://github.com/huggingface/transformers/blob/main/src/transformers/models/phi/modeling_phi.py#L79 |         |                     |
