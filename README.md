@@ -1,4 +1,4 @@
-| Title                                                                        | URL                                      |   Score | Date                |
-|:-----------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] CFG++ : A simple fix for addressing the flaws of CFG in diffusion models | https://arxiv.org/abs/2406.08070         |      40 | 2024-06-15 04:16:13 |
-|                                                                              | https://github.com/CFGpp-diffusion/CFGpp |         |                     |
+| Title                                     | URL                                                        |   Score | Date                |
+|:------------------------------------------|:-----------------------------------------------------------|--------:|:--------------------|
+| [P] Mixed Precision Training from Scratch | https://arxiv.org/abs/1710.03740)                          |      37 | 2024-06-17 00:28:51 |
+|                                           | https://github.com/tspeterkim/mixed-precision-from-scratch |         |                     |
