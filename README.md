@@ -1,4 +1,4 @@
-| Title                                     | URL                                                        |   Score | Date                |
-|:------------------------------------------|:-----------------------------------------------------------|--------:|:--------------------|
-| [P] Mixed Precision Training from Scratch | https://arxiv.org/abs/1710.03740)                          |      37 | 2024-06-17 00:28:51 |
-|                                           | https://github.com/tspeterkim/mixed-precision-from-scratch |         |                     |
+| Title                                                                          | URL                                   |   Score | Date                |
+|:-------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [P] fast_mamba.np: pure and fast NumPy implementation of Mamba with 4x speedup | https://github.com/idoh/mamba.np      |      36 | 2024-06-17 15:39:27 |
+|                                                                                | https://github.com/idoh/fast_mamba.np |         |                     |
