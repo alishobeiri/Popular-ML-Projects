@@ -1,4 +1,3 @@
-| Title                                                                          | URL                                   |   Score | Date                |
-|:-------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [P] fast_mamba.np: pure and fast NumPy implementation of Mamba with 4x speedup | https://github.com/idoh/mamba.np      |      36 | 2024-06-17 15:39:27 |
-|                                                                                | https://github.com/idoh/fast_mamba.np |         |                     |
+| Title                                                                                    | URL                             |   Score | Date                |
+|:-----------------------------------------------------------------------------------------|:--------------------------------|--------:|:--------------------|
+| [D] - AMD MI300X and Nvidia H100 benchmarking in FFT: VkFFT, cuFFT and rocFFT comparison | https://github.com/DTolm/VkFFT/ |      35 | 2024-06-18 21:05:58 |
