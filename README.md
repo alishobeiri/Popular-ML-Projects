@@ -1,3 +1,4 @@
-| Title                                                                                    | URL                             |   Score | Date                |
-|:-----------------------------------------------------------------------------------------|:--------------------------------|--------:|:--------------------|
-| [D] - AMD MI300X and Nvidia H100 benchmarking in FFT: VkFFT, cuFFT and rocFFT comparison | https://github.com/DTolm/VkFFT/ |      35 | 2024-06-18 21:05:58 |
+| Title                                                                 | URL                                   |   Score | Date                |
+|:----------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [Project] LLM based Python docs that never touches your original code | https://github.com/MananSoni42/lmdocs |      54 | 2024-06-21 06:44:04 |
+| [P] PixelProse 16M Dense Image Captions Dataset                       | https://arxiv.org/abs/2406.10328      |      36 | 2024-06-20 19:37:26 |
