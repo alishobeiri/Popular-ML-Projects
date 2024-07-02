@@ -1,3 +1,3 @@
 | Title                                                                       | URL                              |   Score | Date                |
 |:----------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] LLMs can infer censored knowledge from scattered hints in training data | https://arxiv.org/abs/2406.14546 |      61 | 2024-06-30 11:22:48 |
+| [R] LLMs can infer censored knowledge from scattered hints in training data | https://arxiv.org/abs/2406.14546 |      84 | 2024-06-30 11:22:48 |
