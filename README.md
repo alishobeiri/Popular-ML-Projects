@@ -1,3 +1,3 @@
-| Title                                                                       | URL                              |   Score | Date                |
-|:----------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] LLMs can infer censored knowledge from scattered hints in training data | https://arxiv.org/abs/2406.14546 |      84 | 2024-06-30 11:22:48 |
+| Title                                                                | URL                              |   Score | Date                |
+|:---------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Large language models are much more linear than everyone thought | https://arxiv.org/abs/2405.12250 |      27 | 2024-07-01 08:40:48 |
