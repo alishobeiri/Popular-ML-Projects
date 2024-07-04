@@ -1,3 +1,3 @@
-| Title                                                                | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Large language models are much more linear than everyone thought | https://arxiv.org/abs/2405.12250 |      27 | 2024-07-01 08:40:48 |
+| Title                                                                                       | URL                                       |   Score | Date                |
+|:--------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [P] New collection of Llama, Mistral, Phi, Qwen, and Gemma models for function/tool calling | https://github.com/gptscript-ai/gptscript |      31 | 2024-07-03 02:18:12 |
