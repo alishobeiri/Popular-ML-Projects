@@ -1,3 +1,6 @@
-| Title                                                                                         | URL                             |   Score | Date                |
-|:----------------------------------------------------------------------------------------------|:--------------------------------|--------:|:--------------------|
-| [R] An Empirical Study of Mamba-based Language Models (8B Mamba-2-Hybrid on 3.5T tokens data) | http://arxiv.org/abs/2406.07887 |      37 | 2024-07-07 05:52:31 |
+| Title                                                                             | URL                                                                |   Score | Date                |
+|:----------------------------------------------------------------------------------|:-------------------------------------------------------------------|--------:|:--------------------|
+| [R] Memory^3 : Language Modeling with Explicit Memory                             | https://arxiv.org/pdf/2407.01178                                   |      61 | 2024-07-11 20:02:40 |
+| [P] From Unlabeled Data to Rich Segmentation: The Magic of Self-Supervised Models | https://github.com/RobvanGastel/dinov2-finetune?tab=readme-ov-file |      38 | 2024-07-11 17:17:29 |
+| [N] Google Research - Combining Vision Language Model with Ink Modality           | https://arxiv.org/abs/2402.15307                                   |      27 | 2024-07-12 13:58:31 |
+|                                                                                   | https://arxiv.org/abs/2402.05804                                   |         |                     |
