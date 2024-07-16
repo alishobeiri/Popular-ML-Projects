@@ -1,6 +1,6 @@
 | Title                                                                                                  | URL                                                                 |   Score | Date                |
 |:-------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|--------:|:--------------------|
-| [R] Understanding the Unreasonable Effectiveness of Discrete Representations In Reinforcement Learning | https://arxiv.org/abs/2312.01203                                    |      69 | 2024-07-13 16:20:23 |
+| [R] Understanding the Unreasonable Effectiveness of Discrete Representations In Reinforcement Learning | https://arxiv.org/abs/2312.01203                                    |      72 | 2024-07-13 16:20:23 |
 |                                                                                                        | https://arxiv.org/abs/2301.04104                                    |         |                     |
 |                                                                                                        | https://arxiv.org/abs/2010.05767                                    |         |                     |
 |                                                                                                        | https://github.com/ejmejm/discrete-representations-for-continual-rl |         |                     |
