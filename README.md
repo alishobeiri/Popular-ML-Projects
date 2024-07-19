@@ -1,5 +1,5 @@
-| Title                                                                                                    | URL                                         |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [R]  Protein language models expose viral mimicry and immune escape                                      | https://github.com/ddofer/ProteinHumVir     |      85 | 2024-07-16 09:13:15 |
-| [P] Tricycle: Autograd to GPT-2 completely from scratch                                                  | https://github.com/bclarkson-code/Tricycle/ |      70 | 2024-07-16 16:26:12 |
-| [R] Discussion on the paper: Transcendence: Generative Models Can Outperform The Experts That Train Them | https://arxiv.org/abs/2406.11741            |      41 | 2024-07-16 14:27:21 |
+| Title                                                                      | URL                                                 |   Score | Date                |
+|:---------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
+| [N] Fish Speech 1.3 Update: Enhanced Stability, Emotion, and Voice Cloning | https://github.com/fishaudio/fish-speech            |      75 | 2024-07-18 16:46:59 |
+| [R] Training LLMs to cite the pre-training data                            | https://arxiv.org/abs/2404.01019                    |      32 | 2024-07-18 16:43:02 |
+|                                                                            | https://github.com/mukhal/intrinsic-source-citation |         |                     |
