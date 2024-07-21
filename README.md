@@ -1,5 +1,3 @@
-| Title                                                                      | URL                                                 |   Score | Date                |
-|:---------------------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
-| [N] Fish Speech 1.3 Update: Enhanced Stability, Emotion, and Voice Cloning | https://github.com/fishaudio/fish-speech            |      71 | 2024-07-18 16:46:59 |
-| [R] Training LLMs to cite the pre-training data                            | https://arxiv.org/abs/2404.01019                    |      29 | 2024-07-18 16:43:02 |
-|                                                                            | https://github.com/mukhal/intrinsic-source-citation |         |                     |
+| Title                                                                      | URL                                      |   Score | Date                |
+|:---------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [N] Fish Speech 1.3 Update: Enhanced Stability, Emotion, and Voice Cloning | https://github.com/fishaudio/fish-speech |      73 | 2024-07-18 16:46:59 |
