@@ -1,3 +1,4 @@
-| Title                                                                      | URL                                      |   Score | Date                |
-|:---------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [N] Fish Speech 1.3 Update: Enhanced Stability, Emotion, and Voice Cloning | https://github.com/fishaudio/fish-speech |      73 | 2024-07-18 16:46:59 |
+| Title                                                                                                                                                             | URL                                                        |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|--------:|:--------------------|
+| [P] ChessGPT, 100,000x smaller than GPT-4, plays chess at 1500 Elo. By finding a skill vector, we can increase its win rate by 2.6x in out-of-distribution games. | https://arxiv.org/abs/2403.15498                           |      50 | 2024-07-21 19:59:09 |
+|                                                                                                                                                                   | https://github.com/adamkarvonen/chess_llm_interpretability |         |                     |
