@@ -1,5 +1,8 @@
-| Title                                                                                                                                                             | URL                                                        |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|--------:|:--------------------|
-| [P] ChessGPT, 100,000x smaller than GPT-4, plays chess at 1500 Elo. By finding a skill vector, we can increase its win rate by 2.6x in out-of-distribution games. | https://arxiv.org/abs/2403.15498                           |     263 | 2024-07-21 19:59:09 |
-|                                                                                                                                                                   | https://github.com/adamkarvonen/chess_llm_interpretability |         |                     |
-| [P] TTSDS - Benchmarking recent TTS systems                                                                                                                       | https://github.com/ttsds/ttsds                             |      32 | 2024-07-22 13:29:37 |
+| Title                                                     | URL                                                            |   Score | Date                |
+|:----------------------------------------------------------|:---------------------------------------------------------------|--------:|:--------------------|
+| [P] scikit-activeml: An Active Learning Library in Python | https://github.com/scikit-activeml/scikit-activeml             |      27 | 2024-07-23 14:00:24 |
+|                                                           | https://github.com/scikit-learn/scikit-learn                   |         |                     |
+|                                                           | https://github.com/skorch-dev/skorch                           |         |                     |
+|                                                           | https://github.com/online-ml/river                             |         |                     |
+|                                                           | https://github.com/scikit-activeml/scikit-activeml/issues      |         |                     |
+|                                                           | https://github.com/scikit-activeml/scikit-activeml/tree/master |         |                     |
