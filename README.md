@@ -1,3 +1,3 @@
-| Title                                          | URL                              |   Score | Date                |
-|:-----------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Shared Imagination: LLMs Hallucinate Alike | https://arxiv.org/abs/2407.16604 |     111 | 2024-07-25 13:49:22 |
+| Title                                                     | URL                                                    |   Score | Date                |
+|:----------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
+| Segment Anything Model 2 - Just released by Meta FAIR [R] | https://github.com/facebookresearch/segment-anything-2 |      88 | 2024-07-29 23:28:03 |
