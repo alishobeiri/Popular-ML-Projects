@@ -1,3 +1,3 @@
 | Title                                                     | URL                                                    |   Score | Date                |
 |:----------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
-| Segment Anything Model 2 - Just released by Meta FAIR [R] | https://github.com/facebookresearch/segment-anything-2 |      88 | 2024-07-29 23:28:03 |
+| Segment Anything Model 2 - Just released by Meta FAIR [R] | https://github.com/facebookresearch/segment-anything-2 |      90 | 2024-07-29 23:28:03 |
