@@ -1,8 +1,6 @@
-| Title                                                                              | URL                                             |   Score | Date                |
-|:-----------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [D] Why does overparameterization and reparameterization result in a better model? | https://arxiv.org/pdf/2311.17049                |      89 | 2024-08-06 22:43:01 |
-| [Research] The Puzzling Failure of Multimodal AI Chatbots                          | https://arxiv.org/abs/2403.13315                |      89 | 2024-08-07 17:33:35 |
-| [P] Grounded SAM 2: Ground and Track Anything                                      | https://github.com/IDEA-Research/Grounded-SAM-2 |      50 | 2024-08-06 16:55:46 |
-|                                                                                    | https://github.com/roboflow/supervision         |         |                     |
-| [Discussion] Beat GPT-4o at Python by searching with 100 dumb LLaMAs               | https://arxiv.org/abs/2305.18654                |      32 | 2024-08-06 17:41:05 |
-|                                                                                    | https://arxiv.org/abs/2407.21787                |         |                     |
+| Title                                                                                                                                    | URL                                     |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
+| [Research] The Puzzling Failure of Multimodal AI Chatbots                                                                                | https://arxiv.org/abs/2403.13315        |      93 | 2024-08-07 17:33:35 |
+| [R] Exploring the Limitations of Kolmogorov-Arnold Networks in Classification: Insights to Software Training and Hardware Implementation | https://arxiv.org/pdf/2407.17790        |      38 | 2024-08-09 11:27:45 |
+|                                                                                                                                          | https://github.com/Zeusss9/KAN_Analysis |         |                     |
+| [d] Practical example of ReFT: Representation Finetuning done on Llama3 in 14 minutes                                                    | https://arxiv.org/pdf/2404.03592        |      32 | 2024-08-08 23:10:01 |
