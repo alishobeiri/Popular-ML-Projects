@@ -1,4 +1,3 @@
-| Title                                                                                                                                    | URL                                     |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [R] Exploring the Limitations of Kolmogorov-Arnold Networks in Classification: Insights to Software Training and Hardware Implementation | https://arxiv.org/pdf/2407.17790        |      53 | 2024-08-09 11:27:45 |
-|                                                                                                                                          | https://github.com/Zeusss9/KAN_Analysis |         |                     |
+| Title                                      | URL                              |   Score | Date                |
+|:-------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Why and when tying embedding (a story) | https://arxiv.org/abs/1608.05859 |      43 | 2024-08-12 18:54:44 |
