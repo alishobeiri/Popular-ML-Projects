@@ -1,5 +1,5 @@
-| Title                                                           | URL                                |   Score | Date                |
-|:----------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
-| [R] Why and when tying embedding (a story)                      | https://arxiv.org/abs/1608.05859   |     101 | 2024-08-12 18:54:44 |
-| [R] Grokfast: Accelerated Grokking by Amplifying Slow Gradients | https://arxiv.org/abs/2405.20233v2 |      33 | 2024-08-13 12:08:01 |
-|                                                                 | https://github.com/ironjr/grokfast |         |                     |
+| Title                                                           | URL                                                          |   Score | Date                |
+|:----------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
+| [R] Grokfast: Accelerated Grokking by Amplifying Slow Gradients | https://arxiv.org/abs/2405.20233v2                           |      46 | 2024-08-13 12:08:01 |
+|                                                                 | https://github.com/ironjr/grokfast                           |         |                     |
+| [R] New Paper on Mixture of Experts (MoE) 🚀                     | https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers |      28 | 2024-08-14 07:02:30 |
