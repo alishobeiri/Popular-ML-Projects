@@ -1,6 +1,3 @@
-| Title                                                                      | URL                                                                      |   Score | Date                |
-|:---------------------------------------------------------------------------|:-------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Updates on OpenCL backend for Pytorch                                  | https://github.com/artyom-beilis/pytorch_dlprim                          |     139 | 2024-08-17 05:52:37 |
-|                                                                            | https://github.com/artyom-beilis/pytorch_dlprim/blob/master/benchmark.md |         |                     |
-| [D] HuggingFace transformers - Bad Design?                                 | https://github.com/huggingface/transformers/issues/30947                 |     133 | 2024-08-16 23:30:30 |
-| [Project] I Created the Definitive AUTOMATIC Shiny Hunter for Pokémon BDSP | https://github.com/Dinones/Nintendo-Switch-Pokemon-Shiny-Hunter          |      43 | 2024-08-19 01:00:03 |
+| Title                                                                      | URL                                                             |   Score | Date                |
+|:---------------------------------------------------------------------------|:----------------------------------------------------------------|--------:|:--------------------|
+| [Project] I Created the Definitive AUTOMATIC Shiny Hunter for Pokémon BDSP | https://github.com/Dinones/Nintendo-Switch-Pokemon-Shiny-Hunter |      45 | 2024-08-19 01:00:03 |
