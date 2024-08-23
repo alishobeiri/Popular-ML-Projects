@@ -1,3 +1,3 @@
-| Title                                                                                                                                                                           | URL                              |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Join Our Global Paper Reading Group for a Deep Dive into "Plan Like a Graph (PLaG)" - Enhancing LLMs in Asynchronous Plan Reasoning | ICML 2024 with the author Fangru Lin! | https://arxiv.org/pdf/2402.02805 |      27 | 2024-08-20 20:39:44 |
+| Title                                                 | URL                              |   Score | Date                |
+|:------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| Transformers learn in-context by gradient descent [R] | https://arxiv.org/pdf/2212.07677 |      27 | 2024-08-22 05:56:07 |
