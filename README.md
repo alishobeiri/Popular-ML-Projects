@@ -1,3 +1,3 @@
 | Title                                                                             | URL                              |   Score | Date                |
 |:----------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution | https://arxiv.org/abs/2310.16834 |      38 | 2024-08-24 06:32:39 |
+| [R] Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution | https://arxiv.org/abs/2310.16834 |      39 | 2024-08-24 06:32:39 |
