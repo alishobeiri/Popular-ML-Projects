@@ -1,3 +1,4 @@
-| Title                                              | URL                                        |   Score | Date                |
-|:---------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] I implemented Vision Transformers in tinygrad! | https://github.com/EthanBnntt/tinygrad-vit |      56 | 2024-09-01 21:36:19 |
+| Title                                                                           | URL                                              |   Score | Date                |
+|:--------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
+| [P] I implemented Vision Transformers in tinygrad!                              | https://github.com/EthanBnntt/tinygrad-vit       |      58 | 2024-09-01 21:36:19 |
+| [P] I Applied My Own ViT-Masked Autoencoder Implementation To Minecraft Images! | https://github.com/akmayer/ViTMaskedAutoencoder/ |      43 | 2024-09-02 23:07:29 |
