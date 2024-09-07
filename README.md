@@ -1,3 +1,3 @@
-| Title                                                                           | URL                                              |   Score | Date                |
-|:--------------------------------------------------------------------------------|:-------------------------------------------------|--------:|:--------------------|
-| [P] I Applied My Own ViT-Masked Autoencoder Implementation To Minecraft Images! | https://github.com/akmayer/ViTMaskedAutoencoder/ |      48 | 2024-09-02 23:07:29 |
+| Title                                                                            | URL                                         |   Score | Date                |
+|:---------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [P] This week, I implemented the paper, "Pay Attention to MLPs", in Tinygrad! :D | https://github.com/EthanBnntt/tinygrad-gmlp |      63 | 2024-09-06 03:29:25 |
