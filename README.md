@@ -1,4 +1,5 @@
-| Title                                                                            | URL                                         |   Score | Date                |
-|:---------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] This week, I implemented the paper, "Pay Attention to MLPs", in Tinygrad! :D | https://github.com/EthanBnntt/tinygrad-gmlp |      66 | 2024-09-06 03:29:25 |
-| [R] SpotDiffusion: A Fast Approach For Seamless Panorama Generation              | https://arxiv.org/abs/2407.15507            |      59 | 2024-09-07 20:27:59 |
+| Title                                                                                                                                                                   | URL                                  |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] Training models with multiple losses                                                                                                                                | https://arxiv.org/pdf/2406.16232     |     150 | 2024-09-08 11:43:50 |
+|                                                                                                                                                                         | https://github.com/TorchJD/torchjd   |         |                     |
+| [P] Achieved over 100 million MNIST predictions per second (throughput of 55.5 GB/s) on a CPU using the latest optimizations in the TsetlinMachine library, Tsetlin.jl. | https://github.com/BooBSD/Tsetlin.jl |      60 | 2024-09-08 17:42:23 |
