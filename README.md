@@ -1,4 +1,4 @@
-| Title                                                                                   | URL                                                                          |   Score | Date                |
-|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Attempting to replicate the "Stretching Each Dollar" diffusion paper, having issues | https://arxiv.org/pdf/2407.15811                                             |      33 | 2024-09-13 16:36:19 |
-|                                                                                         | https://github.com/SwayStar123/microdiffusion/blob/main/microdiffusion.ipynb |         |                     |
+| Title                                                                               | URL                              |   Score | Date                |
+|:------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [P] Trying to reproduce OpenAI's o1 reasoning capabilities - looking for volunteers | https://arxiv.org/pdf/2305.20050 |      26 | 2024-09-14 13:54:34 |
+|                                                                                     | https://arxiv.org/pdf/2407.13692 |         |                     |
