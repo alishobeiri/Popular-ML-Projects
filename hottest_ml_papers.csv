@@ -1,4 +1,5 @@
 Title,URL,Score,Date
-"[P] Trying to reproduce OpenAI's o1 reasoning capabilities - looking for volunteers
-","https://arxiv.org/pdf/2305.20050
-https://arxiv.org/pdf/2407.13692",26,2024-09-14 13:54:34
+[D] Hacks to make LLM training faster guide - Pytorch Conference,"https://arxiv.org/abs/2404.05405
+https://arxiv.org/pdf/2402.14905
+https://github.com/unslothai/unsloth",71,2024-09-18 19:06:53
+[P] Comgra: A Tool for Analyzing and Debugging Neural Networks,https://github.com/FlorianDietz/comgra,34,2024-09-19 14:07:03
