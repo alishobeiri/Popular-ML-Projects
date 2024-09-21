@@ -1,6 +1,13 @@
-| Title                                                            | URL                                    |   Score | Date                |
-|:-----------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [D] Hacks to make LLM training faster guide - Pytorch Conference | https://arxiv.org/abs/2404.05405       |      71 | 2024-09-18 19:06:53 |
-|                                                                  | https://arxiv.org/pdf/2402.14905       |         |                     |
-|                                                                  | https://github.com/unslothai/unsloth   |         |                     |
-| [P] Comgra: A Tool for Analyzing and Debugging Neural Networks   | https://github.com/FlorianDietz/comgra |      34 | 2024-09-19 14:07:03 |
+| Title                                                            | URL                                                                                          |   Score | Date                |
+|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [D] Hacks to make LLM training faster guide - Pytorch Conference | https://arxiv.org/abs/2404.05405                                                             |      81 | 2024-09-18 19:06:53 |
+|                                                                  | https://arxiv.org/pdf/2402.14905                                                             |         |                     |
+|                                                                  | https://github.com/unslothai/unsloth                                                         |         |                     |
+| [P] Comgra: A Tool for Analyzing and Debugging Neural Networks   | https://github.com/FlorianDietz/comgra                                                       |      65 | 2024-09-19 14:07:03 |
+| [R] Some Research Papers We Read                                 | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/DreamBooth.md              |      41 | 2024-09-20 04:59:08 |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Segment\_Anything.md       |         |                     |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Textual\_inversion.md      |         |                     |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/imagen.md                  |         |                     |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Vision\_Transformer.md     |         |                     |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Big\_Bird\_Transformers.md |         |                     |
+|                                                                  | https://github.com/vlgiitr/papers\_we\_read                                                  |         |                     |
