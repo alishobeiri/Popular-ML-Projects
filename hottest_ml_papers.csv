@@ -1,12 +1,10 @@
 Title,URL,Score,Date
-[D] Hacks to make LLM training faster guide - Pytorch Conference,"https://arxiv.org/abs/2404.05405
-https://arxiv.org/pdf/2402.14905
-https://github.com/unslothai/unsloth",81,2024-09-18 19:06:53
-[P] Comgra: A Tool for Analyzing and Debugging Neural Networks,https://github.com/FlorianDietz/comgra,65,2024-09-19 14:07:03
+[D] How do researchers in hot topics keep up?,https://arxiv.org/abs/2409.12917,130,2024-09-21 09:19:17
+[P] Comgra: A Tool for Analyzing and Debugging Neural Networks,https://github.com/FlorianDietz/comgra,70,2024-09-19 14:07:03
 [R] Some Research Papers We Read,"https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/DreamBooth.md
 https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Segment\_Anything.md
 https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Textual\_inversion.md
 https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/imagen.md
 https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Vision\_Transformer.md
 https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Big\_Bird\_Transformers.md
-https://github.com/vlgiitr/papers\_we\_read",41,2024-09-20 04:59:08
+https://github.com/vlgiitr/papers\_we\_read",53,2024-09-20 04:59:08
