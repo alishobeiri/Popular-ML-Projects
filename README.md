@@ -1,11 +1,3 @@
-| Title                                                            | URL                                                                                          |   Score | Date                |
-|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] How do researchers in hot topics keep up?                    | https://arxiv.org/abs/2409.12917                                                             |     185 | 2024-09-21 09:19:17 |
-| [R] Some Research Papers We Read                                 | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/DreamBooth.md              |      51 | 2024-09-20 04:59:08 |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Segment\_Anything.md       |         |                     |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Textual\_inversion.md      |         |                     |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/imagen.md                  |         |                     |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Vision\_Transformer.md     |         |                     |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read/blob/master/summaries/Big\_Bird\_Transformers.md |         |                     |
-|                                                                  | https://github.com/vlgiitr/papers\_we\_read                                                  |         |                     |
-| Latent Diffusion in pure-torch (no huggingface dependencies) [P] | https://github.com/AlejandroBaron/tiny-diff                                                  |      32 | 2024-09-21 07:44:01 |
+| Title                                         | URL                              |   Score | Date                |
+|:----------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] How do researchers in hot topics keep up? | https://arxiv.org/abs/2409.12917 |     197 | 2024-09-21 09:19:17 |
