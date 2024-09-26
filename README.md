@@ -1,3 +1,3 @@
 | Title                                                                  | URL                                                                           |   Score | Date                |
 |:-----------------------------------------------------------------------|:------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] I built a live AI sports commentator that can talk in any language | https://github.com/outspeed-ai/outspeed/tree/main/examples/sports_commentator |      55 | 2024-09-23 18:41:57 |
+| [P] I built a live AI sports commentator that can talk in any language | https://github.com/outspeed-ai/outspeed/tree/main/examples/sports_commentator |      58 | 2024-09-23 18:41:57 |
