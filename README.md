@@ -1,5 +1,5 @@
 | Title                                               | URL                                                                                                      |   Score | Date                |
 |:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Llama-3.2-3B-Instruct-uncensored                | https://arxiv.org/abs/2406.11717                                                                         |      49 | 2024-09-27 15:53:07 |
-| [D] Llama3.2-1B GGUF Quantization Benchmark Results | https://github.com/NexaAI/nexa-sdk                                                                       |      47 | 2024-09-27 19:41:16 |
-| [P] Converting GPT to Llama step-by-step code guide | https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb |      43 | 2024-09-28 13:51:26 |
+| [P] Converting GPT to Llama step-by-step code guide | https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb |     104 | 2024-09-28 13:51:26 |
+| [D] Llama3.2-1B GGUF Quantization Benchmark Results | https://github.com/NexaAI/nexa-sdk                                                                       |      52 | 2024-09-27 19:41:16 |
+| [R] Llama-3.2-3B-Instruct-uncensored                | https://arxiv.org/abs/2406.11717                                                                         |      50 | 2024-09-27 15:53:07 |
