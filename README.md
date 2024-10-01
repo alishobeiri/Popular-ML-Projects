@@ -1,5 +1,4 @@
-| Title                                               | URL                                                                                                      |   Score | Date                |
-|:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Converting GPT to Llama step-by-step code guide | https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb |     104 | 2024-09-28 13:51:26 |
-| [D] Llama3.2-1B GGUF Quantization Benchmark Results | https://github.com/NexaAI/nexa-sdk                                                                       |      52 | 2024-09-27 19:41:16 |
-| [R] Llama-3.2-3B-Instruct-uncensored                | https://arxiv.org/abs/2406.11717                                                                         |      50 | 2024-09-27 15:53:07 |
+| Title                                                                                      | URL                                                                                                      |   Score | Date                |
+|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] Converting GPT to Llama step-by-step code guide                                        | https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb |     111 | 2024-09-28 13:51:26 |
+| 🚀 Convert any GitHub repo to a single text file, perfect for LLM prompting use "[Project]" | https://github.com/abinthomasonline/repo2txt                                                             |      37 | 2024-09-30 07:05:37 |
