@@ -1,4 +1,3 @@
-| Title                                                                                      | URL                                                                                                      |   Score | Date                |
-|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] Converting GPT to Llama step-by-step code guide                                        | https://github.com/rasbt/LLMs-from-scratch/blob/main/ch05/07_gpt_to_llama/converting-gpt-to-llama2.ipynb |     111 | 2024-09-28 13:51:26 |
-| 🚀 Convert any GitHub repo to a single text file, perfect for LLM prompting use "[Project]" | https://github.com/abinthomasonline/repo2txt                                                             |      37 | 2024-09-30 07:05:37 |
+| Title                                                                                      | URL                                          |   Score | Date                |
+|:-------------------------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
+| 🚀 Convert any GitHub repo to a single text file, perfect for LLM prompting use "[Project]" | https://github.com/abinthomasonline/repo2txt |      44 | 2024-09-30 07:05:37 |
