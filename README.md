@@ -1,3 +1,3 @@
-| Title                                                                                      | URL                                          |   Score | Date                |
-|:-------------------------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
-| 🚀 Convert any GitHub repo to a single text file, perfect for LLM prompting use "[Project]" | https://github.com/abinthomasonline/repo2txt |      44 | 2024-09-30 07:05:37 |
+| Title                                                                                  | URL                                               |   Score | Date                |
+|:---------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
+| [P] Just-in-Time Implementation: A Python Library That Implements Your Code at Runtime | https://github.com/JirkaKlimes/jit-implementation |     140 | 2024-10-02 15:44:38 |
