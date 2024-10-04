@@ -1,3 +1,4 @@
-| Title                                                                                  | URL                                               |   Score | Date                |
-|:---------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [P] Just-in-Time Implementation: A Python Library That Implements Your Code at Runtime | https://github.com/JirkaKlimes/jit-implementation |     140 | 2024-10-02 15:44:38 |
+| Title                                                                                                                               | URL                                               |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
+| [P] Just-in-Time Implementation: A Python Library That Implements Your Code at Runtime                                              | https://github.com/JirkaKlimes/jit-implementation |     267 | 2024-10-02 15:44:38 |
+| [R] Academic Misconduct Investigation into ICLR 2024 Spotlight: Adaptive Rational Activations to Boost Deep Reinforcement Learning. | https://arxiv.org/abs/1710.02298                  |      69 | 2024-10-02 12:37:17 |
