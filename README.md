@@ -1,5 +1,5 @@
-| Title                                                | URL                              |   Score | Date                |
-|:-----------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Theoretical limitations of generalization bounds | https://arxiv.org/abs/2309.13658 |      39 | 2024-10-05 10:22:49 |
-|                                                      | https://arxiv.org/abs/2410.01969 |         |                     |
-| [D] When is Lora not good enough?                    | https://arxiv.org/pdf/2401.04679 |      32 | 2024-10-05 13:30:34 |
+| Title                                                                   | URL                                                               |   Score | Date                |
+|:------------------------------------------------------------------------|:------------------------------------------------------------------|--------:|:--------------------|
+| [P] Model2Vec: Distill a Small Fast Model from any Sentence Transformer | https://github.com/MinishLab/model2vec                            |      46 | 2024-10-07 16:02:31 |
+|                                                                         | https://github.com/MinishLab/model2vec?tab=readme-ov-file#results |         |                     |
+| [R] MaskBit: Embedding-free Image Generation via Bit Tokens             | https://arxiv.org/pdf/2409.16211                                  |      27 | 2024-10-06 13:00:45 |
