@@ -1,4 +1,6 @@
 | Title                                                                   | URL                                                               |   Score | Date                |
 |:------------------------------------------------------------------------|:------------------------------------------------------------------|--------:|:--------------------|
-| [P] Model2Vec: Distill a Small Fast Model from any Sentence Transformer | https://github.com/MinishLab/model2vec                            |      72 | 2024-10-07 16:02:31 |
+| [P] Model2Vec: Distill a Small Fast Model from any Sentence Transformer | https://github.com/MinishLab/model2vec                            |      74 | 2024-10-07 16:02:31 |
 |                                                                         | https://github.com/MinishLab/model2vec?tab=readme-ov-file#results |         |                     |
+| [R] Diffusion Models are Evolutionary Algorithms                        | https://arxiv.org/abs/2410.02543                                  |      42 | 2024-10-08 22:01:07 |
+| [R] Addition is All You Need for Energy-Efficient Language Models       | https://arxiv.org/pdf/2410.00907                                  |      35 | 2024-10-08 14:03:15 |
