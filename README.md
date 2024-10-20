@@ -1,3 +1,4 @@
-| Title                                                                                                      | URL                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models (Apple) | https://arxiv.org/abs/2410.05229 |      44 | 2024-10-12 09:20:19 |
+| Title                                                                                                     | URL                                         |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [Project] Tsetlin Machine for Deep Logical Learning and Reasoning With Graphs (finally, after six years!) | https://arxiv.org/abs/2108.07594            |      63 | 2024-10-19 09:48:27 |
+|                                                                                                           | https://github.com/cair/GraphTsetlinMachine |         |                     |
