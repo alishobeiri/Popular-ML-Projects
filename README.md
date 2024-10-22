@@ -1,4 +1,8 @@
-| Title                                                                                                     | URL                                         |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [Project] Tsetlin Machine for Deep Logical Learning and Reasoning With Graphs (finally, after six years!) | https://arxiv.org/abs/2108.07594            |      82 | 2024-10-19 09:48:27 |
-|                                                                                                           | https://github.com/cair/GraphTsetlinMachine |         |                     |
+| Title                                                                                                                          | URL                                                      |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|:--------------------|
+| [D] Potential Plagiarism in ICLR 2024 Spotlight: Shengjie Luo and Tianlang Chen's "Gaunt Tensor Products"                      | https://github.com/lsj2408/Gaunt-Tensor-Product/issues/2 |     196 | 2024-10-21 14:52:17 |
+| [R] Google Shopping 10M dataset for large scale multimodal product retrieval and ranking                                       | https://arxiv.org/abs/2404.08535                         |     136 | 2024-10-20 21:51:41 |
+|                                                                                                                                | https://github.com/marqo-ai/GCL                          |         |                     |
+| [Project] Tsetlin Machine for Deep Logical Learning and Reasoning With Graphs (finally, after six years!)                      | https://arxiv.org/abs/2108.07594                         |      86 | 2024-10-19 09:48:27 |
+|                                                                                                                                | https://github.com/cair/GraphTsetlinMachine              |         |                     |
+| [R] RWKV-7: attention-free and surpassing strong Modded-GPT baseline (the one with Muon optimizer), while only using headsz 64 | https://github.com/BlinkDL/modded-nanogpt-rwkv           |      61 | 2024-10-21 14:18:19 |
