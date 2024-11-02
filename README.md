@@ -1,8 +1,3 @@
-| Title                                                                                                       | URL                                             |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [R] Dynamic Attention-Guided Diffusion for Image Super-Resolution                                           | https://arxiv.org/abs/2308.07977                |     182 | 2024-10-29 02:31:10 |
-| [R] "How to train your VAE" substantially improves the reported results for standard VAE models (ICIP 2024) | https://arxiv.org/abs/2309.13160                |     150 | 2024-10-29 12:08:21 |
-|                                                                                                             | https://github.com/marianorivera/How2TrainUrVAE |         |                     |
-| [R] SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time                               | https://arxiv.org/abs/2407.15507                |     109 | 2024-10-29 02:33:13 |
-|                                                                                                             | https://github.com/stanifrolov/spotdiffusion    |         |                     |
-| [R] Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning                            | https://arxiv.org/abs/2410.14157                |      63 | 2024-10-28 19:42:23 |
+| Title                                                         | URL                              |   Score | Date                |
+|:--------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws | https://arxiv.org/abs/2408.02946 |      58 | 2024-10-31 22:59:39 |
