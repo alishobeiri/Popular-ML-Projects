@@ -1,3 +1,3 @@
-| Title                                                         | URL                              |   Score | Date                |
-|:--------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws | https://arxiv.org/abs/2408.02946 |      60 | 2024-10-31 22:59:39 |
+| Title                                                                                                      | URL                              |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Amazon Researchers Find LLMs do not always follow User Requests and Propose a Self-Correction Pipeline | https://arxiv.org/pdf/2410.06458 |      26 | 2024-11-06 14:06:41 |
