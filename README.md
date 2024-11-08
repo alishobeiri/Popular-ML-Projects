@@ -1,3 +1,3 @@
 | Title                                                                                                      | URL                              |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Amazon Researchers Find LLMs do not always follow User Requests and Propose a Self-Correction Pipeline | https://arxiv.org/pdf/2410.06458 |      26 | 2024-11-06 14:06:41 |
+| [R] Amazon Researchers Find LLMs do not always follow User Requests and Propose a Self-Correction Pipeline | https://arxiv.org/pdf/2410.06458 |      40 | 2024-11-06 14:06:41 |
