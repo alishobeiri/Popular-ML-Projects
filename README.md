@@ -1,4 +1,3 @@
-| Title                                   | URL                                          |   Score | Date                |
-|:----------------------------------------|:---------------------------------------------|--------:|:--------------------|
-| [R]: How much is a noisy image worth? 👀 | https://arxiv.org/abs/2411.02780             |      44 | 2024-11-07 18:33:27 |
-|                                         | https://github.com/giannisdaras/ambient-laws |         |                     |
+| Title                                                                                 | URL                              |   Score | Date                |
+|:--------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Classic GNNs (GCNs, GraphSAGEs, GATs) are Strong Baselines on Node Classification | https://arxiv.org/pdf/2406.08993 |      42 | 2024-11-10 04:32:19 |
