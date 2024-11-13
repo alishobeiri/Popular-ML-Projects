@@ -1,3 +1,6 @@
-| Title                                                                                 | URL                              |   Score | Date                |
-|:--------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Classic GNNs (GCNs, GraphSAGEs, GATs) are Strong Baselines on Node Classification | https://arxiv.org/pdf/2406.08993 |      42 | 2024-11-10 04:32:19 |
+| Title                                                                         | URL                                       |   Score | Date                |
+|:------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [R] TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling | https://arxiv.org/abs/2410.24210          |      41 | 2024-11-12 12:29:00 |
+|                                                                               | https://arxiv.org/abs/2406.19380          |         |                     |
+|                                                                               | https://github.com/yandex-research/tabm   |         |                     |
+|                                                                               | https://github.com/yandex-research/tabred |         |                     |
