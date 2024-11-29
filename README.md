@@ -1,4 +1,3 @@
-| Title                                                                            | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] Flow matching is actually very different from (continuous) normalising flow? | https://arxiv.org/pdf/2210.02747 |      50 | 2024-11-25 07:25:58 |
-| [R] Aurora: A General-Purpose Foundation Model for Earth System Prediction       | https://arxiv.org/abs/2405.13063 |      34 | 2024-11-25 13:50:09 |
+| Title                                                      | URL                              |   Score | Date                |
+|:-----------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Black holes and the loss landscape in machine learning | https://arxiv.org/abs/2306.14817 |      26 | 2024-11-27 03:26:49 |
