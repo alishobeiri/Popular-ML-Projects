@@ -1,4 +1,3 @@
-| Title                                             | URL                                                                                                                                    |   Score | Date                |
-|:--------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [D] What's the fastest object detection model?    | https://github.com/Avafly/YOLOv5-ncnn-OpenVINO-MNN-ONNXRuntime-OpenCV-CPP?tab=readme-ov-file#simple-benchmarks-on-m1-mac-and-arm-linux |      29 | 2024-11-30 06:00:40 |
-| [R] BitNet a4.8: 4-bit Activations for 1-bit LLMs | https://arxiv.org/pdf/2411.04965                                                                                                       |      29 | 2024-11-28 15:11:18 |
+| Title                                          | URL                                                                                                                                    |   Score | Date                |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [D] What's the fastest object detection model? | https://github.com/Avafly/YOLOv5-ncnn-OpenVINO-MNN-ONNXRuntime-OpenCV-CPP?tab=readme-ov-file#simple-benchmarks-on-m1-mac-and-arm-linux |      41 | 2024-11-30 06:00:40 |
