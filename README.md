@@ -1,6 +1,5 @@
 | Title                                                                                          | URL                                   |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] ICLERB: A better way to evaluate embeddings and rerankers for in-context learning          | https://arxiv.org/pdf/2411.18947      |      61 | 2024-12-04 19:05:25 |
-| [D] How does OpenAI’s O1 outperform others in math despite limitations noted in recent papers? | https://arxiv.org/pdf/2410.05229.pdf) |      43 | 2024-12-06 06:53:09 |
+| [D] How does OpenAI’s O1 outperform others in math despite limitations noted in recent papers? | https://arxiv.org/pdf/2410.05229.pdf) |      54 | 2024-12-06 06:53:09 |
 |                                                                                                | https://arxiv.org/pdf/2406.02061.pdf) |         |                     |
 |                                                                                                | https://arxiv.org/pdf/2310.01798.pdf) |         |                     |
