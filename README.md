@@ -1,5 +1,4 @@
-| Title                                                                                          | URL                                   |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [D] How does OpenAI’s O1 outperform others in math despite limitations noted in recent papers? | https://arxiv.org/pdf/2410.05229.pdf) |      54 | 2024-12-06 06:53:09 |
-|                                                                                                | https://arxiv.org/pdf/2406.02061.pdf) |         |                     |
-|                                                                                                | https://arxiv.org/pdf/2310.01798.pdf) |         |                     |
+| Title                                                                  | URL                                         |   Score | Date                |
+|:-----------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [R] Diffusion Models, Image Super-Resolution, and Everything: A Survey | https://arxiv.org/abs/2401.00736            |      91 | 2024-12-09 00:09:15 |
+| [D] A collection of various LLM Sampling methods                       | https://github.com/shreyansh26/LLM-Sampling |      31 | 2024-12-08 09:39:17 |
