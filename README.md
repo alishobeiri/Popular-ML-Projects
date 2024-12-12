@@ -1,4 +1,5 @@
-| Title                                                                           | URL                               |   Score | Date                |
-|:--------------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
-| [R] Diffusion Models, Image Super-Resolution, and Everything: A Survey          | https://arxiv.org/abs/2401.00736  |      95 | 2024-12-09 00:09:15 |
-| [D] From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler | https://github.com/hikettei/Caten |      51 | 2024-12-10 18:00:45 |
+| Title                                                                                                              | URL                               |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
+| [D] From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler                                    | https://github.com/hikettei/Caten |      76 | 2024-12-10 18:00:45 |
+| [R] Continuous Latent Space Reasoning: Enhancing LLM Performance Through Chain of Continuous Thought               | https://arxiv.org/abs/2412.06769  |      37 | 2024-12-11 13:39:26 |
+| [R] Understanding Transformer Limitations in Graph Search: A Mechanistic Analysis of Learning and Scaling Behavior | https://arxiv.org/abs/2412.04703  |      32 | 2024-12-10 13:37:01 |
