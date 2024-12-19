@@ -1,4 +1,4 @@
 | Title                                                                     | URL                                             |   Score | Date                |
 |:--------------------------------------------------------------------------|:------------------------------------------------|--------:|:--------------------|
-| [R] Scaling test-time compute with open models!                           | https://github.com/huggingface/search-and-learn |      70 | 2024-12-16 22:55:58 |
-| [R] SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion | https://arxiv.org/pdf/2412.10437                |      53 | 2024-12-17 10:58:36 |
+| [R] Scaling test-time compute with open models!                           | https://github.com/huggingface/search-and-learn |      83 | 2024-12-16 22:55:58 |
+| [R] SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion | https://arxiv.org/pdf/2412.10437                |      68 | 2024-12-17 10:58:36 |
