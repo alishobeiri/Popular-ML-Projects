@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-"[R] RWKV-7 0.1B (L12-D768) trained w/ ctx4k solves NIAH 16k, extrapolates to 32k+, 100% RNN and attention-free, supports 100+ languages and code","https://github.com/Jellyfish042/LongMamba
-https://github.com/BlinkDL/RWKV-LM
-https://github.com/Jellyfish042/Sudoku-RWKV",108,2024-12-19 13:07:04
-[R] Hyper-Connections,https://arxiv.org/pdf/2409.19606,28,2024-12-20 12:18:12
+[R] Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback,https://arxiv.org/abs/2412.17737,34,2024-12-24 02:50:57
+[R] Automating the Search for Artificial Life with Foundation Models,https://arxiv.org/abs/2412.17799,28,2024-12-24 03:23:47
