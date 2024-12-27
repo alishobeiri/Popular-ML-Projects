@@ -1,7 +1,8 @@
-| Title                                                                                            | URL                                                            |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|--------:|:--------------------|
-| [P] JaVAD - Just Another Voice Activity Detector                                                 | https://github.com/skrbnv/javad                                |      58 | 2024-12-25 11:33:57 |
-| [R] Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback | https://arxiv.org/abs/2412.17737                               |      56 | 2024-12-24 02:50:57 |
-| [R] Automating the Search for Artificial Life with Foundation Models                             | https://arxiv.org/abs/2412.17799                               |      33 | 2024-12-24 03:23:47 |
-| [R] OREO: Offline RL for Multi-Step Reasoning in Large Language Models                           | https://arxiv.org/abs/2412.16145                               |      30 | 2024-12-24 16:07:32 |
-| [P] I made a TikTok Brain Rot video generator                                                    | https://github.com/harvestingmoon/OBrainRot?tab=readme-ov-file |      29 | 2024-12-24 15:57:29 |
+| Title                                                                                                       | URL                                                            |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|--------:|:--------------------|
+| [R] Fine-Tuning 175B Parameter Language Models on a Single Consumer GPU through Optimized Memory Management | https://arxiv.org/abs/2403.06504                               |      79 | 2024-12-26 14:25:05 |
+| [P] JaVAD - Just Another Voice Activity Detector                                                            | https://github.com/skrbnv/javad                                |      75 | 2024-12-25 11:33:57 |
+| [R] Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback            | https://arxiv.org/abs/2412.17737                               |      55 | 2024-12-24 02:50:57 |
+| [P] I made a TikTok Brain Rot video generator                                                               | https://github.com/harvestingmoon/OBrainRot?tab=readme-ov-file |      36 | 2024-12-24 15:57:29 |
+| [R] Automating the Search for Artificial Life with Foundation Models                                        | https://arxiv.org/abs/2412.17799                               |      34 | 2024-12-24 03:23:47 |
+| [R] OREO: Offline RL for Multi-Step Reasoning in Large Language Models                                      | https://arxiv.org/abs/2412.16145                               |      30 | 2024-12-24 16:07:32 |
