@@ -1,5 +1,4 @@
-| Title                                                                                                       | URL                                         |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [R] Fine-Tuning 175B Parameter Language Models on a Single Consumer GPU through Optimized Memory Management | https://arxiv.org/abs/2403.06504            |     133 | 2024-12-26 14:25:05 |
-| [P] JaVAD - Just Another Voice Activity Detector                                                            | https://github.com/skrbnv/javad             |      83 | 2024-12-25 11:33:57 |
-| [R] Teaching VLMs to Convert Handwritten Images into Digital Ink with Read and Write Tasks                  | https://github.com/google-research/inksight |      26 | 2024-12-25 20:26:04 |
+| Title                                                                                                          | URL                                                                         |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|--------:|:--------------------|
+| [Discussion] I trained an AI model to generate Pokemon                                                         | https://github.com/smaley02/Pokemon-Generation/tree/main?tab=readme-ov-file |      33 | 2025-01-03 21:28:41 |
+| [Project] Making a chess engine visualization that lets you see how a neural network based chess engine thinks | https://github.com/jay63683/BlackBox-Chess-a-XAI-leela-chess-GUI            |      29 | 2025-01-02 23:26:28 |
