@@ -1,4 +1,4 @@
 | Title                                                                                                          | URL                                                                         |   Score | Date                |
 |:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|--------:|:--------------------|
-| [Discussion] I trained an AI model to generate Pokemon                                                         | https://github.com/smaley02/Pokemon-Generation/tree/main?tab=readme-ov-file |      33 | 2025-01-03 21:28:41 |
-| [Project] Making a chess engine visualization that lets you see how a neural network based chess engine thinks | https://github.com/jay63683/BlackBox-Chess-a-XAI-leela-chess-GUI            |      29 | 2025-01-02 23:26:28 |
+| [Discussion] I trained an AI model to generate Pokemon                                                         | https://github.com/smaley02/Pokemon-Generation/tree/main?tab=readme-ov-file |     102 | 2025-01-03 21:28:41 |
+| [Project] Making a chess engine visualization that lets you see how a neural network based chess engine thinks | https://github.com/jay63683/BlackBox-Chess-a-XAI-leela-chess-GUI            |      39 | 2025-01-02 23:26:28 |
