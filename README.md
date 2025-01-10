@@ -1,5 +1,5 @@
-| Title                                                                       | URL                                                       |   Score | Date                |
-|:----------------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
-| [R] How Barlow Twins avoid embeddings that differ by affine transformation? | https://arxiv.org/pdf/2103.03230                          |      49 | 2025-01-04 22:10:28 |
-| [Project] Finding inputs where deep learning models fail                    | https://arxiv.org/abs/2402.00793                          |      26 | 2025-01-04 21:44:08 |
-|                                                                             | https://github.com/sunildkumar/model_indistinguishability |         |                     |
+| Title                                                                                | URL                                        |   Score | Date                |
+|:-------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [R][N] TabPFN v2: Accurate predictions on small data with a tabular foundation model | https://github.com/PriorLabs/TabPFN        |      55 | 2025-01-08 21:32:00 |
+|                                                                                      | https://github.com/PriorLabs/tabpfn-client |         |                     |
+| [R] ObliqueTree: Advanced Decision Tree Implementation                               | https://github.com/sametcopur/obliquetree  |      28 | 2025-01-09 10:47:50 |
