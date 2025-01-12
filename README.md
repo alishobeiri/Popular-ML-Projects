@@ -1,5 +1,3 @@
-| Title                                                                                | URL                                        |   Score | Date                |
-|:-------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [R][N] TabPFN v2: Accurate predictions on small data with a tabular foundation model | https://github.com/PriorLabs/TabPFN        |      70 | 2025-01-08 21:32:00 |
-|                                                                                      | https://github.com/PriorLabs/tabpfn-client |         |                     |
-| [R] ObliqueTree: Advanced Decision Tree Implementation                               | https://github.com/sametcopur/obliquetree  |      42 | 2025-01-09 10:47:50 |
+| Title                                                                                      | URL                              |   Score | Date                |
+|:-------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Small Language Models Master Complex Math Through Self-Evolved Monte Carlo Tree Search | https://arxiv.org/abs/2501.04519 |      35 | 2025-01-10 19:28:12 |
