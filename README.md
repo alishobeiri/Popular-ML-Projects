@@ -1,3 +1,3 @@
-| Title                                                                                      | URL                              |   Score | Date                |
-|:-------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Small Language Models Master Complex Math Through Self-Evolved Monte Carlo Tree Search | https://arxiv.org/abs/2501.04519 |      35 | 2025-01-10 19:28:12 |
+| Title                                         | URL                              |   Score | Date                |
+|:----------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Have transformers won in Computer Vision? | https://arxiv.org/abs/2010.11929 |     118 | 2025-01-12 13:47:30 |
