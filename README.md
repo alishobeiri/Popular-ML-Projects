@@ -1,3 +1,3 @@
 | Title                                         | URL                              |   Score | Date                |
 |:----------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] Have transformers won in Computer Vision? | https://arxiv.org/abs/2010.11929 |     118 | 2025-01-12 13:47:30 |
+| [D] Have transformers won in Computer Vision? | https://arxiv.org/abs/2010.11929 |     172 | 2025-01-12 13:47:30 |
