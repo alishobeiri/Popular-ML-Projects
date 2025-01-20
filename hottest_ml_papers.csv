@@ -1,5 +1,4 @@
 Title,URL,Score,Date
-Grokking at the Edge of Numerical Stability [Research],https://arxiv.org/abs/2501.04697,126,2025-01-17 01:06:00
 [P] Building an Reinforcement Learning Agent to play The Legend of Zelda,"https://github.com/DarkAutumn/triforce/tree/original-design
 https://github.com/DarkAutumn/triforce
 https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207888a/notebooks/torch_viewport.ipynb
@@ -9,4 +8,5 @@ https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207
 https://github.com/DarkAutumn/triforce/blob/original-design/triforce/critics.py
 https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207888a/triforce/critics.py
 https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207888a/triforce/state_change_wrapper.py#L140-L192
-https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207888a/triforce/models.py#L19-L255",125,2025-01-17 22:52:06
+https://github.com/DarkAutumn/triforce/blob/dea241219ff17b386e368bc25adfbc171207888a/triforce/models.py#L19-L255",149,2025-01-17 22:52:06
+Grokking at the Edge of Numerical Stability [Research],https://arxiv.org/abs/2501.04697,127,2025-01-17 01:06:00
