@@ -1,3 +1,3 @@
 | Title                                                          | URL                              |   Score | Date                |
 |:---------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] ENERGY-BASED DIFFUSION LANGUAGE MODELS FOR TEXT GENERATION | https://arxiv.org/pdf/2410.21357 |      49 | 2025-01-23 16:41:11 |
+| [R] ENERGY-BASED DIFFUSION LANGUAGE MODELS FOR TEXT GENERATION | https://arxiv.org/pdf/2410.21357 |      51 | 2025-01-23 16:41:11 |
