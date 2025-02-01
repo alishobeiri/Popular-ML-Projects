@@ -1,7 +1,3 @@
-| Title                                                                                                                                             | URL                                  |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [D] DeepSeek distillation and training costs                                                                                                      | https://arxiv.org/html/2412.19437v1) |      65 | 2025-01-28 23:13:12 |
-| [D] Ever feel like you're reinventing the wheel with every scikit-learn project? Let's talk about making ML recommended practices less painful. 🤔 | https://github.com/probabl-ai/skore  |      49 | 2025-01-28 16:24:49 |
-|                                                                                                                                                   | http://github.com/probabl-ai/skore   |         |                     |
-| The scale vs. intelligence trade-off in retrieval augmented generation [Discussion]                                                               | https://arxiv.org/pdf/2406.17419     |      34 | 2025-01-29 03:04:35 |
-|                                                                                                                                                   | https://arxiv.org/abs/2407.12216     |         |                     |
+| Title                                             | URL                                                    |   Score | Date                |
+|:--------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
+| [R] Fully open source codebase to train SOTA VLMs | https://github.com/huggingface/smollm/tree/main/vision |      50 | 2025-01-31 15:19:31 |
