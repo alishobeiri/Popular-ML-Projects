@@ -1,5 +1,10 @@
-| Title                                                                        | URL                                      |   Score | Date                |
-|:-----------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] Molecular Fingerprints Are Strong Models for Peptide Function Prediction | https://arxiv.org/abs/2501.17901         |      56 | 2025-02-01 09:37:56 |
-| [R] [P] Investigating KV Cache Compression using Large Concept Models        | https://arxiv.org/pdf/2412.08821         |      50 | 2025-02-02 16:27:42 |
-|                                                                              | https://github.com/clankur/lcm/tree/main |         |                     |
+| Title                                                               | URL                              |   Score | Date                |
+|:--------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Transformer best practise: initialisation/normalisation/warm-up | https://arxiv.org/pdf/1607.06450 |      26 | 2025-02-04 15:20:29 |
+|                                                                     | https://arxiv.org/pdf/1910.07467 |         |                     |
+|                                                                     | https://arxiv.org/pdf/2110.09456 |         |                     |
+|                                                                     | https://arxiv.org/pdf/2003.04887 |         |                     |
+|                                                                     | https://arxiv.org/pdf/2302.01107 |         |                     |
+|                                                                     | https://arxiv.org/pdf/2301.04104 |         |                     |
+|                                                                     | https://arxiv.org/abs/1810.00825 |         |                     |
+|                                                                     | https://arxiv.org/pdf/2006.16841 |         |                     |
