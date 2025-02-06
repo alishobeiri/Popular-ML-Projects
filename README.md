@@ -1,6 +1,6 @@
 | Title                                                               | URL                              |   Score | Date                |
 |:--------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] Transformer best practise: initialisation/normalisation/warm-up | https://arxiv.org/pdf/1607.06450 |      26 | 2025-02-04 15:20:29 |
+| [D] Transformer best practise: initialisation/normalisation/warm-up | https://arxiv.org/pdf/1607.06450 |      42 | 2025-02-04 15:20:29 |
 |                                                                     | https://arxiv.org/pdf/1910.07467 |         |                     |
 |                                                                     | https://arxiv.org/pdf/2110.09456 |         |                     |
 |                                                                     | https://arxiv.org/pdf/2003.04887 |         |                     |
