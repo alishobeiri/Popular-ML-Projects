@@ -1,10 +1,8 @@
-| Title                                                               | URL                              |   Score | Date                |
-|:--------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] Transformer best practise: initialisation/normalisation/warm-up | https://arxiv.org/pdf/1607.06450 |      42 | 2025-02-04 15:20:29 |
-|                                                                     | https://arxiv.org/pdf/1910.07467 |         |                     |
-|                                                                     | https://arxiv.org/pdf/2110.09456 |         |                     |
-|                                                                     | https://arxiv.org/pdf/2003.04887 |         |                     |
-|                                                                     | https://arxiv.org/pdf/2302.01107 |         |                     |
-|                                                                     | https://arxiv.org/pdf/2301.04104 |         |                     |
-|                                                                     | https://arxiv.org/abs/1810.00825 |         |                     |
-|                                                                     | https://arxiv.org/pdf/2006.16841 |         |                     |
+| Title                                            | URL                                            |   Score | Date                |
+|:-------------------------------------------------|:-----------------------------------------------|--------:|:--------------------|
+| [R] Transformer-Squared: Self-adaptive LLMs      | https://arxiv.org/html/2501.06252v3            |      40 | 2025-02-05 15:39:02 |
+|                                                  | https://arxiv.org/html/2501.06252v3#bib.bib44  |         |                     |
+|                                                  | https://arxiv.org/html/2501.06252v3#bib.bib12  |         |                     |
+|                                                  | https://arxiv.org/html/2501.06252v3#bib.bib1)  |         |                     |
+|                                                  | https://github.com/SakanaAI/self-adaptive-llms |         |                     |
+| [R] Harmonic Loss Trains Interpretable AI Models | https://arxiv.org/abs/2502.01628               |      37 | 2025-02-06 00:00:36 |
