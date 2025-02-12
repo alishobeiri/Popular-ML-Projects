@@ -1,6 +1,5 @@
-| Title                                                                           | URL                                                        |   Score | Date                |
-|:--------------------------------------------------------------------------------|:-----------------------------------------------------------|--------:|:--------------------|
-| [R] LIMO: Less is More for Reasoning                                            | https://arxiv.org/abs/2502.03387                           |     155 | 2025-02-09 13:04:26 |
-| [P] From-Scratch ML Library (trains models from CNNs to a toy GPT-2)            | https://github.com/workofart/ml-by-hand                    |      61 | 2025-02-08 22:21:58 |
-|                                                                                 | https://github.com/workofart/ml-by-hand/tree/main/examples |         |                     |
-| [P] Inviting Collaborators for a Differentiable Geometric Loss Function Library | https://github.com/atharvaaalok/geosimilarity              |      26 | 2025-02-10 06:22:02 |
+| Title                                                                                                 | URL                                           |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [P] My experiments with Knowledge Distillation                                                        | https://github.com/horus-ai-labs/DistillFlow/ |      49 | 2025-02-11 02:44:23 |
+| [R] Recurrent Latent Reasoning: Scaling Test-Time Compute in Language Models Without Token Generation | https://arxiv.org/abs/2502.05171              |      32 | 2025-02-11 11:35:42 |
+| [P] Inviting Collaborators for a Differentiable Geometric Loss Function Library                       | https://github.com/atharvaaalok/geosimilarity |      31 | 2025-02-10 06:22:02 |
