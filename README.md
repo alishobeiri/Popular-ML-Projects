@@ -1,4 +1,5 @@
-| Title                                                                                                 | URL                                           |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [R] Recurrent Latent Reasoning: Scaling Test-Time Compute in Language Models Without Token Generation | https://arxiv.org/abs/2502.05171              |      60 | 2025-02-11 11:35:42 |
-| [P] My experiments with Knowledge Distillation                                                        | https://github.com/horus-ai-labs/DistillFlow/ |      56 | 2025-02-11 02:44:23 |
+| Title                                                                                                     | URL                                    |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
+| [R] New Paper: Can frontier models self-explore and discover their own capabilities in an open-ended way? | https://arxiv.org/abs/2502.07577       |      38 | 2025-02-12 16:34:19 |
+| [R] SWE-agent is the new open-source SOTA on SWE-bench Lite                                               | https://github.com/swe-agent/swe-agent |      30 | 2025-02-13 15:35:03 |
+|                                                                                                           | https://github.com/SWE-agent/swe-rex   |         |                     |
