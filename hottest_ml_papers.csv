@@ -1,4 +1,6 @@
 Title,URL,Score,Date
-[R] New Paper: Can frontier models self-explore and discover their own capabilities in an open-ended way?,https://arxiv.org/abs/2502.07577,38,2025-02-12 16:34:19
+"[D] We built GenAI at Google and Apple, then left to build an open source AI lab, to enable the open community to collaborate and build the next DeepSeek. Ask us anything on Friday, Feb 14 from 9am-12pm PT!",https://github.com/oumi-ai/oumi,96,2025-02-13 23:53:27
 [R] SWE-agent is the new open-source SOTA on SWE-bench Lite,"https://github.com/swe-agent/swe-agent
-https://github.com/SWE-agent/swe-rex",30,2025-02-13 15:35:03
+https://github.com/SWE-agent/swe-rex",51,2025-02-13 15:35:03
+[P] GNNs for time series anomaly detection,https://github.com/GraGODs/GraGOD,36,2025-02-14 17:56:59
+[R] Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach,https://arxiv.org/abs/2502.05171,31,2025-02-14 11:32:58
