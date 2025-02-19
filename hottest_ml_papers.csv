@@ -1,5 +1,4 @@
 Title,URL,Score,Date
-[D] What's the most promising successor to the Transformer?,"https://arxiv.org/pdf/2405.04517
-https://arxiv.org/pdf/2405.13956",164,2025-02-15 06:17:01
-[P] GNNs for time series anomaly detection,https://github.com/GraGODs/GraGOD,64,2025-02-14 17:56:59
-[R] Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach,https://arxiv.org/abs/2502.05171,48,2025-02-14 11:32:58
+[R] Evaluating LLMs on Real-World Software Engineering Tasks: A $1M Benchmark Study,https://arxiv.org/abs/2502.12115,137,2025-02-18 12:35:00
+[R] The Curse of Depth in Large Language Models,https://arxiv.org/pdf/2502.05795,48,2025-02-18 14:18:32
+[R] Region-Adaptive Sampling: Accelerating Diffusion Transformers by Selectively Updating High-Focus Areas,https://arxiv.org/abs/2502.10389,26,2025-02-17 09:03:14
