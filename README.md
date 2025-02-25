@@ -1,4 +1,3 @@
-| Title                                                                                               | URL                               |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
-| [D] Are there any theoretical machine learning papers that have significantly helped practitioners? | https://arxiv.org/pdf/1806.07572  |      66 | 2025-02-20 21:59:39 |
-|                                                                                                     | https://arxiv.org/pdf/2501.04641) |         |                     |
+| Title                                                                                                  | URL                              |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Training LLMs for Strict JSON Schema Adherence via Reinforcement Learning and Structured Reasoning | https://arxiv.org/abs/2502.14905 |      48 | 2025-02-24 09:03:44 |
