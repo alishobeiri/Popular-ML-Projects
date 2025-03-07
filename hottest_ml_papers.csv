@@ -1,3 +1,2 @@
 Title,URL,Score,Date
-[R] Sliding Window Attention Training for Efficient LLMs,https://arxiv.org/abs/2502.18845,81,2025-03-01 23:13:32
-[R] Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models,https://arxiv.org/abs/2402.07754,30,2025-03-02 10:58:06
+[P] Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO),https://github.com/Oxen-AI/GRPO-With-Cargo-Feedback/tree/main,32,2025-03-06 00:33:15
