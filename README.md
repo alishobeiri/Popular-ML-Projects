@@ -1,4 +1,3 @@
-| Title                                                                                                                                      | URL                                                           |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|--------:|:--------------------|
-| [P] Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO)                                                                       | https://github.com/Oxen-AI/GRPO-With-Cargo-Feedback/tree/main |      41 | 2025-03-06 00:33:15 |
-| [R] Cognitive Behaviors That Enable Language Model Self-Improvement: Analyzing Verification, Backtracking, Subgoals, and Backward Chaining | https://arxiv.org/abs/2503.01307                              |      26 | 2025-03-06 11:00:08 |
+| Title                                               | URL                                   |   Score | Date                |
+|:----------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [D] A Negative Result: untying weights mid-training | https://github.com/f14-bertolotti/tut |      33 | 2025-03-07 10:41:47 |
