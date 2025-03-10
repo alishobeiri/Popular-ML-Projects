@@ -1,3 +1,3 @@
-| Title                                               | URL                                   |   Score | Date                |
-|:----------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [D] A Negative Result: untying weights mid-training | https://github.com/f14-bertolotti/tut |      33 | 2025-03-07 10:41:47 |
+| Title                                                                   | URL                                |   Score | Date                |
+|:------------------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
+| [P] [R] sANNd: A New Neural Network Framework Using Trainable Iterators | https://github.com/GuruMoore/sANNd |      33 | 2025-03-08 03:20:25 |
