@@ -1,3 +1,3 @@
 | Title                                                                              | URL                                         |   Score | Date                |
 |:-----------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] Torch-Activation Library: 400+ Activation Functions – Looking for Contributors | https://github.com/hdmquan/torch_activation |      45 | 2025-03-12 04:26:00 |
+| [P] Torch-Activation Library: 400+ Activation Functions – Looking for Contributors | https://github.com/hdmquan/torch_activation |      54 | 2025-03-12 04:26:00 |
