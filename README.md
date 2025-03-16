@@ -1,3 +1,3 @@
-| Title                                                                              | URL                                         |   Score | Date                |
-|:-----------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] Torch-Activation Library: 400+ Activation Functions – Looking for Contributors | https://github.com/hdmquan/torch_activation |      54 | 2025-03-12 04:26:00 |
+| Title                                                                                              | URL                              |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Transformers without Normalization (FAIR Meta, New York University, MIT, Princeton University) | https://arxiv.org/abs/2503.10622 |     151 | 2025-03-15 10:30:09 |
