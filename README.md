@@ -1,3 +1,4 @@
-| Title                                                                                              | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Transformers without Normalization (FAIR Meta, New York University, MIT, Princeton University) | https://arxiv.org/abs/2503.10622 |     151 | 2025-03-15 10:30:09 |
+| Title                                                                                                                         | URL                              |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Transformers without Normalization (FAIR Meta, New York University, MIT, Princeton University)                            | https://arxiv.org/abs/2503.10622 |     238 | 2025-03-15 10:30:09 |
+| [R] Block Diffusion: A Hybrid Language Model Combining Autoregressive and Diffusion Approaches for Flexible-Length Generation | https://arxiv.org/abs/2503.09573 |      29 | 2025-03-15 07:22:44 |
