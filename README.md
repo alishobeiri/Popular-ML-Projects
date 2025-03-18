@@ -1,4 +1,5 @@
-| Title                                                                                                                         | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Transformers without Normalization (FAIR Meta, New York University, MIT, Princeton University)                            | https://arxiv.org/abs/2503.10622 |     238 | 2025-03-15 10:30:09 |
-| [R] Block Diffusion: A Hybrid Language Model Combining Autoregressive and Diffusion Approaches for Flexible-Length Generation | https://arxiv.org/abs/2503.09573 |      29 | 2025-03-15 07:22:44 |
+| Title                                                                                                  | URL                                       |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [R] Transformers without Normalization (FAIR Meta, New York University, MIT, Princeton University)     | https://arxiv.org/abs/2503.10622          |     254 | 2025-03-15 10:30:09 |
+| [P] I fine-tuned Qwen 2.5 Coder on a single repo and got a 47% improvement in code completion accuracy | https://github.com/hcengineering/platform |      65 | 2025-03-17 17:25:16 |
+| [D] Milestone XAI/Interpretability papers?                                                             | https://arxiv.org/abs/1703.01365          |      41 | 2025-03-17 01:36:19 |
