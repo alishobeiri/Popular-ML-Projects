@@ -1,4 +1,4 @@
-| Title                                                                                                  | URL                                       |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [P] I fine-tuned Qwen 2.5 Coder on a single repo and got a 47% improvement in code completion accuracy | https://github.com/hcengineering/platform |     139 | 2025-03-17 17:25:16 |
-| [D] Milestone XAI/Interpretability papers?                                                             | https://arxiv.org/abs/1703.01365          |      51 | 2025-03-17 01:36:19 |
+| Title                                                                                                             | URL                                       |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [P] I fine-tuned Qwen 2.5 Coder on a single repo and got a 47% improvement in code completion accuracy            | https://github.com/hcengineering/platform |     154 | 2025-03-17 17:25:16 |
+| [R] Forget Chain-of-Thought reasoning! Introducing Chain-of-Draft: Thinking Faster (and Cheaper) by Writing Less. | https://arxiv.org/abs/2502.18600          |      26 | 2025-03-18 20:58:36 |
