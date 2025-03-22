@@ -1,4 +1,8 @@
-| Title                                                                                                             | URL                                       |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [P] I fine-tuned Qwen 2.5 Coder on a single repo and got a 47% improvement in code completion accuracy            | https://github.com/hcengineering/platform |     161 | 2025-03-17 17:25:16 |
-| [R] Forget Chain-of-Thought reasoning! Introducing Chain-of-Draft: Thinking Faster (and Cheaper) by Writing Less. | https://arxiv.org/abs/2502.18600          |      33 | 2025-03-18 20:58:36 |
+| Title                                                                                                             | URL                                               |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
+| [R] Forget Chain-of-Thought reasoning! Introducing Chain-of-Draft: Thinking Faster (and Cheaper) by Writing Less. | https://arxiv.org/abs/2502.18600                  |      34 | 2025-03-18 20:58:36 |
+| [R] RWKV-7 "Goose" with Expressive Dynamic State Evolution                                                        | https://arxiv.org/abs/2503.14456                  |      29 | 2025-03-19 03:08:39 |
+|                                                                                                                   | https://github.com/RWKV/RWKV-LM                   |         |                     |
+|                                                                                                                   | https://github.com/BlinkDL/RWKV-LM                |         |                     |
+| [N] ​Introducing FlashTokenizer: The World's Fastest Tokenizer Library for LLM Inference                          | https://github.com/fla-org/flash-linear-attention |      26 | 2025-03-21 05:31:56 |
+|                                                                                                                   | https://github.com/NLPOptimize/flash-tokenizer    |         |                     |
