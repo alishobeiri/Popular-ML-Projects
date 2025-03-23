@@ -1,8 +1,4 @@
-| Title                                                                                                             | URL                                               |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [R] Forget Chain-of-Thought reasoning! Introducing Chain-of-Draft: Thinking Faster (and Cheaper) by Writing Less. | https://arxiv.org/abs/2502.18600                  |      34 | 2025-03-18 20:58:36 |
-| [R] RWKV-7 "Goose" with Expressive Dynamic State Evolution                                                        | https://arxiv.org/abs/2503.14456                  |      29 | 2025-03-19 03:08:39 |
-|                                                                                                                   | https://github.com/RWKV/RWKV-LM                   |         |                     |
-|                                                                                                                   | https://github.com/BlinkDL/RWKV-LM                |         |                     |
-| [N] ​Introducing FlashTokenizer: The World's Fastest Tokenizer Library for LLM Inference                          | https://github.com/fla-org/flash-linear-attention |      26 | 2025-03-21 05:31:56 |
-|                                                                                                                   | https://github.com/NLPOptimize/flash-tokenizer    |         |                     |
+| Title                                                                                    | URL                                               |   Score | Date                |
+|:-----------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
+| [N] ​Introducing FlashTokenizer: The World's Fastest Tokenizer Library for LLM Inference | https://github.com/fla-org/flash-linear-attention |      35 | 2025-03-21 05:31:56 |
+|                                                                                          | https://github.com/NLPOptimize/flash-tokenizer    |         |                     |
