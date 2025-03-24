@@ -1,4 +1,3 @@
-| Title                                                                                    | URL                                               |   Score | Date                |
-|:-----------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [N] ​Introducing FlashTokenizer: The World's Fastest Tokenizer Library for LLM Inference | https://github.com/fla-org/flash-linear-attention |      35 | 2025-03-21 05:31:56 |
-|                                                                                          | https://github.com/NLPOptimize/flash-tokenizer    |         |                     |
+| Title                                                                                              | URL                              |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] GRPO-Based Reinforcement Learning Improves Math Reasoning in Small LLMs with Limited Resources | https://arxiv.org/abs/2503.16219 |      31 | 2025-03-23 07:05:13 |
