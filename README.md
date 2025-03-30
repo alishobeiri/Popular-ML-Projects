@@ -1,4 +1,4 @@
 | Title                                            | URL                              |   Score | Date                |
 |:-------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] GPT-4o image generation and editing - how??? | https://arxiv.org/abs/2410.13848 |      68 | 2025-03-27 01:58:59 |
+| [D] GPT-4o image generation and editing - how??? | https://arxiv.org/abs/2410.13848 |      71 | 2025-03-27 01:58:59 |
 |                                                  | https://arxiv.org/abs/2411.07975 |         |                     |
