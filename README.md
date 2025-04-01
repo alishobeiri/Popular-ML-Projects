@@ -1,4 +1,3 @@
-| Title                                            | URL                              |   Score | Date                |
-|:-------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D] GPT-4o image generation and editing - how??? | https://arxiv.org/abs/2410.13848 |      71 | 2025-03-27 01:58:59 |
-|                                                  | https://arxiv.org/abs/2411.07975 |         |                     |
+| Title                                                                                                                            | URL                                         |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [P] Developing a open-source (Retrieval Augmented Generation) framework written in C++ with python bindings for high performance | https://github.com/pureai-ecosystem/purecpp |      27 | 2025-03-31 14:16:29 |
