@@ -1,7 +1,5 @@
-| Title                                                                                                                            | URL                                         |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [R] Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad                                                                    | https://arxiv.org/abs/2503.21934v1          |      72 | 2025-04-01 10:34:02 |
-| [Project] Tensara: Codeforces/Kaggle for GPU programming                                                                         | https://github.com/tensara/tensara-cli      |      44 | 2025-03-31 21:41:12 |
-|                                                                                                                                  | https://github.com/tensara/tensara          |         |                     |
-| [P] Developing a open-source (Retrieval Augmented Generation) framework written in C++ with python bindings for high performance | https://github.com/pureai-ecosystem/purecpp |      40 | 2025-03-31 14:16:29 |
-| [D][P] Turning Knowledge Graphs into Memory with Ontologies?                                                                     | https://github.com/topoteretes/cognee       |      26 | 2025-04-01 11:18:05 |
+| Title                                                         | URL                                                 |   Score | Date                |
+|:--------------------------------------------------------------|:----------------------------------------------------|--------:|:--------------------|
+| [R] Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad | https://arxiv.org/abs/2503.21934v1                  |      98 | 2025-04-01 10:34:02 |
+| [R] Implemented 18 RL Algorithms in a Simpler Way             | https://github.com/FareedKhan-dev/all-rl-algorithms |      74 | 2025-04-02 10:40:46 |
+| [D][P] Turning Knowledge Graphs into Memory with Ontologies?  | https://github.com/topoteretes/cognee               |      33 | 2025-04-01 11:18:05 |
