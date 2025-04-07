@@ -1,3 +1,3 @@
-| Title                                                                                                             | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Multi-Token Attention: Enhancing Transformer Context Integration Through Convolutional Query-Key Interactions | https://arxiv.org/abs/2504.00927 |      33 | 2025-04-03 10:50:41 |
+| Title                                                                                | URL                              |   Score | Date                |
+|:-------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] NoProp: Training neural networks without back-propagation or forward-propagation | https://arxiv.org/pdf/2503.24322 |     107 | 2025-04-05 22:46:20 |
