@@ -1,5 +1,4 @@
 | Title                                                                                    | URL                                               |   Score | Date                |
 |:-----------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [R] NoProp: Training neural networks without back-propagation or forward-propagation     | https://arxiv.org/pdf/2503.24322                  |     130 | 2025-04-05 22:46:20 |
-| [P] Docext: Open-Source, On-Prem Document Intelligence Powered by Vision-Language Models | https://github.com/nanonets/docext                |      34 | 2025-04-07 12:20:48 |
+| [P] Docext: Open-Source, On-Prem Document Intelligence Powered by Vision-Language Models | https://github.com/nanonets/docext                |      36 | 2025-04-07 12:20:48 |
 |                                                                                          | https://github.com/nanonets/docext#colab-notebook |         |                     |
