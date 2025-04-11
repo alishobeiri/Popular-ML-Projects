@@ -1,4 +1,3 @@
-| Title                                                                                    | URL                                               |   Score | Date                |
-|:-----------------------------------------------------------------------------------------|:--------------------------------------------------|--------:|:--------------------|
-| [P] Docext: Open-Source, On-Prem Document Intelligence Powered by Vision-Language Models | https://github.com/nanonets/docext                |      36 | 2025-04-07 12:20:48 |
-|                                                                                          | https://github.com/nanonets/docext#colab-notebook |         |                     |
+| Title                                                                                                             | URL                                         |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [P] A slop forensics toolkit for LLMs: computing over-represented lexical profiles and inferring similarity trees | https://github.com/sam-paech/slop-forensics |      27 | 2025-04-10 16:02:50 |
