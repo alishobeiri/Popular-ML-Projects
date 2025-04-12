@@ -1,3 +1,8 @@
-| Title                                                                                                             | URL                                         |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] A slop forensics toolkit for LLMs: computing over-represented lexical profiles and inferring similarity trees | https://github.com/sam-paech/slop-forensics |      27 | 2025-04-10 16:02:50 |
+| Title                                                                                                             | URL                                          |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
+| [P] A lightweight open-source model for generating manga                                                          | https://arxiv.org/abs/2403.11641             |      64 | 2025-04-11 15:06:32 |
+|                                                                                                                   | https://github.com/PixArt-alpha/PixArt-sigma |         |                     |
+|                                                                                                                   | https://github.com/jianzongwu/DiffSensei     |         |                     |
+|                                                                                                                   | https://github.com/ragavsachdeva/magi        |         |                     |
+| [P] A slop forensics toolkit for LLMs: computing over-represented lexical profiles and inferring similarity trees | https://github.com/sam-paech/slop-forensics  |      42 | 2025-04-10 16:02:50 |
+| [P] [R] [D] I built a biomedical GNN + LLM pipeline (XplainMD) for explainable multi-link prediction              | https://github.com/amulya-prasad/XplainMD    |      26 | 2025-04-10 11:06:07 |
