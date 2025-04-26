@@ -1,2 +1,8 @@
 Title,URL,Score,Date
-[D] When will reasoning models hit a wall?,https://arxiv.org/pdf/2310.01798,85,2025-04-17 06:16:33
+"[R][P] We compress any BF16 model to ~70% size during inference, while keeping the output LOSSLESS so that you can fit in more context or run larger models.","https://arxiv.org/abs/2504.11651
+https://github.com/LeanModels/DFloat11",97,2025-04-25 15:55:34
+[R][P] Byte-level LLaMA and Gemma via cross-tokenizer distillation (with open-source toolkit),"https://arxiv.org/abs/2503.20083
+https://arxiv.org/abs/2309.08168
+https://arxiv.org/abs/2211.09761
+https://github.com/bminixhofer/tokenkit
+https://github.com/bminixhofer/tokenkit/blob/main/docs/tokenizer_transfer.md",26,2025-04-24 10:34:11
