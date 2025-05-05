@@ -1,5 +1,4 @@
-| Title                                                                                                                                                        | URL                                      |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R][P] We compress any BF16 model to ~70% size during inference, while keeping the output LOSSLESS so that you can fit in more context or run larger models. | https://arxiv.org/abs/2504.11651         |     182 | 2025-04-25 15:55:34 |
-|                                                                                                                                                              | https://github.com/LeanModels/DFloat11   |         |                     |
-| [R] Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning                                                                        | https://github.com/going-doer/Paper2Code |      85 | 2025-04-25 16:43:05 |
+| Title                                                                                             | URL                                  |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [P] Muyan-TTS: We built an open-source, low-latency, highly customizable TTS model for developers | https://arxiv.org/abs/2504.19146     |      34 | 2025-05-03 15:18:44 |
+|                                                                                                   | https://github.com/MYZY-AI/Muyan-TTS |         |                     |
