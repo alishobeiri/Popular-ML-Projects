@@ -1,4 +1,5 @@
-| Title                                                                                             | URL                                  |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [P] Muyan-TTS: We built an open-source, low-latency, highly customizable TTS model for developers | https://arxiv.org/abs/2504.19146     |      34 | 2025-05-03 15:18:44 |
-|                                                                                                   | https://github.com/MYZY-AI/Muyan-TTS |         |                     |
+| Title                                                                                             | URL                                                     |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
+| [P] Muyan-TTS: We built an open-source, low-latency, highly customizable TTS model for developers | https://arxiv.org/abs/2504.19146                        |      41 | 2025-05-03 15:18:44 |
+|                                                                                                   | https://github.com/MYZY-AI/Muyan-TTS                    |         |                     |
+| [P] Predicting the 2025 Miami GP                                                                  | https://github.com/frankndungu/f1-miami-prediction-2025 |      29 | 2025-05-04 19:24:29 |
