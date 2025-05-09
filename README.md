@@ -1,3 +1,4 @@
-| Title                            | URL                                                     |   Score | Date                |
-|:---------------------------------|:--------------------------------------------------------|--------:|:--------------------|
-| [P] Predicting the 2025 Miami GP | https://github.com/frankndungu/f1-miami-prediction-2025 |      33 | 2025-05-04 19:24:29 |
+| Title                                                                                                                                     | URL                                                           |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|--------:|:--------------------|
+| [P] Introducing the Intelligent Document Processing (IDP) Leaderboard – A Unified Benchmark for OCR, KIE, VQA, Table Extraction, and More | https://github.com/NanoNets/docext/tree/main/docext/benchmark |      30 | 2025-05-08 13:18:28 |
+| [P] A Python Toolkit for Chain-of-Thought Prompting                                                                                       | https://github.com/habedi/cogitator                           |      26 | 2025-05-06 16:30:07 |
