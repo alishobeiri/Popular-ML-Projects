@@ -1,3 +1,3 @@
 | Title                                                                                                                                     | URL                                                           |   Score | Date                |
 |:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|--------:|:--------------------|
-| [P] Introducing the Intelligent Document Processing (IDP) Leaderboard – A Unified Benchmark for OCR, KIE, VQA, Table Extraction, and More | https://github.com/NanoNets/docext/tree/main/docext/benchmark |      43 | 2025-05-08 13:18:28 |
+| [P] Introducing the Intelligent Document Processing (IDP) Leaderboard – A Unified Benchmark for OCR, KIE, VQA, Table Extraction, and More | https://github.com/NanoNets/docext/tree/main/docext/benchmark |      42 | 2025-05-08 13:18:28 |
