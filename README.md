@@ -1,3 +1,6 @@
-| Title                                                                              | URL                                                   |   Score | Date                |
-|:-----------------------------------------------------------------------------------|:------------------------------------------------------|--------:|:--------------------|
-| [P] I built a transformer that skips layers per token based on semantic importance | https://github.com/Quinnybob/sparse-depth-transformer |     136 | 2025-05-18 03:25:06 |
+| Title                                                                              | URL                                                                             |   Score | Date                |
+|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] I built a transformer that skips layers per token based on semantic importance | https://github.com/Quinnybob/sparse-depth-transformer                           |     148 | 2025-05-18 03:25:06 |
+| [P] OpenEvolve: Open Source Implementation of DeepMind's AlphaEvolve System        | https://github.com/codelion/openevolve                                          |      86 | 2025-05-20 16:54:04 |
+|                                                                                    | https://github.com/codelion/openevolve/tree/main/examples/circle_packing        |         |                     |
+|                                                                                    | https://github.com/codelion/openevolve/tree/main/examples/function_minimization |         |                     |
