@@ -1,6 +1,5 @@
 | Title                                                                       | URL                                                                             |   Score | Date                |
 |:----------------------------------------------------------------------------|:--------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] OpenEvolve: Open Source Implementation of DeepMind's AlphaEvolve System | https://github.com/codelion/openevolve                                          |     165 | 2025-05-20 16:54:04 |
+| [P] OpenEvolve: Open Source Implementation of DeepMind's AlphaEvolve System | https://github.com/codelion/openevolve                                          |     183 | 2025-05-20 16:54:04 |
 |                                                                             | https://github.com/codelion/openevolve/tree/main/examples/circle_packing        |         |                     |
 |                                                                             | https://github.com/codelion/openevolve/tree/main/examples/function_minimization |         |                     |
-| [R] The Fractured Entangled Representation Hypothesis                       | https://arxiv.org/abs/2505.11581                                                |      27 | 2025-05-20 21:38:02 |
