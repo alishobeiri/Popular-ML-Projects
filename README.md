@@ -1,5 +1,3 @@
-| Title                                                                       | URL                                                                             |   Score | Date                |
-|:----------------------------------------------------------------------------|:--------------------------------------------------------------------------------|--------:|:--------------------|
-| [P] OpenEvolve: Open Source Implementation of DeepMind's AlphaEvolve System | https://github.com/codelion/openevolve                                          |     183 | 2025-05-20 16:54:04 |
-|                                                                             | https://github.com/codelion/openevolve/tree/main/examples/circle_packing        |         |                     |
-|                                                                             | https://github.com/codelion/openevolve/tree/main/examples/function_minimization |         |                     |
+| Title                                                                                                                              | URL                              |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Tsinghua University, Stanford University, CMU, and Tencent jointly released a benchmark, named RBench-V, for visual reasoning. | https://arxiv.org/pdf/2505.16770 |      81 | 2025-05-23 08:02:08 |
