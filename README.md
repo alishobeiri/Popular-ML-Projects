@@ -1,3 +1,3 @@
 | Title                                                                                                                              | URL                              |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Tsinghua University, Stanford University, CMU, and Tencent jointly released a benchmark, named RBench-V, for visual reasoning. | https://arxiv.org/pdf/2505.16770 |      81 | 2025-05-23 08:02:08 |
+| [R] Tsinghua University, Stanford University, CMU, and Tencent jointly released a benchmark, named RBench-V, for visual reasoning. | https://arxiv.org/pdf/2505.16770 |     104 | 2025-05-23 08:02:08 |
