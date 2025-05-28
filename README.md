@@ -1,5 +1,6 @@
-| Title                                                                                                                             | URL                                       |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [R] We taught generative models to segment ONLY furniture and cars, but they somehow generalized to basically everything else.... | https://arxiv.org/abs/2505.15263          |     275 | 2025-05-25 00:38:00 |
-| [P] I made a OSS alternative to Weights and Biases                                                                                | https://github.com/mlop-ai/mlop           |     109 | 2025-05-25 21:26:14 |
-| [P] Evolving Text Compression Algorithms by Mutating Code with LLMs                                                               | https://github.com/think-a-tron/minevolve |      33 | 2025-05-26 05:43:59 |
+| Title                                                                                                  | URL                                                             |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|--------:|:--------------------|
+| [R]  Bloat in machine learning shared libs is &gt;70%                                                  | https://github.com/negativa-ai/                                 |     110 | 2025-05-27 20:30:00 |
+| [R] AutoThink: Adaptive reasoning technique that improves local LLM performance by 43% on GPQA-Diamond | https://github.com/codelion/optillm/tree/main/optillm/autothink |      46 | 2025-05-27 15:57:13 |
+|                                                                                                        | https://github.com/codelion/pts                                 |         |                     |
+|                                                                                                        | https://github.com/codelion/adaptive-classifier                 |         |                     |
