@@ -1,5 +1,3 @@
 Title,URL,Score,Date
-[R]  Bloat in machine learning shared libs is &gt;70%,https://github.com/negativa-ai/,324,2025-05-27 20:30:00
-"[R] New ICML25 paper: Train and fine-tune large models faster than Adam while using only a fraction of the memory, with guarantees!","https://arxiv.org/abs/2411.07120
-https://github.com/timmytonga/sn-sm",121,2025-05-28 00:49:22
-[P] Chatterbox TTS 0.5B - Outperforms ElevenLabs (MIT Licensed),https://github.com/resemble-ai/chatterbox,34,2025-05-28 22:48:09
+[R] The Resurrection of the ReLU,https://arxiv.org/pdf/2505.22074,92,2025-05-30 14:35:20
+[R] How to add confidence intervals to your LLM-as-a-judge,https://github.com/sunnybak/precision-based-sampling/blob/main/mixed_expert.py,56,2025-05-29 20:17:17
