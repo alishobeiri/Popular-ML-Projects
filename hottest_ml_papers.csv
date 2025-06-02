@@ -1,6 +1,2 @@
 Title,URL,Score,Date
-[R] The Resurrection of the ReLU,https://arxiv.org/pdf/2505.22074,189,2025-05-30 14:35:20
-[R] How to add confidence intervals to your LLM-as-a-judge,https://github.com/sunnybak/precision-based-sampling/blob/main/mixed_expert.py,57,2025-05-29 20:17:17
-[P] gvtop: 🎮 Material You TUI for monitoring NVIDIA GPUs,https://github.com/gvlassis/gvtop,27,2025-05-30 12:58:01
-[R] HAMburger: Accelerating LLM Inference via Token Smashing,"https://arxiv.org/pdf/2505.20438
-https://github.com/Jingyu6/hamburger",26,2025-05-30 17:13:32
+[P] Interactive Pytorch visualization package that works in notebooks with 1 line of code,https://github.com/sachinhosmani/torchvista,98,2025-06-01 19:41:50
