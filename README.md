@@ -1,3 +1,3 @@
 | Title                                                                                     | URL                                         |   Score | Date                |
 |:------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] Interactive Pytorch visualization package that works in notebooks with 1 line of code | https://github.com/sachinhosmani/torchvista |      98 | 2025-06-01 19:41:50 |
+| [P] Interactive Pytorch visualization package that works in notebooks with 1 line of code | https://github.com/sachinhosmani/torchvista |     212 | 2025-06-01 19:41:50 |
