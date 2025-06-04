@@ -1,3 +1,4 @@
 | Title                                                                                     | URL                                         |   Score | Date                |
 |:------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] Interactive Pytorch visualization package that works in notebooks with 1 line of code | https://github.com/sachinhosmani/torchvista |     212 | 2025-06-01 19:41:50 |
+| [P] Interactive Pytorch visualization package that works in notebooks with 1 line of code | https://github.com/sachinhosmani/torchvista |     241 | 2025-06-01 19:41:50 |
+| [R] Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space  | https://arxiv.org/abs/2505.15778            |      33 | 2025-06-03 01:37:20 |
