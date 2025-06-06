@@ -1,3 +1,3 @@
 | Title                                                                   | URL                              |   Score | Date                |
 |:------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R]Time Blindness: Why Video-Language Models Can't See What Humans Can? | https://arxiv.org/abs/2505.24867 |     105 | 2025-06-04 11:58:39 |
+| [R]Time Blindness: Why Video-Language Models Can't See What Humans Can? | https://arxiv.org/abs/2505.24867 |     134 | 2025-06-04 11:58:39 |
