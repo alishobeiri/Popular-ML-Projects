@@ -1,3 +1,7 @@
-| Title                                                                   | URL                              |   Score | Date                |
-|:------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R]Time Blindness: Why Video-Language Models Can't See What Humans Can? | https://arxiv.org/abs/2505.24867 |     134 | 2025-06-04 11:58:39 |
+| Title                                                                                                                                                | URL                                           |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [R]Time Blindness: Why Video-Language Models Can't See What Humans Can?                                                                              | https://arxiv.org/abs/2505.24867              |     147 | 2025-06-04 11:58:39 |
+| [R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability | https://arxiv.org/abs/2505.24293              |     141 | 2025-06-06 12:55:36 |
+|                                                                                                                                                      | https://arxiv.org/abs/1906.05478              |         |                     |
+|                                                                                                                                                      | https://arxiv.org/abs/2310.02557              |         |                     |
+|                                                                                                                                                      | https://github.com/jamesgolden1/llms-are-llms |         |                     |
