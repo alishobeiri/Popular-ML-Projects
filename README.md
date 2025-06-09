@@ -1,9 +1,3 @@
-| Title                                                                                                                                                | URL                                           |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability | https://arxiv.org/abs/2505.24293              |     208 | 2025-06-06 12:55:36 |
-|                                                                                                                                                      | https://arxiv.org/abs/1906.05478              |         |                     |
-|                                                                                                                                                      | https://arxiv.org/abs/2310.02557              |         |                     |
-|                                                                                                                                                      | https://github.com/jamesgolden1/llms-are-llms |         |                     |
-| [R] Log-Linear Attention                                                                                                                             | https://arxiv.org/abs/2506.04761              |      93 | 2025-06-07 08:34:07 |
-| [R] Better quantization: Yet Another Quantization Algorithm                                                                                          | https://arxiv.org/pdf/2505.22988              |      32 | 2025-06-06 16:13:09 |
-|                                                                                                                                                      | https://github.com/Cornell-RelaxML/yaqa       |         |                     |
+| Title                    | URL                              |   Score | Date                |
+|:-------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Log-Linear Attention | https://arxiv.org/abs/2506.04761 |     111 | 2025-06-07 08:34:07 |
