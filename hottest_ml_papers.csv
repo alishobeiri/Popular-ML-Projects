@@ -1,3 +1,4 @@
 Title,URL,Score,Date
-[P] GNNs for time series anomaly detection (Part 2),https://github.com/GraGODs/GraGOD,31,2025-06-10 13:17:26
-[R][D] Let’s Fork Deep Learning: The Hidden Symmetry Bias No One Talks About,https://arxiv.org/abs/2505.13471,31,2025-06-09 11:19:28
+[R] FlashDMoE: Fast Distributed MoE in a single Kernel,"https://arxiv.org/abs/2506.04667
+https://github.com/osayamenja/Kleos/blob/main/csrc/include/kleos/moe/README.MD",55,2025-06-11 03:03:39
+[P] GNNs for time series anomaly detection (Part 2),https://github.com/GraGODs/GraGOD,38,2025-06-10 13:17:26
