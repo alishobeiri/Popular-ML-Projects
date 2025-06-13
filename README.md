@@ -1,5 +1,7 @@
-| Title                                                  | URL                                                                            |   Score | Date                |
-|:-------------------------------------------------------|:-------------------------------------------------------------------------------|--------:|:--------------------|
-| [R] FlashDMoE: Fast Distributed MoE in a single Kernel | https://arxiv.org/abs/2506.04667                                               |      55 | 2025-06-11 03:03:39 |
-|                                                        | https://github.com/osayamenja/Kleos/blob/main/csrc/include/kleos/moe/README.MD |         |                     |
-| [P] GNNs for time series anomaly detection (Part 2)    | https://github.com/GraGODs/GraGOD                                              |      38 | 2025-06-10 13:17:26 |
+| Title                                                                             | URL                                                                            |   Score | Date                |
+|:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|--------:|:--------------------|
+| [P]: I reimplemented all of frontier deep learning from scratch to help you learn | https://github.com/tanishqkumar/beyond-nanogpt                                 |     113 | 2025-06-12 12:33:31 |
+| [R] FlashDMoE: Fast Distributed MoE in a single Kernel                            | https://arxiv.org/abs/2506.04667                                               |      63 | 2025-06-11 03:03:39 |
+|                                                                                   | https://github.com/osayamenja/Kleos/blob/main/csrc/include/kleos/moe/README.MD |         |                     |
+| [R] ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models | https://arxiv.org/abs/2505.14238                                               |      36 | 2025-06-12 13:43:22 |
+|                                                                                   | https://github.com/CERT-Lab/abba                                               |         |                     |
