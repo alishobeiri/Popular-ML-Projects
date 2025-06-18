@@ -1,6 +1,6 @@
 | Title                                                | URL                                                            |   Score | Date                |
 |:-----------------------------------------------------|:---------------------------------------------------------------|--------:|:--------------------|
-| [R] Vision Transformers Don't Need Trained Registers | https://arxiv.org/abs/2309.16588                               |      59 | 2025-06-16 03:56:54 |
+| [R] Vision Transformers Don't Need Trained Registers | https://arxiv.org/abs/2309.16588                               |      70 | 2025-06-16 03:56:54 |
 |                                                      | https://arxiv.org/abs/2402.17762                               |         |                     |
 |                                                      | https://arxiv.org/abs/2309.17453)                              |         |                     |
 |                                                      | https://arxiv.org/abs/2506.08010                               |         |                     |
