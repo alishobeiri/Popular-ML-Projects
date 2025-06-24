@@ -1,4 +1,3 @@
-| Title                                                                   | URL                                        |   Score | Date                |
-|:------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] Autopaste MFA codes from Gmail using Local LLMs                     | https://github.com/yahorbarkouski/auto-mfa |      44 | 2025-06-21 16:37:45 |
-| Why is Qwen2-0.5B trained on much more data than the larger models? [D] | https://arxiv.org/abs/2407.10671           |      37 | 2025-06-21 05:46:46 |
+| Title                                                                                                     | URL                                           |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| [R] [MICCAI 2025] U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation | https://github.com/LucaLumetti/UNetTransplant |      36 | 2025-06-22 12:49:08 |
