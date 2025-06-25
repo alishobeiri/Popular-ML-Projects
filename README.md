@@ -1,3 +1,4 @@
-| Title                                                                                                     | URL                                           |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| [R] [MICCAI 2025] U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation | https://github.com/LucaLumetti/UNetTransplant |      36 | 2025-06-22 12:49:08 |
+| Title                                                    | URL                              |   Score | Date                |
+|:---------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Reinforcement Learning Teachers of Test Time Scaling | https://arxiv.org/abs/2506.08388 |      28 | 2025-06-23 10:37:10 |
+|                                                          | https://github.com/SakanaAI/RLT  |         |                     |
