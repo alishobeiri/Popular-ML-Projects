@@ -1,3 +1,3 @@
 | Title                                               | URL                              |   Score | Date                |
 |:----------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] OMEGA: Can LLMs Reason Outside the Box in Math? | https://arxiv.org/abs/2506.18880 |      26 | 2025-06-25 01:29:54 |
+| [R] OMEGA: Can LLMs Reason Outside the Box in Math? | https://arxiv.org/abs/2506.18880 |      30 | 2025-06-25 01:29:54 |
