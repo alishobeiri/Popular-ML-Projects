@@ -1,3 +1,4 @@
-| Title                                                                       | URL                              |   Score | Date                |
-|:----------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] You can just predict the optimum (aka in-context Bayesian optimization) | https://arxiv.org/abs/2410.15320 |      74 | 2025-06-26 17:32:26 |
+| Title                                                                             | URL                                    |   Score | Date                |
+|:----------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
+| [R] You can just predict the optimum (aka in-context Bayesian optimization)       | https://arxiv.org/abs/2410.15320       |      90 | 2025-06-26 17:32:26 |
+| [R] OpenEvolve: Automated GPU Kernel Discovery Outperforms Human Engineers by 21% | https://github.com/codelion/openevolve |      78 | 2025-06-28 16:02:20 |
