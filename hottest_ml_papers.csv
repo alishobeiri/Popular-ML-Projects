@@ -1,3 +1,8 @@
 Title,URL,Score,Date
-[R] You can just predict the optimum (aka in-context Bayesian optimization),https://arxiv.org/abs/2410.15320,90,2025-06-26 17:32:26
-[R] OpenEvolve: Automated GPU Kernel Discovery Outperforms Human Engineers by 21%,https://github.com/codelion/openevolve,78,2025-06-28 16:02:20
+"[R] LSTM or Transformer as ""malware packer""",https://github.com/piotrmaciejbednarski/lstm-memorizer,242,2025-06-29 03:14:14
+[R] OpenEvolve: Automated GPU Kernel Discovery Outperforms Human Engineers by 21%,https://github.com/codelion/openevolve,117,2025-06-28 16:02:20
+[D] SAMformer -- a lesson in reading benchmarks carefully,"https://arxiv.org/abs/2012.07436
+https://arxiv.org/abs/2106.13008
+https://arxiv.org/pdf/2201.12740
+https://arxiv.org/abs/2205.13504
+https://arxiv.org/abs/2402.10198",68,2025-06-29 07:36:06
