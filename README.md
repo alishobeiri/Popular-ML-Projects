@@ -1,9 +1,8 @@
-| Title                                                                             | URL                                                    |   Score | Date                |
-|:----------------------------------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
-| [R] LSTM or Transformer as "malware packer"                                       | https://github.com/piotrmaciejbednarski/lstm-memorizer |     242 | 2025-06-29 03:14:14 |
-| [R] OpenEvolve: Automated GPU Kernel Discovery Outperforms Human Engineers by 21% | https://github.com/codelion/openevolve                 |     117 | 2025-06-28 16:02:20 |
-| [D] SAMformer -- a lesson in reading benchmarks carefully                         | https://arxiv.org/abs/2012.07436                       |      68 | 2025-06-29 07:36:06 |
-|                                                                                   | https://arxiv.org/abs/2106.13008                       |         |                     |
-|                                                                                   | https://arxiv.org/pdf/2201.12740                       |         |                     |
-|                                                                                   | https://arxiv.org/abs/2205.13504                       |         |                     |
-|                                                                                   | https://arxiv.org/abs/2402.10198                       |         |                     |
+| Title                                                     | URL                                                    |   Score | Date                |
+|:----------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
+| [R] LSTM or Transformer as "malware packer"               | https://github.com/piotrmaciejbednarski/lstm-memorizer |     288 | 2025-06-29 03:14:14 |
+| [D] SAMformer -- a lesson in reading benchmarks carefully | https://arxiv.org/abs/2012.07436                       |      79 | 2025-06-29 07:36:06 |
+|                                                           | https://arxiv.org/abs/2106.13008                       |         |                     |
+|                                                           | https://arxiv.org/pdf/2201.12740                       |         |                     |
+|                                                           | https://arxiv.org/abs/2205.13504                       |         |                     |
+|                                                           | https://arxiv.org/abs/2402.10198                       |         |                     |
