@@ -1,3 +1,3 @@
 | Title                                                                                                                  | URL                                |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
-| [P] We built this project to increase LLM throughput by 3x. Now it has been adopted by IBM in their LLM serving stack! | https://github.com/LMCache/LMCache |      99 | 2025-07-06 21:59:06 |
+| [P] We built this project to increase LLM throughput by 3x. Now it has been adopted by IBM in their LLM serving stack! | https://github.com/LMCache/LMCache |     117 | 2025-07-06 21:59:06 |
