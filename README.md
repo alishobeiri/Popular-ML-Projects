@@ -1,4 +1,5 @@
 | Title                                                                                                                | URL                                                   |   Score | Date                |
 |:---------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------|--------:|:--------------------|
-| [D] Views on DIfferentiable Physics                                                                                  | https://arxiv.org/pdf/2407.07218                      |      69 | 2025-07-11 07:04:48 |
-| [P] Convert generative pixel-art images or low-quality web uploads of sprites to true usable pixel-resolution assets | https://github.com/KennethJAllen/generative-pixel-art |      39 | 2025-07-13 18:38:10 |
+| [P] Anyone interested in TinyML?                                                                                     | https://github.com/EmbeddedML/sklearn2c               |      98 | 2025-07-14 22:32:42 |
+| [D] Views on DIfferentiable Physics                                                                                  | https://arxiv.org/pdf/2407.07218                      |      73 | 2025-07-11 07:04:48 |
+| [P] Convert generative pixel-art images or low-quality web uploads of sprites to true usable pixel-resolution assets | https://github.com/KennethJAllen/generative-pixel-art |      47 | 2025-07-13 18:38:10 |
