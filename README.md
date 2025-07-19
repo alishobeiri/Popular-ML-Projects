@@ -1,4 +1,3 @@
-| Title                                                                                   | URL                                     |   Score | Date                |
-|:----------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [P] Anyone interested in TinyML?                                                        | https://github.com/EmbeddedML/sklearn2c |     107 | 2025-07-14 22:32:42 |
-| [R][D] Interpretability as a Side Effect? Are Activation Functions Biasing Your Models? | https://arxiv.org/abs/2505.13471        |      49 | 2025-07-16 10:02:30 |
+| Title                                                                                   | URL                              |   Score | Date                |
+|:----------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R][D] Interpretability as a Side Effect? Are Activation Functions Biasing Your Models? | https://arxiv.org/abs/2505.13471 |      54 | 2025-07-16 10:02:30 |
