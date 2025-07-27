@@ -1,3 +1,3 @@
-| Title                                                                                   | URL                              |   Score | Date                |
-|:----------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R][D] Interpretability as a Side Effect? Are Activation Functions Biasing Your Models? | https://arxiv.org/abs/2505.13471 |      54 | 2025-07-16 10:02:30 |
+| Title                                                                                                        | URL                              |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Why CDF normalization is not used in ML? Leads to more uniform distributions - better for generalization | https://arxiv.org/pdf/2507.13393 |      60 | 2025-07-26 04:01:55 |
