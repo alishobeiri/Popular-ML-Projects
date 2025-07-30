@@ -1,6 +1,4 @@
-| Title                                                                                                        | URL                                                     |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
-| [D] Why CDF normalization is not used in ML? Leads to more uniform distributions - better for generalization | https://arxiv.org/pdf/2507.13393                        |      99 | 2025-07-26 04:01:55 |
-| [P] Sub-millisecond GPU Task Queue: Optimized CUDA Kernels for Small-Batch ML Inference on GTX 1650.         | https://github.com/shreshthkapai/cuda_latency_benchmark |      64 | 2025-07-26 14:53:32 |
-| [P] I tried implementing the CRISP paper from Google Deepmind in Python                                      | https://arxiv.org/pdf/2505.11471                        |      56 | 2025-07-27 10:32:08 |
-|                                                                                                              | https://github.com/sigridjineth/crisp-py                |         |                     |
+| Title                                                                   | URL                                      |   Score | Date                |
+|:------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [P] I tried implementing the CRISP paper from Google Deepmind in Python | https://arxiv.org/pdf/2505.11471         |      70 | 2025-07-27 10:32:08 |
+|                                                                         | https://github.com/sigridjineth/crisp-py |         |                     |
