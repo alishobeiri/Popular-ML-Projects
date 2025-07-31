@@ -1,4 +1,8 @@
-| Title                                                                   | URL                                      |   Score | Date                |
-|:------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [P] I tried implementing the CRISP paper from Google Deepmind in Python | https://arxiv.org/pdf/2505.11471         |      70 | 2025-07-27 10:32:08 |
-|                                                                         | https://github.com/sigridjineth/crisp-py |         |                     |
+| Title                                                                                                                           | URL                                          |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
+| [D] Math book recommendations for NN theory                                                                                     | https://arxiv.org/pdf/2111.00396             |      34 | 2025-07-30 00:27:22 |
+|                                                                                                                                 | https://arxiv.org/abs/2008.07669             |         |                     |
+|                                                                                                                                 | https://arxiv.org/abs/1912.10077             |         |                     |
+|                                                                                                                                 | https://arxiv.org/abs/2006.04862             |         |                     |
+| [D] New recent and applied ideas for representation learning? (i.g. Matryoshka, Constrastive learning, etc.)                    | https://arxiv.org/html/2505.23337v1          |      31 | 2025-07-29 15:49:38 |
+| [D] First research project – feedback on "Ano", a new optimizer designed for noisy deep RL (also looking for arXiv endorsement) | https://github.com/Adrienkgz/ano-experiments |      26 | 2025-07-29 11:19:02 |
