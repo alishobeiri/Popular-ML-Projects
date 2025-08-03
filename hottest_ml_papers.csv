@@ -1,6 +1,3 @@
 Title,URL,Score,Date
-[D] Math book recommendations for NN theory,"https://arxiv.org/pdf/2111.00396
-https://arxiv.org/abs/2008.07669
-https://arxiv.org/abs/1912.10077
-https://arxiv.org/abs/2006.04862",56,2025-07-30 00:27:22
-"[D] New recent and applied ideas for representation learning? (i.g. Matryoshka, Constrastive learning, etc.)",https://arxiv.org/html/2505.23337v1,35,2025-07-29 15:49:38
+[R] From Taylor Series to Fourier Synthesis: The Periodic Linear Unit,"https://github.com/Bill13579/plu_activation/blob/main/paper.pdf
+https://github.com/Bill13579/plu_activation",148,2025-08-02 05:07:31
