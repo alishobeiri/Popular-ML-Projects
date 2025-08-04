@@ -1,4 +1,4 @@
 | Title                                                                 | URL                                                             |   Score | Date                |
 |:----------------------------------------------------------------------|:----------------------------------------------------------------|--------:|:--------------------|
-| [R] From Taylor Series to Fourier Synthesis: The Periodic Linear Unit | https://github.com/Bill13579/plu_activation/blob/main/paper.pdf |     148 | 2025-08-02 05:07:31 |
+| [R] From Taylor Series to Fourier Synthesis: The Periodic Linear Unit | https://github.com/Bill13579/plu_activation/blob/main/paper.pdf |     184 | 2025-08-02 05:07:31 |
 |                                                                       | https://github.com/Bill13579/plu_activation                     |         |                     |
