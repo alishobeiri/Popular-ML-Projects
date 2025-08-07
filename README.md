@@ -1,5 +1,3 @@
-| Title                                                                                              | URL                                                             |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|--------:|:--------------------|
-| [R] From Taylor Series to Fourier Synthesis: The Periodic Linear Unit                              | https://github.com/Bill13579/plu_activation/blob/main/paper.pdf |     205 | 2025-08-02 05:07:31 |
-|                                                                                                    | https://github.com/Bill13579/plu_activation                     |         |                     |
-| [P] DocStrange - Open Source Document Data Extractor with free cloud processing for 10k docs/month | https://github.com/NanoNets/docstrange                          |      50 | 2025-08-04 10:09:02 |
+| Title                                                                                              | URL                                    |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
+| [P] DocStrange - Open Source Document Data Extractor with free cloud processing for 10k docs/month | https://github.com/NanoNets/docstrange |      47 | 2025-08-04 10:09:02 |
