@@ -1,3 +1,3 @@
-| Title                                                                                              | URL                                    |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [P] DocStrange - Open Source Document Data Extractor with free cloud processing for 10k docs/month | https://github.com/NanoNets/docstrange |      47 | 2025-08-04 10:09:02 |
+| Title                                                                                                       | URL                                   |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [P] VulkanIlm: Accelerating Local LLM Inference on Older GPUs Using Vulkan (Non-CUDA) — Benchmarks Included | https://github.com/Talnz007/VulkanIlm |      26 | 2025-08-11 10:01:27 |
