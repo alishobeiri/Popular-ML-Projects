@@ -1,5 +1,4 @@
-| Title                                                                                                       | URL                                      |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [P] VulkanIlm: Accelerating Local LLM Inference on Older GPUs Using Vulkan (Non-CUDA) — Benchmarks Included | https://github.com/Talnz007/VulkanIlm    |      28 | 2025-08-11 10:01:27 |
-| [R] Fuzzy-Pattern Tsetlin Machine                                                                           | https://arxiv.org/pdf/2508.08350         |      27 | 2025-08-13 11:55:31 |
-|                                                                                                             | https://github.com/BooBSD/FuzzyPatternTM |         |                     |
+| Title                             | URL                                      |   Score | Date                |
+|:----------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [R] Fuzzy-Pattern Tsetlin Machine | https://arxiv.org/pdf/2508.08350         |      41 | 2025-08-13 11:55:31 |
+|                                   | https://github.com/BooBSD/FuzzyPatternTM |         |                     |
