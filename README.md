@@ -1,4 +1,3 @@
-| Title                             | URL                                      |   Score | Date                |
-|:----------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] Fuzzy-Pattern Tsetlin Machine | https://arxiv.org/pdf/2508.08350         |      43 | 2025-08-13 11:55:31 |
-|                                   | https://github.com/BooBSD/FuzzyPatternTM |         |                     |
+| Title                                                       | URL                                       |   Score | Date                |
+|:------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [P] JAX Implementation of Hindsight Experience Replay (HER) | https://github.com/jeertmans/HER-with-JAX |      26 | 2025-08-18 13:37:33 |
