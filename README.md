@@ -1,4 +1,3 @@
-| Title                                                       | URL                                       |   Score | Date                |
-|:------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| [P] Language Diffusion in &lt;80 Lines of Code              | https://arxiv.org/abs/2502.09992          |      47 | 2025-08-21 13:59:54 |
-| [P] JAX Implementation of Hindsight Experience Replay (HER) | https://github.com/jeertmans/HER-with-JAX |      30 | 2025-08-18 13:37:33 |
+| Title                                          | URL                              |   Score | Date                |
+|:-----------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [P] Language Diffusion in &lt;80 Lines of Code | https://arxiv.org/abs/2502.09992 |      76 | 2025-08-21 13:59:54 |
