@@ -1,3 +1,3 @@
 | Title                                          | URL                              |   Score | Date                |
 |:-----------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [P] Language Diffusion in &lt;80 Lines of Code | https://arxiv.org/abs/2502.09992 |      80 | 2025-08-21 13:59:54 |
+| [P] Language Diffusion in &lt;80 Lines of Code | https://arxiv.org/abs/2502.09992 |      83 | 2025-08-21 13:59:54 |
