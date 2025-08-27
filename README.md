@@ -1,3 +1,3 @@
-| Title                                          | URL                              |   Score | Date                |
-|:-----------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [P] Language Diffusion in &lt;80 Lines of Code | https://arxiv.org/abs/2502.09992 |      83 | 2025-08-21 13:59:54 |
+| Title                                                                | URL                                       |   Score | Date                |
+|:---------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [D] An honest attempt to implement "Attention is all you need" paper | https://github.com/MayukhSobo/Transformer |      40 | 2025-08-26 05:01:32 |
