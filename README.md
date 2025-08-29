@@ -1,5 +1,3 @@
-| Title                                                                                            | URL                                       |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
-| I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R] | https://github.com/bgub/tokka-bench       |      71 | 2025-08-26 16:54:16 |
-| [D] An honest attempt to implement "Attention is all you need" paper                             | https://github.com/MayukhSobo/Transformer |      55 | 2025-08-26 05:01:32 |
-| [P] DocStrange - Structured data extraction from images/pdfs/docs                                | https://github.com/NanoNets/docstrange    |      29 | 2025-08-26 12:01:41 |
+| Title                                                                                            | URL                                 |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------|:------------------------------------|--------:|:--------------------|
+| I built a tool to benchmark tokenizers across 100+ languages and found some wild disparities [R] | https://github.com/bgub/tokka-bench |      81 | 2025-08-26 16:54:16 |
