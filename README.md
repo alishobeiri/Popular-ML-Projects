@@ -1,7 +1,7 @@
 | Title                                                                                 | URL                                                                   |   Score | Date                |
 |:--------------------------------------------------------------------------------------|:----------------------------------------------------------------------|--------:|:--------------------|
-| [D] Proposal: Multi-year submission ban for irresponsible reviewers — feedback wanted | https://github.com/IcarusWizard/ML-review-proposal-for-accountability |      59 | 2025-09-01 14:38:33 |
-| [R] Graph ML benchmarks and foundation models                                         | https://arxiv.org/abs/2409.14500                                      |      27 | 2025-09-01 12:13:29 |
+| [D] Proposal: Multi-year submission ban for irresponsible reviewers — feedback wanted | https://github.com/IcarusWizard/ML-review-proposal-for-accountability |      56 | 2025-09-01 14:38:33 |
+| [R] Graph ML benchmarks and foundation models                                         | https://arxiv.org/abs/2409.14500                                      |      33 | 2025-09-01 12:13:29 |
 |                                                                                       | https://arxiv.org/abs/2508.20906                                      |         |                     |
 |                                                                                       | https://github.com/yandex-research/graphland                          |         |                     |
 |                                                                                       | https://github.com/yandex-research/G2T-FM                             |         |                     |
