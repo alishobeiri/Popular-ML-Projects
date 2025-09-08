@@ -1,3 +1,3 @@
 | Title                                                                       | URL                              |   Score | Date                |
 |:----------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] The Illusion of Progress: Re-evaluating Hallucination Detection in LLMs | https://arxiv.org/abs/2508.08285 |      31 | 2025-09-04 23:30:36 |
+| [R] The Illusion of Progress: Re-evaluating Hallucination Detection in LLMs | https://arxiv.org/abs/2508.08285 |      29 | 2025-09-04 23:30:36 |
