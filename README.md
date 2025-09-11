@@ -1,4 +1,4 @@
 | Title                                                                                                            | URL                              |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance? | https://arxiv.org/abs/2506.21734 |      43 | 2025-09-09 08:59:47 |
+| [P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance? | https://arxiv.org/abs/2506.21734 |      55 | 2025-09-09 08:59:47 |
 |                                                                                                                  | https://github.com/krychu/hrm    |         |                     |
