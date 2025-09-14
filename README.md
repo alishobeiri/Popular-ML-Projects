@@ -1,4 +1,3 @@
-| Title                                                                                                            | URL                              |   Score | Date                |
-|:-----------------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance? | https://arxiv.org/abs/2506.21734 |      65 | 2025-09-09 08:59:47 |
-|                                                                                                                  | https://github.com/krychu/hrm    |         |                     |
+| Title                                | URL                              |   Score | Date                |
+|:-------------------------------------|:---------------------------------|--------:|:--------------------|
+| [R] Debunking the Claims of K2-Think | https://arxiv.org/abs/2509.07604 |      27 | 2025-09-12 21:03:04 |
