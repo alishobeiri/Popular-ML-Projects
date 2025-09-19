@@ -1,3 +1,4 @@
-| Title                                | URL                              |   Score | Date                |
-|:-------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Debunking the Claims of K2-Think | https://arxiv.org/abs/2509.07604 |      27 | 2025-09-12 21:03:04 |
+| Title                                                                      | URL                                   |   Score | Date                |
+|:---------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] Uni-CoT: A Unified CoT Framework that Integrates Text+Image reasoning! | https://arxiv.org/abs/2508.05606      |      36 | 2025-09-18 06:26:05 |
+|                                                                            | https://github.com/Fr0zenCrane/UniCoT |         |                     |
