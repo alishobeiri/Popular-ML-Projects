@@ -1,4 +1,4 @@
 | Title                                                                      | URL                                   |   Score | Date                |
 |:---------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] Uni-CoT: A Unified CoT Framework that Integrates Text+Image reasoning! | https://arxiv.org/abs/2508.05606      |      36 | 2025-09-18 06:26:05 |
+| [R] Uni-CoT: A Unified CoT Framework that Integrates Text+Image reasoning! | https://arxiv.org/abs/2508.05606      |      42 | 2025-09-18 06:26:05 |
 |                                                                            | https://github.com/Fr0zenCrane/UniCoT |         |                     |
