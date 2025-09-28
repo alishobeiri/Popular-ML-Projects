@@ -1,5 +1,4 @@
-| Title                                                                                            | URL                                        |   Score | Date                |
-|:-------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [P] We built mmore: an open-source multi-GPU/multi-node library for large-scale document parsing | https://github.com/docling-project/docling |      27 | 2025-09-18 16:40:03 |
-|                                                                                                  | https://github.com/datalab-to/surya        |         |                     |
-| Overcoming accuracy limitations of Analog In-Memory Computing hardware                           | https://arxiv.org/pdf/2505.09663           |      26 | 2025-09-19 07:49:47 |
+| Title                                                                                                                        | URL                                                         |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|--------:|:--------------------|
+| [R] DynaMix: First dynamical systems foundation model enabling zero-shot forecasting of long-term statistics at #NeurIPS2025 | https://arxiv.org/abs/2505.13192                            |      56 | 2025-09-27 09:34:54 |
+| [R] Tabular Deep Learning: Survey of Challenges, Architectures, and Open Questions                                           | https://github.com/SalvatoreRa/tabular-deep-learning-survey |      26 | 2025-09-24 16:38:19 |
