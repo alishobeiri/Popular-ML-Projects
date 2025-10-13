@@ -1,4 +1,6 @@
-| Title                                         | URL                                                                          |   Score | Date                |
-|:----------------------------------------------|:-----------------------------------------------------------------------------|--------:|:--------------------|
-| [R] DeepSeek 3.2's sparse attention mechanism | https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf |     119 | 2025-10-10 03:15:04 |
-|                                               | https://github.com/deepseek-ai/FlashMLA/pull/98                              |         |                     |
+| Title                                                                            | URL                                                                          |   Score | Date                |
+|:---------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|--------:|:--------------------|
+| [R] DeepSeek 3.2's sparse attention mechanism                                    | https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf |     129 | 2025-10-10 03:15:04 |
+|                                                                                  | https://github.com/deepseek-ai/FlashMLA/pull/98                              |         |                     |
+| [P] Adapting Karpathy’s baby GPT into a character-level discrete diffusion model | https://github.com/karpathy/nanoGPT                                          |      89 | 2025-10-12 14:42:22 |
+|                                                                                  | https://github.com/ash80/diffusion-gpt                                       |         |                     |
