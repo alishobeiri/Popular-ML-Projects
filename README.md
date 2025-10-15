@@ -1,4 +1,4 @@
 | Title                                                                            | URL                                    |   Score | Date                |
 |:---------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [P] Adapting Karpathy’s baby GPT into a character-level discrete diffusion model | https://github.com/karpathy/nanoGPT    |     113 | 2025-10-12 14:42:22 |
+| [P] Adapting Karpathy’s baby GPT into a character-level discrete diffusion model | https://github.com/karpathy/nanoGPT    |     122 | 2025-10-12 14:42:22 |
 |                                                                                  | https://github.com/ash80/diffusion-gpt |         |                     |
