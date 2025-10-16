@@ -1,4 +1,3 @@
-| Title                                                                            | URL                                    |   Score | Date                |
-|:---------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [P] Adapting Karpathy’s baby GPT into a character-level discrete diffusion model | https://github.com/karpathy/nanoGPT    |     122 | 2025-10-12 14:42:22 |
-|                                                                                  | https://github.com/ash80/diffusion-gpt |         |                     |
+| Title                                                                                                                             | URL                                    |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
+| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange |      47 | 2025-10-15 04:07:39 |
