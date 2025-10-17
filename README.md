@@ -1,3 +1,5 @@
-| Title                                                                                                                             | URL                                    |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange |      47 | 2025-10-15 04:07:39 |
+| Title                                                                                                                             | URL                                                |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
+| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange             |      51 | 2025-10-15 04:07:39 |
+| [R]: Create a family of pre-trained LLMs of intermediate sizes from a single student-teacher pair                                 | https://arxiv.org/abs/2510.05064                   |      36 | 2025-10-15 17:49:30 |
+|                                                                                                                                   | https://github.com/dcml-lab/boomerang-distillation |         |                     |
