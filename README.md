@@ -1,5 +1,7 @@
 | Title                                                                                                                             | URL                                                |   Score | Date                |
 |:----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange             |      51 | 2025-10-15 04:07:39 |
-| [R]: Create a family of pre-trained LLMs of intermediate sizes from a single student-teacher pair                                 | https://arxiv.org/abs/2510.05064                   |      36 | 2025-10-15 17:49:30 |
+| [R] Plain English outperforms JSON for LLM tool calling: +18pp accuracy, -70% variance                                            | https://arxiv.org/abs/2510.14453                   |      84 | 2025-10-17 05:30:35 |
+|                                                                                                                                   | https://arxiv.org/abs/2408.02442)                  |         |                     |
+| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange             |      48 | 2025-10-15 04:07:39 |
+| [R]: Create a family of pre-trained LLMs of intermediate sizes from a single student-teacher pair                                 | https://arxiv.org/abs/2510.05064                   |      37 | 2025-10-15 17:49:30 |
 |                                                                                                                                   | https://github.com/dcml-lab/boomerang-distillation |         |                     |
