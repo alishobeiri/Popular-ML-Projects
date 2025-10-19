@@ -1,7 +1,7 @@
-| Title                                                                                                                             | URL                                                |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
-| [R] Plain English outperforms JSON for LLM tool calling: +18pp accuracy, -70% variance                                            | https://arxiv.org/abs/2510.14453                   |      84 | 2025-10-17 05:30:35 |
-|                                                                                                                                   | https://arxiv.org/abs/2408.02442)                  |         |                     |
-| [P] Nanonets-OCR2: An Open-Source Image-to-Markdown Model with LaTeX, Tables, flowcharts, handwritten docs, checkboxes &amp; More | https://github.com/NanoNets/docstrange             |      48 | 2025-10-15 04:07:39 |
-| [R]: Create a family of pre-trained LLMs of intermediate sizes from a single student-teacher pair                                 | https://arxiv.org/abs/2510.05064                   |      37 | 2025-10-15 17:49:30 |
-|                                                                                                                                   | https://github.com/dcml-lab/boomerang-distillation |         |                     |
+| Title                                                                                             | URL                                                |   Score | Date                |
+|:--------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
+| [R] Plain English outperforms JSON for LLM tool calling: +18pp accuracy, -70% variance            | https://arxiv.org/abs/2510.14453                   |     111 | 2025-10-17 05:30:35 |
+|                                                                                                   | https://arxiv.org/abs/2408.02442)                  |         |                     |
+| [R]: Create a family of pre-trained LLMs of intermediate sizes from a single student-teacher pair | https://arxiv.org/abs/2510.05064                   |      42 | 2025-10-15 17:49:30 |
+|                                                                                                   | https://github.com/dcml-lab/boomerang-distillation |         |                     |
+| [P] Control your house heating system with RL                                                     | https://github.com/mp-mech-ai/radiator-rl          |      27 | 2025-10-17 11:58:13 |
