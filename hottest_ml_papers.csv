@@ -1,6 +1,5 @@
 Title,URL,Score,Date
-"[R] Plain English outperforms JSON for LLM tool calling: +18pp accuracy, -70% variance","https://arxiv.org/abs/2510.14453
-https://arxiv.org/abs/2408.02442)",124,2025-10-17 05:30:35
-"[P] Open-Source Implementation of ""Agentic Context Engineering"" Paper - Agents that improve by learning from their own execution feedback",https://arxiv.org/abs/2510.04618,34,2025-10-18 15:31:28
+"[P] Open-Source Implementation of ""Agentic Context Engineering"" Paper - Agents that improve by learning from their own execution feedback",https://arxiv.org/abs/2510.04618,33,2025-10-18 15:31:28
+GPU 101 and Triton kernels,https://github.com/Bornlex/GPT2,29,2025-10-20 17:15:36
 [P]:  Beens-MiniMax:  103M MoE LLM from Scratch,"https://github.com/Abinesh-Mathivanan/beens-minimax
-https://github.com/Abinesh-Mathivanan/beens-minimax/blob/main/Beens_MiniMax__How_not_to_Build_an_LLM.pdf",27,2025-10-18 07:39:46
+https://github.com/Abinesh-Mathivanan/beens-minimax/blob/main/Beens_MiniMax__How_not_to_Build_an_LLM.pdf",29,2025-10-18 07:39:46
