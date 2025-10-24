@@ -1,3 +1,3 @@
 | Title                      | URL                             |   Score | Date                |
 |:---------------------------|:--------------------------------|--------:|:--------------------|
-| GPU 101 and Triton kernels | https://github.com/Bornlex/GPT2 |      37 | 2025-10-20 17:15:36 |
+| GPU 101 and Triton kernels | https://github.com/Bornlex/GPT2 |      38 | 2025-10-20 17:15:36 |
