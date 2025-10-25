@@ -1,3 +1,3 @@
-| Title                      | URL                             |   Score | Date                |
-|:---------------------------|:--------------------------------|--------:|:--------------------|
-| GPU 101 and Triton kernels | https://github.com/Bornlex/GPT2 |      38 | 2025-10-20 17:15:36 |
+| Title                                                                                   | URL                               |   Score | Date                |
+|:----------------------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
+| [D] How was Multi-head Latent Attention not a thing before DeepSeek-V2 came up with it? | https://arxiv.org/abs/2103.03206) |      81 | 2025-10-24 10:06:43 |
