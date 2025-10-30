@@ -1,3 +1,3 @@
 | Title                                                                                                 | URL                                      |   Score | Date                |
 |:------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] PKBoost: Gradient boosting that stays accurate under data drift (2% degradation vs XGBoost's 32%) | https://github.com/Pushp-Kharat1/pkboost |     104 | 2025-10-27 11:01:29 |
+| [R] PKBoost: Gradient boosting that stays accurate under data drift (2% degradation vs XGBoost's 32%) | https://github.com/Pushp-Kharat1/pkboost |     119 | 2025-10-27 11:01:29 |
