@@ -1,3 +1,4 @@
-| Title                                                                                                 | URL                                      |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] PKBoost: Gradient boosting that stays accurate under data drift (2% degradation vs XGBoost's 32%) | https://github.com/Pushp-Kharat1/pkboost |     119 | 2025-10-27 11:01:29 |
+| Title                                                               | URL                                   |   Score | Date                |
+|:--------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] FastJAM: a Fast Joint Alignment Model for Images (NeurIPS 2025) | https://arxiv.org/abs/2510.22842      |      32 | 2025-10-30 11:28:34 |
+|                                                                     | https://github.com/BGU-CS-VIL/FastJAM |         |                     |
