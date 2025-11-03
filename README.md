@@ -1,7 +1,4 @@
-| Title                                                                  | URL                                                     |   Score | Date                |
-|:-----------------------------------------------------------------------|:--------------------------------------------------------|--------:|:--------------------|
-| [R] FastJAM: a Fast Joint Alignment Model for Images (NeurIPS 2025)    | https://arxiv.org/abs/2510.22842                        |      46 | 2025-10-30 11:28:34 |
-|                                                                        | https://github.com/BGU-CS-VIL/FastJAM                   |         |                     |
-| [R] We found LRMs look great…until the problems get harder (AACL 2025) | https://arxiv.org/abs/2510.22371                        |      26 | 2025-10-30 22:29:26 |
-|                                                                        | https://arxiv.org/abs/2510.22371?utm_source=chatgpt.com |         |                     |
-|                                                                        | https://github.com/RevanthRameshkumar/DeepRD            |         |                     |
+| Title                                                               | URL                                   |   Score | Date                |
+|:--------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [R] FastJAM: a Fast Joint Alignment Model for Images (NeurIPS 2025) | https://arxiv.org/abs/2510.22842      |      51 | 2025-10-30 11:28:34 |
+|                                                                     | https://github.com/BGU-CS-VIL/FastJAM |         |                     |
