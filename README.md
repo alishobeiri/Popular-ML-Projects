@@ -1,4 +1,3 @@
-| Title                                                               | URL                                   |   Score | Date                |
-|:--------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
-| [R] FastJAM: a Fast Joint Alignment Model for Images (NeurIPS 2025) | https://arxiv.org/abs/2510.22842      |      51 | 2025-10-30 11:28:34 |
-|                                                                     | https://github.com/BGU-CS-VIL/FastJAM |         |                     |
+| Title                                                                                                                            | URL                                     |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
+| [D][P] PKBoost v2 is out! An entropy-guided boosting library with a focus on drift adaptation and multiclass/regression support. | http://github.com/Pushp-Kharat1/PKBoost |      27 | 2025-11-03 11:10:06 |
