@@ -1,3 +1,3 @@
 | Title                                                                                                                            | URL                                     |   Score | Date                |
 |:---------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [D][P] PKBoost v2 is out! An entropy-guided boosting library with a focus on drift adaptation and multiclass/regression support. | http://github.com/Pushp-Kharat1/PKBoost |      27 | 2025-11-03 11:10:06 |
+| [D][P] PKBoost v2 is out! An entropy-guided boosting library with a focus on drift adaptation and multiclass/regression support. | http://github.com/Pushp-Kharat1/PKBoost |      38 | 2025-11-03 11:10:06 |
