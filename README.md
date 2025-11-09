@@ -1,3 +1,4 @@
-| Title                                                  | URL                                                                                      |   Score | Date                |
-|:-------------------------------------------------------|:-----------------------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Knowledge Graph Traversal With LLMs And Algorithms | https://github.com/glacier-creative-git/similarity-graph-traversal-semantic-rag-research |     272 | 2025-11-04 22:08:33 |
+| Title                                                                                   | URL                                  |   Score | Date                |
+|:----------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] WavJEPA: Semantic learning unlocks robust audio foundation models for raw waveforms | https://arxiv.org/abs/2509.23238     |      27 | 2025-11-07 13:52:57 |
+|                                                                                         | https://github.com/labhamlet/wavjepa |         |                     |
