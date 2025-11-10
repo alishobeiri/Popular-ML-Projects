@@ -1,4 +1,4 @@
 | Title                                                                                   | URL                                  |   Score | Date                |
 |:----------------------------------------------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] WavJEPA: Semantic learning unlocks robust audio foundation models for raw waveforms | https://arxiv.org/abs/2509.23238     |      27 | 2025-11-07 13:52:57 |
+| [R] WavJEPA: Semantic learning unlocks robust audio foundation models for raw waveforms | https://arxiv.org/abs/2509.23238     |      33 | 2025-11-07 13:52:57 |
 |                                                                                         | https://github.com/labhamlet/wavjepa |         |                     |
