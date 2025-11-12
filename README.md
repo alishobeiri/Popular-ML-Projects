@@ -1,5 +1,4 @@
-| Title                                                                                   | URL                                        |   Score | Date                |
-|:----------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [R] WavJEPA: Semantic learning unlocks robust audio foundation models for raw waveforms | https://arxiv.org/abs/2509.23238           |      40 | 2025-11-07 13:52:57 |
-|                                                                                         | https://github.com/labhamlet/wavjepa       |         |                     |
-| [P] RLHF (SFT, RM, PPO) with GPT-2 in Notebooks                                         | https://github.com/ash80/RLHF_in_notebooks |      27 | 2025-11-09 14:13:55 |
+| Title                                                      | URL                                        |   Score | Date                |
+|:-----------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
+| [R] Unvalidated Trust: Cross-Stage Vulnerabilities in LLMs | https://arxiv.org/abs/2510.27190           |     128 | 2025-11-11 11:37:29 |
+| [P] RLHF (SFT, RM, PPO) with GPT-2 in Notebooks            | https://github.com/ash80/RLHF_in_notebooks |      36 | 2025-11-09 14:13:55 |
