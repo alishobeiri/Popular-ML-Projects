@@ -1,3 +1,3 @@
 | Title                                                      | URL                              |   Score | Date                |
 |:-----------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Unvalidated Trust: Cross-Stage Vulnerabilities in LLMs | https://arxiv.org/abs/2510.27190 |     148 | 2025-11-11 11:37:29 |
+| [R] Unvalidated Trust: Cross-Stage Vulnerabilities in LLMs | https://arxiv.org/abs/2510.27190 |     170 | 2025-11-11 11:37:29 |
