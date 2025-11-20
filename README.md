@@ -1,3 +1,3 @@
-| Title                                                                                   | URL                              |   Score | Date                |
-|:----------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [R] Generative Flows on Weight Space for Covariate Shift Detection (AAAI 2026 Workshop) | https://arxiv.org/abs/2507.10623 |      27 | 2025-11-15 00:22:20 |
+| Title                                            | URL                                      |   Score | Date                |
+|:-------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [R] Segment Anything Model 3 (SAM 3) is released | https://github.com/facebookresearch/sam3 |      89 | 2025-11-19 16:34:46 |
