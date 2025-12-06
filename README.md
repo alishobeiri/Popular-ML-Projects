@@ -1,3 +1,4 @@
-| Title                                            | URL                                      |   Score | Date                |
-|:-------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [R] Segment Anything Model 3 (SAM 3) is released | https://github.com/facebookresearch/sam3 |     139 | 2025-11-19 16:34:46 |
+| Title                              | URL                              |   Score | Date                |
+|:-----------------------------------|:---------------------------------|--------:|:--------------------|
+| [D][R] Paper Completely Ripped Off | https://arxiv.org/abs/2509.21164 |     210 | 2025-12-05 01:00:21 |
+|                                    | https://arxiv.org/abs/2511.20639 |         |                     |
