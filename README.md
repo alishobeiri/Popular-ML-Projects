@@ -1,4 +1,4 @@
-| Title                              | URL                              |   Score | Date                |
-|:-----------------------------------|:---------------------------------|--------:|:--------------------|
-| [D][R] Paper Completely Ripped Off | https://arxiv.org/abs/2509.21164 |     210 | 2025-12-05 01:00:21 |
-|                                    | https://arxiv.org/abs/2511.20639 |         |                     |
+| Title                                                                      | URL                                            |   Score | Date                |
+|:---------------------------------------------------------------------------|:-----------------------------------------------|--------:|:--------------------|
+| [R] PaperDebugger: the Best Overleaf Companion                             | https://github.com/PaperDebugger/PaperDebugger |      33 | 2025-12-05 16:05:48 |
+| [D] Tiny Recursive Models (TRMs), Hierarchical Reasoning Models (HRMs) too | https://arxiv.org/abs/2510.04871               |      29 | 2025-12-05 14:40:43 |
