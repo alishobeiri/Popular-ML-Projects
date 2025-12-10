@@ -1,6 +1,4 @@
 | Title                                                                             | URL                                                  |   Score | Date                |
 |:----------------------------------------------------------------------------------|:-----------------------------------------------------|--------:|:--------------------|
-| [D] Does this NeurIPS 2025 paper look familiar to anyone?                         | https://arxiv.org/abs/2405.07987                     |      64 | 2025-12-08 17:32:44 |
-| [D] Tiny Recursive Models (TRMs), Hierarchical Reasoning Models (HRMs) too        | https://arxiv.org/abs/2510.04871                     |      44 | 2025-12-05 14:40:43 |
-| [R] PaperDebugger: the Best Overleaf Companion                                    | https://github.com/PaperDebugger/PaperDebugger       |      44 | 2025-12-05 16:05:48 |
-| [P] Bulk download NeurIPS 2025 papers (orals/spotlights/accepted) from OpenReview | https://github.com/mireklzicar/openreview_downloader |      28 | 2025-12-06 22:08:59 |
+| [D] Does this NeurIPS 2025 paper look familiar to anyone?                         | https://arxiv.org/abs/2405.07987                     |      97 | 2025-12-08 17:32:44 |
+| [P] Bulk download NeurIPS 2025 papers (orals/spotlights/accepted) from OpenReview | https://github.com/mireklzicar/openreview_downloader |      31 | 2025-12-06 22:08:59 |
