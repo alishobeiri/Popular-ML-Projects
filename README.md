@@ -1,4 +1,3 @@
-| Title                                                                             | URL                                                  |   Score | Date                |
-|:----------------------------------------------------------------------------------|:-----------------------------------------------------|--------:|:--------------------|
-| [D] Does this NeurIPS 2025 paper look familiar to anyone?                         | https://arxiv.org/abs/2405.07987                     |      97 | 2025-12-08 17:32:44 |
-| [P] Bulk download NeurIPS 2025 papers (orals/spotlights/accepted) from OpenReview | https://github.com/mireklzicar/openreview_downloader |      31 | 2025-12-06 22:08:59 |
+| Title                                                     | URL                              |   Score | Date                |
+|:----------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| [D] Does this NeurIPS 2025 paper look familiar to anyone? | https://arxiv.org/abs/2405.07987 |     108 | 2025-12-08 17:32:44 |
