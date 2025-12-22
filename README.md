@@ -1,7 +1,4 @@
-| Title                                   | URL                                         |   Score | Date                |
-|:----------------------------------------|:--------------------------------------------|--------:|:--------------------|
-| [P] Cyreal - Yet Another Jax Dataloader | https://github.com/smorad/cyreal            |      35 | 2025-12-16 14:14:19 |
-|                                         | https://github.com/google/grain             |         |                     |
-|                                         | https://github.com/google/grain/issues/569  |         |                     |
-|                                         | https://github.com/google/grain/issues/851  |         |                     |
-|                                         | https://github.com/google/grain/issues/1164 |         |                     |
+| Title                                                                         | URL                                                       |   Score | Date                |
+|:------------------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [R] EGGROLL: trained a model without backprop and found it generalized better | https://arxiv.org/abs/2511.16652)                         |      53 | 2025-12-21 15:15:44 |
+|                                                                               | https://github.com/sigridjineth/eggroll-embedding-trainer |         |                     |
