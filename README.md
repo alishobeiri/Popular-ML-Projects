@@ -1,4 +1,5 @@
-| Title                                                                         | URL                                                       |   Score | Date                |
-|:------------------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
-| [R] EGGROLL: trained a model without backprop and found it generalized better | https://arxiv.org/abs/2511.16652)                         |      53 | 2025-12-21 15:15:44 |
-|                                                                               | https://github.com/sigridjineth/eggroll-embedding-trainer |         |                     |
+| Title                                                                                | URL                                                       |   Score | Date                |
+|:-------------------------------------------------------------------------------------|:----------------------------------------------------------|--------:|:--------------------|
+| [R] EGGROLL: trained a model without backprop and found it generalized better        | https://arxiv.org/abs/2511.16652)                         |      70 | 2025-12-21 15:15:44 |
+|                                                                                      | https://github.com/sigridjineth/eggroll-embedding-trainer |         |                     |
+| [P] A memory effecient TF-IDF project in Python to vectorize datasets large than RAM | https://github.com/purijs/fasttfidf                       |      31 | 2025-12-21 11:39:04 |
