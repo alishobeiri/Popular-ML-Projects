@@ -1,5 +1,2 @@
 Title,URL,Score,Date
-[R] EGGROLL: trained a model without backprop and found it generalized better,"https://arxiv.org/abs/2511.16652)
-https://github.com/sigridjineth/eggroll-embedding-trainer",74,2025-12-21 15:15:44
-[R] Universal Reasoning Model,https://arxiv.org/abs/2512.14693,50,2025-12-22 19:01:56
-"[P] SIID: A scale invariant pixel-space diffusion model; trained on 64x64 MNIST, generates readable 1024x1024 digits for arbitrary ratios with minimal deformities (25M parameters)",https://github.com/Yegor-men/scale-invariant-image-diffuser,32,2025-12-24 14:36:59
+"[P] S2ID: Scale Invariant Image Diffuser - trained on standard MNIST, generates 1024x1024 digits and at arbitrary aspect ratios with almost no artifacts at 6.1M parameters (Drastic code change and architectural improvement)",https://github.com/Yegor-men/scale-invariant-image-diffuser,26,2025-12-26 19:51:31
