@@ -1,2 +1,3 @@
 Title,URL,Score,Date
-"[P] S2ID: Scale Invariant Image Diffuser - trained on standard MNIST, generates 1024x1024 digits and at arbitrary aspect ratios with almost no artifacts at 6.1M parameters (Drastic code change and architectural improvement)",https://github.com/Yegor-men/scale-invariant-image-diffuser,26,2025-12-26 19:51:31
+"[P] S2ID: Scale Invariant Image Diffuser - trained on standard MNIST, generates 1024x1024 digits and at arbitrary aspect ratios with almost no artifacts at 6.1M parameters (Drastic code change and architectural improvement)",https://github.com/Yegor-men/scale-invariant-image-diffuser,43,2025-12-26 19:51:31
+[P] NOMA: Neural networks that realloc themselves during training (compile-time autodiff to LLVM IR),https://github.com/pierridotite/Noma,35,2025-12-26 13:40:30
