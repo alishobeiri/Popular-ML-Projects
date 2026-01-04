@@ -1,3 +1,3 @@
 | Title                                                                             | URL                                    |   Score | Date                |
 |:----------------------------------------------------------------------------------|:---------------------------------------|--------:|:--------------------|
-| [P] LEMMA: A Rust-based Neural-Guided Theorem Prover with 220+ Mathematical Rules | https://github.com/Pushp-Kharat1/LEMMA |      35 | 2026-01-02 06:51:17 |
+| [P] LEMMA: A Rust-based Neural-Guided Theorem Prover with 220+ Mathematical Rules | https://github.com/Pushp-Kharat1/LEMMA |      41 | 2026-01-02 06:51:17 |
