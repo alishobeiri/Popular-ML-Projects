@@ -1,4 +1,4 @@
 | Title                                                                                                      | URL                                                    |   Score | Date                |
 |:-----------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|--------:|:--------------------|
-| [R] My preliminary research ideas (free to use in your publication)                                        | https://github.com/roboticcam/research_ideas/tree/main |      64 | 2026-01-10 11:47:16 |
-| [P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source) | https://github.com/bullmeza/screen.vision              |      36 | 2026-01-10 18:21:16 |
+| [R] My preliminary research ideas (free to use in your publication)                                        | https://github.com/roboticcam/research_ideas/tree/main |      67 | 2026-01-10 11:47:16 |
+| [P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source) | https://github.com/bullmeza/screen.vision              |      49 | 2026-01-10 18:21:16 |
