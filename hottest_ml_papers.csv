@@ -1,3 +1,4 @@
 Title,URL,Score,Date
-[R] My preliminary research ideas (free to use in your publication),https://github.com/roboticcam/research_ideas/tree/main,67,2026-01-10 11:47:16
-"[P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source)",https://github.com/bullmeza/screen.vision,49,2026-01-10 18:21:16
+[R] (DeepSeek) Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models,https://github.com/deepseek-ai/Engram,49,2026-01-13 10:07:06
+[P] PerpetualBooster: A new gradient boosting library that enables O(n) continual learning and out-performs AutoGluon on tabular benchmarks.,"https://github.com/perpetual-ml/perpetual?tab=readme-ov-file#perpetualbooster-vs-autogluon
+https://github.com/perpetual-ml/perpetual",29,2026-01-11 16:08:02
