@@ -1,3 +1,3 @@
 | Title                                                                                     | URL                                                          |   Score | Date                |
 |:------------------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
-| [D] LLMs as a semantic regularizer for feature synthesis (small decision-tree experiment) | https://github.com/mchav/dataframe/blob/main/app%2FREADME.md |      32 | 2026-01-17 14:59:55 |
+| [D] LLMs as a semantic regularizer for feature synthesis (small decision-tree experiment) | https://github.com/mchav/dataframe/blob/main/app%2FREADME.md |      35 | 2026-01-17 14:59:55 |
