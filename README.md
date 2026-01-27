@@ -1,3 +1,3 @@
-| Title                                                                                     | URL                                                          |   Score | Date                |
-|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
-| [D] LLMs as a semantic regularizer for feature synthesis (small decision-tree experiment) | https://github.com/mchav/dataframe/blob/main/app%2FREADME.md |      35 | 2026-01-17 14:59:55 |
+| Title                                                                                               | URL                                       |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------|:------------------------------------------|--------:|:--------------------|
+| [P] I built a full YOLO training pipeline without manual annotation (open-vocabulary auto-labeling) | https://github.com/iSEE-Laboratory/LLMDet |      40 | 2026-01-26 09:30:49 |
