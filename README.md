@@ -1,3 +1,4 @@
 | Title                                                                                                                            | URL                                        |   Score | Date                |
 |:---------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0) | https://github.com/fashn-AI/fashn-vton-1.5 |      50 | 2026-01-28 14:00:33 |
+| [R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0) | https://github.com/fashn-AI/fashn-vton-1.5 |      74 | 2026-01-28 14:00:33 |
+| [R] Is using rotatary embeddings for ViT becoming standard practice or does everyone still use sinusoidal/learnable embedding    | https://arxiv.org/abs/2403.13298           |      26 | 2026-01-28 13:25:33 |
