@@ -1,9 +1,3 @@
-| Title                                                        | URL                                        |   Score | Date                |
-|:-------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| [D] What framework do you use for RL post-training at scale? | https://github.com/verl-project/verl       |      29 | 2026-01-30 19:06:41 |
-|                                                              | https://github.com/meta-pytorch/torchforge |         |                     |
-|                                                              | https://github.com/OpenRLHF/OpenRLHF:      |         |                     |
-|                                                              | https://github.com/huggingface/trl:        |         |                     |
-|                                                              | https://github.com/NVIDIA-NeMo/Gym         |         |                     |
-|                                                              | https://github.com/NVIDIA-NeMo/RL          |         |                     |
-|                                                              | https://github.com/THUDM/slime             |         |                     |
+| Title                                                                             | URL                                   |   Score | Date                |
+|:----------------------------------------------------------------------------------|:--------------------------------------|--------:|:--------------------|
+| [P] MichiAI: A 530M Full-Duplex Speech LLM with ~75ms Latency using Flow Matching | https://github.com/KetsuiLabs/MichiAI |      28 | 2026-02-03 16:28:14 |
