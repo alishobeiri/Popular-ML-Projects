@@ -1,3 +1,4 @@
-| Title                                                                 | URL                             |   Score | Date                |
-|:----------------------------------------------------------------------|:--------------------------------|--------:|:--------------------|
-| [P] Wrote a VLM from scratch! (VIT-base + Q-Former + LORA finetuning) | https://github.com/avbiswas/vlm |      26 | 2026-02-06 17:40:15 |
+| Title                                                                           | URL                                      |   Score | Date                |
+|:--------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [P] A Python library processing geospatial data for GNNs with PyTorch Geometric | https://github.com/city2graph/city2graph |     182 | 2026-02-09 12:30:34 |
+|                                                                                 | https://github.com/c2g-dev/city2graph    |         |                     |
