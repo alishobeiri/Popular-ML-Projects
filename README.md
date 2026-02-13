@@ -1,6 +1,4 @@
-| Title                                                                                                 | URL                                      |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
-| [P] A Python library processing geospatial data for GNNs with PyTorch Geometric                       | https://github.com/city2graph/city2graph |     267 | 2026-02-09 12:30:34 |
-|                                                                                                       | https://github.com/c2g-dev/city2graph    |         |                     |
-| [R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models | https://arxiv.org/abs/2602.08676         |      39 | 2026-02-10 16:58:09 |
-|                                                                                                       | https://github.com/inclusionAI/LLaDA2.X  |         |                     |
+| Title                                                                                                 | URL                                     |   Score | Date                |
+|:------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
+| [R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models | https://arxiv.org/abs/2602.08676        |      38 | 2026-02-10 16:58:09 |
+|                                                                                                       | https://github.com/inclusionAI/LLaDA2.X |         |                     |
