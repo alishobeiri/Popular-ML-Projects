@@ -1,4 +1,4 @@
-| Title                                                                                                 | URL                                     |   Score | Date                |
-|:------------------------------------------------------------------------------------------------------|:----------------------------------------|--------:|:--------------------|
-| [R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models | https://arxiv.org/abs/2602.08676        |      38 | 2026-02-10 16:58:09 |
-|                                                                                                       | https://github.com/inclusionAI/LLaDA2.X |         |                     |
+| Title                                                           | URL                                |   Score | Date                |
+|:----------------------------------------------------------------|:-----------------------------------|--------:|:--------------------|
+| [R] Neural PDE solvers built (almost) purely from learned warps | https://arxiv.org/abs/2509.25611   |      44 | 2026-02-23 12:53:35 |
+|                                                                 | https://github.com/till-m/flowers/ |         |                     |
