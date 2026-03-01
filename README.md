@@ -1,13 +1,13 @@
-| Title                                            | URL                                                                                            |   Score | Date                |
-|:-------------------------------------------------|:-----------------------------------------------------------------------------------------------|--------:|:--------------------|
-| [R] Large-Scale Online Deanonymization with LLMs | https://arxiv.org/abs/2602.16800                                                               |      53 | 2026-02-25 14:16:51 |
-| [P] Implementing Better Pytorch Schedulers       | https://github.com/shivvor2/research-monorepo/tree/master/src/research_lib/training/scheduling |      30 | 2026-02-26 16:27:34 |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt                                                 |         |                     |
-|                                                  | https://github.com/shivvor2/research-monorepo/tree/master/experiments/01_nanogpt_base          |         |                     |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py                        |         |                     |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1720                  |         |                     |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1617                  |         |                     |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1689                  |         |                     |
-|                                                  | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1811                  |         |                     |
-|                                                  | https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L284                  |         |                     |
-|                                                  | https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L83                   |         |                     |
+| Title                                                                      | URL                                                                                            |   Score | Date                |
+|:---------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|--------:|:--------------------|
+| [P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python | https://github.com/Siwoo4985/Micro-Diffusion                                                   |      60 | 2026-02-28 03:57:34 |
+| [P] Implementing Better Pytorch Schedulers                                 | https://github.com/shivvor2/research-monorepo/tree/master/src/research_lib/training/scheduling |      34 | 2026-02-26 16:27:34 |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt                                                 |         |                     |
+|                                                                            | https://github.com/shivvor2/research-monorepo/tree/master/experiments/01_nanogpt_base          |         |                     |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py                        |         |                     |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1720                  |         |                     |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1617                  |         |                     |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1689                  |         |                     |
+|                                                                            | https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1811                  |         |                     |
+|                                                                            | https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L284                  |         |                     |
+|                                                                            | https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L83                   |         |                     |
