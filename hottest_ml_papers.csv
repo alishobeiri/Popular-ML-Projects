@@ -1,12 +1,2 @@
 Title,URL,Score,Date
-[P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python,https://github.com/Siwoo4985/Micro-Diffusion,60,2026-02-28 03:57:34
-[P] Implementing Better Pytorch Schedulers,"https://github.com/shivvor2/research-monorepo/tree/master/src/research_lib/training/scheduling
-https://github.com/KellerJordan/modded-nanogpt
-https://github.com/shivvor2/research-monorepo/tree/master/experiments/01_nanogpt_base
-https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py
-https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1720
-https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1617
-https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1689
-https://github.com/KellerJordan/modded-nanogpt/blob/master/train_gpt.py#L1811
-https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L284
-https://github.com/pytorch/pytorch/blob/main/torch/optim/lr_scheduler.py#L83",34,2026-02-26 16:27:34
+[P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python,https://github.com/Siwoo4985/Micro-Diffusion,75,2026-02-28 03:57:34
