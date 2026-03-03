@@ -1,3 +1,3 @@
 | Title                                                                      | URL                                          |   Score | Date                |
 |:---------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
-| [P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python | https://github.com/Siwoo4985/Micro-Diffusion |      75 | 2026-02-28 03:57:34 |
+| [P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python | https://github.com/Siwoo4985/Micro-Diffusion |      77 | 2026-02-28 03:57:34 |
