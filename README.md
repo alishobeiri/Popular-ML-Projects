@@ -1,3 +1,3 @@
-| Title                                                                      | URL                                          |   Score | Date                |
-|:---------------------------------------------------------------------------|:---------------------------------------------|--------:|:--------------------|
-| [P] Micro Diffusion — Discrete text diffusion in ~150 lines of pure Python | https://github.com/Siwoo4985/Micro-Diffusion |      77 | 2026-02-28 03:57:34 |
+| Title                                                | URL                                  |   Score | Date                |
+|:-----------------------------------------------------|:-------------------------------------|--------:|:--------------------|
+| [R] AdamWClip: AdamW with adaptive gradient clipping | https://github.com/wandeln/AdamWClip |      37 | 2026-03-03 11:28:52 |
