@@ -1,3 +1,7 @@
-| Title                                                | URL                                  |   Score | Date                |
-|:-----------------------------------------------------|:-------------------------------------|--------:|:--------------------|
-| [R] AdamWClip: AdamW with adaptive gradient clipping | https://github.com/wandeln/AdamWClip |      37 | 2026-03-03 11:28:52 |
+| Title                                                                                          | URL                                         |   Score | Date                |
+|:-----------------------------------------------------------------------------------------------|:--------------------------------------------|--------:|:--------------------|
+| [P] We made GoodSeed, a pleasant ML experiment tracker                                         | https://github.com/kripner/goodseed         |      66 | 2026-03-03 21:09:20 |
+| [R] AdamWClip: AdamW with adaptive gradient clipping                                           | https://github.com/wandeln/AdamWClip        |      58 | 2026-03-03 11:28:52 |
+| [R] GFlowsNets for accelerating ray tracing for radio propagation modeling                     | https://arxiv.org/abs/2603.01655            |      30 | 2026-03-04 09:04:21 |
+|                                                                                                | https://github.com/jeertmans/sampling-paths |         |                     |
+| [R] Toward Guarantees for Clinical Reasoning in Vision Language Models via Formal Verification | https://arxiv.org/abs/2602.24111v1          |      26 | 2026-03-02 02:55:12 |
