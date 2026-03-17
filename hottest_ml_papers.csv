@@ -1,6 +1,8 @@
 Title,URL,Score,Date
-"[P] I got tired of PyTorch Geometric OOMing my laptop, so I wrote a C++ zero-copy graph engine to bypass RAM entirely.",https://github.com/KrishSingaria/graphzero,243,2026-03-15 06:59:00
+"[P] I got tired of PyTorch Geometric OOMing my laptop, so I wrote a C++ zero-copy graph engine to bypass RAM entirely.",https://github.com/KrishSingaria/graphzero,326,2026-03-15 06:59:00
 "[D] ran controlled experiments on meta's COCONUT and found the ""latent reasoning"" is mostly just good training. the recycled hidden states actually hurt generalization","https://github.com/bmarti44/research-pipeline/blob/main/papers/coconut_curriculum_dissection/manuscript/output/manuscript.pdf
-https://github.com/bmarti44/research-pipeline/tree/main/papers/coconut_curriculum_dissection",131,2026-03-14 00:19:27
-[R] LEVI: Beating GEPA/OpenEvolve/AlphaEvolve at a fraction of the cost,https://github.com/ttanv/levi,34,2026-03-12 13:57:32
-"[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",https://github.com/Rusheel86/preflight,29,2026-03-15 13:57:27
+https://github.com/bmarti44/research-pipeline/tree/main/papers/coconut_curriculum_dissection",132,2026-03-14 00:19:27
+"[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",https://github.com/Rusheel86/preflight,54,2026-03-15 13:57:27
+[P] Karpathy's autoresearch with evolutionary database.,"https://arxiv.org/abs/2506.13131
+https://github.com/karpathy/autoresearch
+https://github.com/algorithmicsuperintelligence/openevolve",33,2026-03-14 19:23:18
