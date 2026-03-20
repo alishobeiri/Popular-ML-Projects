@@ -1,6 +1,6 @@
 | Title                                                                                               | URL                                                              |   Score | Date                |
 |:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|--------:|:--------------------|
-| [P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)                       | https://github.com/ARahim3/mlx-tune                              |      48 | 2026-03-17 12:33:15 |
-| [P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo | https://github.com/NiftyliuS/cliptogrok                          |      46 | 2026-03-17 22:05:45 |
+| [P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo | https://github.com/NiftyliuS/cliptogrok                          |      58 | 2026-03-17 22:05:45 |
 |                                                                                                     | https://github.com/NiftyliuS/cliptogrok/blob/main/cliptogrok.pdf |         |                     |
-| [R] A Gradient Descent Misalignment — Causes Normalisation To Emerge                                | https://arxiv.org/pdf/2512.22247                                 |      31 | 2026-03-18 11:37:24 |
+| [P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)                       | https://github.com/ARahim3/mlx-tune                              |      45 | 2026-03-17 12:33:15 |
+| [R] A Gradient Descent Misalignment — Causes Normalisation To Emerge                                | https://arxiv.org/pdf/2512.22247                                 |      41 | 2026-03-18 11:37:24 |
