@@ -1,6 +1,3 @@
-| Title                                                                                               | URL                                                              |   Score | Date                |
-|:----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|--------:|:--------------------|
-| [P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo | https://github.com/NiftyliuS/cliptogrok                          |      58 | 2026-03-17 22:05:45 |
-|                                                                                                     | https://github.com/NiftyliuS/cliptogrok/blob/main/cliptogrok.pdf |         |                     |
-| [P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)                       | https://github.com/ARahim3/mlx-tune                              |      45 | 2026-03-17 12:33:15 |
-| [R] A Gradient Descent Misalignment — Causes Normalisation To Emerge                                | https://arxiv.org/pdf/2512.22247                                 |      41 | 2026-03-18 11:37:24 |
+| Title                                                                                                    | URL                              |   Score | Date                |
+|:---------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P] | https://arxiv.org/abs/2511.00477 |      36 | 2026-03-20 20:20:09 |
