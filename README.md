@@ -1,3 +1,3 @@
 | Title                                                                                                    | URL                              |   Score | Date                |
 |:---------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P] | https://arxiv.org/abs/2511.00477 |     102 | 2026-03-20 20:20:09 |
+| Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P] | https://arxiv.org/abs/2511.00477 |     104 | 2026-03-20 20:20:09 |
