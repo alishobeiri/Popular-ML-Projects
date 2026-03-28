@@ -1,3 +1,11 @@
-| Title                                                                                                    | URL                              |   Score | Date                |
-|:---------------------------------------------------------------------------------------------------------|:---------------------------------|--------:|:--------------------|
-| Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P] | https://arxiv.org/abs/2511.00477 |     112 | 2026-03-20 20:20:09 |
+| Title                                                                                                                 | URL                                                |   Score | Date                |
+|:----------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|--------:|:--------------------|
+| [D] We audited LoCoMo: 6.4% of the answer key is wrong and the judge accepts up to 63% of intentionally wrong answers | https://arxiv.org/abs/2407.15460)                  |      44 | 2026-03-27 13:38:50 |
+|                                                                                                                       | https://arxiv.org/abs/2602.10715)                  |         |                     |
+|                                                                                                                       | https://arxiv.org/abs/2510.27246                   |         |                     |
+|                                                                                                                       | https://arxiv.org/abs/2103.14749                   |         |                     |
+|                                                                                                                       | https://github.com/snap-research/locomo/issues/34  |         |                     |
+|                                                                                                                       | https://github.com/EverMind-AI/EverMemOS/issues/73 |         |                     |
+|                                                                                                                       | https://github.com/mem0ai/mem0/issues/3944         |         |                     |
+|                                                                                                                       | https://github.com/getzep/zep-papers/issues/5      |         |                     |
+|                                                                                                                       | https://github.com/dial481/locomo-audit            |         |                     |
