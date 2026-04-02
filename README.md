@@ -1,5 +1,6 @@
-| Title                                        | URL                              |   Score | Date                |
-|:---------------------------------------------|:---------------------------------|--------:|:--------------------|
-| [D]  TurboQuant author replies on OpenReview | https://arxiv.org/pdf/2307.13304 |      78 | 2026-03-31 20:11:22 |
-|                                              | https://arxiv.org/pdf/2404.00456 |         |                     |
-|                                              | https://arxiv.org/pdf/2306.11987 |         |                     |
+| Title                                                                                            | URL                                      |   Score | Date                |
+|:-------------------------------------------------------------------------------------------------|:-----------------------------------------|--------:|:--------------------|
+| [P] I replaced Dot-Product Attention with distance-based RBF-Attention (so you don't have to...) | https://github.com/4rtemi5/rbf_attention |     188 | 2026-04-01 06:14:30 |
+| [D]  TurboQuant author replies on OpenReview                                                     | https://arxiv.org/pdf/2307.13304         |     132 | 2026-03-31 20:11:22 |
+|                                                                                                  | https://arxiv.org/pdf/2404.00456         |         |                     |
+|                                                                                                  | https://arxiv.org/pdf/2306.11987         |         |                     |
