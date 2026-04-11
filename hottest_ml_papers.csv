@@ -1,3 +1,2 @@
 Title,URL,Score,Date
-[P] I replaced Dot-Product Attention with distance-based RBF-Attention (so you don't have to...),https://github.com/4rtemi5/rbf_attention,220,2026-04-01 06:14:30
-"[P] PhAIL (phail.ai) – an open benchmark for robot AI on real hardware. Best model: 5% of human throughput, needs help every 4 minutes.",https://github.com/Positronic-Robotics/positronic,31,2026-04-02 14:45:26
+[D] 60% MatMul Performance Bug in cuBLAS on RTX 5090 [D],https://github.com/cloudrift-ai/deplodock/blob/main/recipes/sgemm_cublas_vs_tma/rtx5090_2026-04-07_16-42-49/rtx5090x1_b4-8-16_grf-m-g-c-l_i20_s256-512-1024-2048-4096-8192_sadaptive_report_20260407_234311_adaptive.md,65,2026-04-10 17:51:10
