@@ -1,2 +1,2 @@
 Title,URL,Score,Date
-[D] 60% MatMul Performance Bug in cuBLAS on RTX 5090 [D],https://github.com/cloudrift-ai/deplodock/blob/main/recipes/sgemm_cublas_vs_tma/rtx5090_2026-04-07_16-42-49/rtx5090x1_b4-8-16_grf-m-g-c-l_i20_s256-512-1024-2048-4096-8192_sadaptive_report_20260407_234311_adaptive.md,65,2026-04-10 17:51:10
+[D] 60% MatMul Performance Bug in cuBLAS on RTX 5090 [D],https://github.com/cloudrift-ai/deplodock/blob/main/recipes/sgemm_cublas_vs_tma/rtx5090_2026-04-07_16-42-49/rtx5090x1_b4-8-16_grf-m-g-c-l_i20_s256-512-1024-2048-4096-8192_sadaptive_report_20260407_234311_adaptive.md,104,2026-04-10 17:51:10
