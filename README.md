@@ -1,4 +1,4 @@
 | Title                                                                        | URL                                 |   Score | Date                |
 |:-----------------------------------------------------------------------------|:------------------------------------|--------:|:--------------------|
-| "I don't know!": Teaching neural networks to abstain with the HALO-Loss. [R] | https://github.com/4rtemi5/halo     |      75 | 2026-04-14 05:45:50 |
-| You can decompose models into a graph database [N]                           | https://github.com/chrishayuk/larql |      48 | 2026-04-14 21:38:19 |
+| "I don't know!": Teaching neural networks to abstain with the HALO-Loss. [R] | https://github.com/4rtemi5/halo     |      79 | 2026-04-14 05:45:50 |
+| You can decompose models into a graph database [N]                           | https://github.com/chrishayuk/larql |      60 | 2026-04-14 21:38:19 |
