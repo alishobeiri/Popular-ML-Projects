@@ -1,3 +1,5 @@
-| Title                                              | URL                                 |   Score | Date                |
-|:---------------------------------------------------|:------------------------------------|--------:|:--------------------|
-| You can decompose models into a graph database [N] | https://github.com/chrishayuk/larql |      62 | 2026-04-14 21:38:19 |
+| Title                                                             | URL                                           |   Score | Date                |
+|:------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
+| Zero-shot World Models Are Developmentally Efficient Learners [R] | https://github.com/awwkl/ZWM                  |     151 | 2026-04-18 00:58:32 |
+| We’re proud to open-source LIDARLearn [R] [D] [P]                 | https://arxiv.org/abs/2604.10780              |      45 | 2026-04-18 10:36:59 |
+|                                                                   | https://github.com/said-ohamouddou/LIDARLearn |         |                     |
