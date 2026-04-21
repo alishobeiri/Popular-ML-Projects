@@ -1,5 +1,5 @@
 | Title                                                             | URL                                           |   Score | Date                |
 |:------------------------------------------------------------------|:----------------------------------------------|--------:|:--------------------|
-| Zero-shot World Models Are Developmentally Efficient Learners [R] | https://github.com/awwkl/ZWM                  |     183 | 2026-04-18 00:58:32 |
-| We’re proud to open-source LIDARLearn [R] [D] [P]                 | https://arxiv.org/abs/2604.10780              |      68 | 2026-04-18 10:36:59 |
+| Zero-shot World Models Are Developmentally Efficient Learners [R] | https://github.com/awwkl/ZWM                  |     191 | 2026-04-18 00:58:32 |
+| We’re proud to open-source LIDARLearn [R] [D] [P]                 | https://arxiv.org/abs/2604.10780              |      78 | 2026-04-18 10:36:59 |
 |                                                                   | https://github.com/said-ohamouddou/LIDARLearn |         |                     |
