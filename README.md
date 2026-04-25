@@ -1,4 +1,4 @@
 | Title                                                                                                                     | URL                                        |   Score | Date                |
 |:--------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| Bulding my own Diffusion Language Model from scratch was easier than I thought [P]                                        | https://github.com/Encrux/simple_dlm       |     121 | 2026-04-21 17:23:47 |
-| We benchmarked 18 LLMs on OCR (7k+ calls) — cheaper/old models oftentimes win. Full dataset + framework open-sourced. [R] | https://github.com/ArbitrHq/ocr-mini-bench |      45 | 2026-04-23 05:40:31 |
+| There Will Be a Scientific Theory of Deep Learning [R]                                                                    | https://arxiv.org/abs/2604.21691           |     110 | 2026-04-24 17:58:00 |
+| We benchmarked 18 LLMs on OCR (7k+ calls) — cheaper/old models oftentimes win. Full dataset + framework open-sourced. [R] | https://github.com/ArbitrHq/ocr-mini-bench |      59 | 2026-04-23 05:40:31 |
