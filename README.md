@@ -1,4 +1,3 @@
-| Title                                                                                                                     | URL                                        |   Score | Date                |
-|:--------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|--------:|:--------------------|
-| There Will Be a Scientific Theory of Deep Learning [R]                                                                    | https://arxiv.org/abs/2604.21691           |     203 | 2026-04-24 17:58:00 |
-| We benchmarked 18 LLMs on OCR (7k+ calls) — cheaper/old models oftentimes win. Full dataset + framework open-sourced. [R] | https://github.com/ArbitrHq/ocr-mini-bench |      56 | 2026-04-23 05:40:31 |
+| Title                                                  | URL                              |   Score | Date                |
+|:-------------------------------------------------------|:---------------------------------|--------:|:--------------------|
+| There Will Be a Scientific Theory of Deep Learning [R] | https://arxiv.org/abs/2604.21691 |     224 | 2026-04-24 17:58:00 |
