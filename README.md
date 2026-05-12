@@ -1,3 +1,4 @@
-| Title                                                 | URL                                                          |   Score | Date                |
-|:------------------------------------------------------|:-------------------------------------------------------------|--------:|:--------------------|
-| Formalizing statistical learning theory in Lean 4 [R] | https://github.com/Robby955/FormalSLT?utm_source=chatgpt.com |      29 | 2026-05-08 15:35:18 |
+| Title                                                                     | URL                               |   Score | Date                |
+|:--------------------------------------------------------------------------|:----------------------------------|--------:|:--------------------|
+| Signals: finding the most informative agent traces without LLM judges [R] | https://arxiv.org/abs/2604.00356  |      27 | 2026-05-10 17:26:03 |
+|                                                                           | https://github.com/katanemo/plano |         |                     |
